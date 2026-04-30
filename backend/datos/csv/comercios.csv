@@ -1,0 +1,501 @@
+id,nombre,categoria,tipo,horario_operacion,riesgo
+1,"Ray, Simon and Rivera Market",supermercado,online,"[('19:00:00', '23:00:00')]",True
+2,Merritt PLC Restaurant,restaurante,fisico,"[('12:00:00', '15:00:00'), ('20:00:00', '23:00:00')]",True
+3,Kim Ltd,entretenimiento,online,"[('00:00:00', '23:59:59')]",False
+4,Berger and Sons Farmacia,farmacia,fisico,"[('16:00:00', '23:00:00'), ('06:00:00', '14:00:00')]",False
+5,"Moreno, Smith and Adams",banco,online,"[('11:00:00', '23:00:00')]",False
+6,Cook-Durham,entretenimiento,online,"[('20:00:00', '23:00:00'), ('06:00:00', '18:00:00')]",False
+7,"Swanson, Beck and Jones Boutique",ropa,online,"[('16:00:00', '22:00:00')]",False
+8,Bailey-Parsons,entretenimiento,online,"[('00:00:00', '23:59:59')]",True
+9,Oconnor LLC Market,supermercado,fisico,"[('06:00:00', '22:00:00')]",False
+10,Barnes-Patel Boutique,ropa,online,"[('11:00:00', '23:00:00'), ('06:00:00', '08:00:00')]",False
+11,"Lawrence, Kline and Marks Farmacia",farmacia,online,"[('00:00:00', '23:59:59')]",True
+12,"Lewis, Jennings and Santiago",banco,fisico,"[('19:00:00', '21:00:00'), ('16:00:00', '18:00:00')]",False
+13,Duarte-Davis Tech,tecnologia,fisico,"[('20:00:00', '22:00:00'), ('16:00:00', '20:00:00')]",True
+14,Lindsey PLC,banco,fisico,"[('17:00:00', '19:00:00'), ('11:00:00', '15:00:00')]",False
+15,"Spencer, Martinez and Lopez Tech",tecnologia,online,"[('00:00:00', '23:59:59')]",False
+16,"Barker, Chambers and Lawson",banco,online,"[('00:00:00', '23:59:59')]",False
+17,"Cobb, Cisneros and Blackburn Market",supermercado,fisico,"[('08:00:00', '22:00:00')]",False
+18,Johnson LLC Market,supermercado,fisico,"[('20:00:00', '22:00:00')]",False
+19,"Kelley, Fletcher and Torres",banco,online,"[('00:00:00', '23:59:59')]",False
+20,"Green, Howell and Reed",entretenimiento,online,"[('00:00:00', '23:59:59')]",False
+21,Kelley-Hudson Restaurant,restaurante,online,"[('14:00:00', '22:00:00')]",False
+22,"Villa, Kelly and Martin Boutique",ropa,online,"[('00:00:00', '23:59:59')]",True
+23,Weber-Hunt Market,supermercado,online,"[('00:00:00', '23:59:59')]",True
+24,Smith PLC Market,supermercado,online,"[('00:00:00', '23:59:59')]",False
+25,Mata and Sons Tech,tecnologia,fisico,"[('17:00:00', '22:00:00'), ('09:00:00', '15:00:00')]",False
+26,"Mcpherson, Hunt and Vasquez Restaurant",restaurante,online,"[('00:00:00', '23:59:59')]",False
+27,"Rowe, Whitaker and Berg Market",supermercado,online,"[('16:00:00', '20:00:00'), ('11:00:00', '15:00:00')]",False
+28,"Chavez, Knapp and Johnson",entretenimiento,fisico,"[('14:00:00', '22:00:00'), ('07:00:00', '13:00:00')]",False
+29,Hughes PLC Boutique,ropa,fisico,"[('14:00:00', '16:00:00')]",False
+30,"Jackson, Bishop and Nelson Market",supermercado,fisico,"[('06:00:00', '08:00:00')]",False
+31,Gonzalez Ltd Boutique,ropa,fisico,"[('08:00:00', '21:00:00')]",True
+32,Sims PLC,banco,fisico,"[('17:00:00', '23:00:00')]",False
+33,Soto-Taylor Farmacia,farmacia,online,"[('00:00:00', '23:59:59')]",True
+34,Davis-Macias Restaurant,restaurante,fisico,"[('08:00:00', '13:00:00')]",False
+35,"Thompson, Hicks and Johnson Boutique",ropa,fisico,"[('12:00:00', '19:00:00'), ('19:00:00', '21:00:00')]",False
+36,Lawson Inc Restaurant,restaurante,online,"[('00:00:00', '23:59:59')]",False
+37,"Burton, Harrington and Gardner",entretenimiento,fisico,"[('08:00:00', '19:00:00')]",False
+38,"Hanson, Jenkins and Dorsey Farmacia",farmacia,online,"[('00:00:00', '23:59:59')]",False
+39,Baker LLC,entretenimiento,fisico,"[('07:00:00', '21:00:00')]",False
+40,"Nichols, Farley and Wallace",banco,online,"[('00:00:00', '23:59:59')]",False
+41,Mullins Group Restaurant,restaurante,fisico,"[('12:00:00', '21:00:00'), ('07:00:00', '09:00:00')]",False
+42,Davis Inc Farmacia,farmacia,online,"[('00:00:00', '23:59:59')]",False
+43,Walker-Cole Tech,tecnologia,fisico,"[('14:00:00', '17:00:00')]",False
+44,"Scott, Chapman and Patterson",entretenimiento,fisico,"[('11:00:00', '23:00:00')]",False
+45,"Williams, Jordan and Green Farmacia",farmacia,online,"[('00:00:00', '23:59:59')]",True
+46,Turner-Elliott Market,supermercado,fisico,"[('13:00:00', '23:00:00')]",False
+47,Baker LLC Restaurant,restaurante,fisico,"[('07:00:00', '09:00:00'), ('18:00:00', '23:00:00')]",False
+48,Friedman-Vazquez Market,supermercado,fisico,"[('12:00:00', '16:00:00')]",False
+49,Price LLC Market,supermercado,fisico,"[('07:00:00', '10:00:00'), ('11:00:00', '15:00:00')]",False
+50,Munoz-Williams Restaurant,restaurante,online,"[('17:00:00', '20:00:00')]",False
+51,Hernandez-Rodriguez Tech,tecnologia,fisico,"[('19:00:00', '21:00:00')]",False
+52,Gutierrez Inc Restaurant,restaurante,fisico,"[('07:00:00', '16:00:00')]",False
+53,Tran-Butler Boutique,ropa,online,"[('00:00:00', '23:59:59')]",False
+54,"Figueroa, Carr and Mclean Market",supermercado,online,"[('00:00:00', '23:59:59')]",False
+55,"Young, Briggs and Mclean Farmacia",farmacia,fisico,"[('08:00:00', '20:00:00'), ('20:00:00', '23:00:00')]",False
+56,Martinez Inc Farmacia,farmacia,fisico,"[('14:00:00', '23:00:00'), ('11:00:00', '14:00:00')]",False
+57,Lee-Underwood Restaurant,restaurante,fisico,"[('09:00:00', '12:00:00'), ('12:00:00', '17:00:00')]",False
+58,Anderson-Smith,entretenimiento,fisico,"[('09:00:00', '12:00:00'), ('14:00:00', '16:00:00')]",False
+59,"Ayala, Baird and Sheppard Boutique",ropa,fisico,"[('18:00:00', '20:00:00')]",False
+60,Gray Group Boutique,ropa,online,"[('06:00:00', '09:00:00')]",False
+61,"James, Bell and Rios Boutique",ropa,online,"[('00:00:00', '23:59:59')]",False
+62,"Estrada, James and Williams Restaurant",restaurante,online,"[('00:00:00', '23:59:59')]",False
+63,"Johnson, Caldwell and Anderson Tech",tecnologia,online,"[('00:00:00', '23:59:59')]",True
+64,Howell PLC,banco,online,"[('00:00:00', '23:59:59')]",True
+65,"Moore, Hernandez and Owens",banco,online,"[('13:00:00', '22:00:00'), ('09:00:00', '11:00:00')]",False
+66,Acosta and Sons Boutique,ropa,fisico,"[('12:00:00', '17:00:00')]",False
+67,Owens LLC,banco,fisico,"[('19:00:00', '23:00:00'), ('12:00:00', '18:00:00')]",False
+68,"Smith, Vaughn and Diaz",banco,online,"[('19:00:00', '22:00:00'), ('12:00:00', '16:00:00')]",True
+69,Stafford-Ford,entretenimiento,online,"[('00:00:00', '23:59:59')]",True
+70,Bell-Thompson,entretenimiento,online,"[('10:00:00', '16:00:00')]",True
+71,Clarke-Hunt,banco,fisico,"[('20:00:00', '23:00:00')]",False
+72,Williams-Gutierrez Tech,tecnologia,fisico,"[('11:00:00', '15:00:00')]",True
+73,Johnson-Williams Market,supermercado,online,"[('11:00:00', '16:00:00'), ('16:00:00', '23:00:00')]",True
+74,Johnson-Cain Farmacia,farmacia,fisico,"[('20:00:00', '23:00:00'), ('06:00:00', '18:00:00')]",False
+75,"Banks, Beck and Carlson Restaurant",restaurante,online,"[('00:00:00', '23:59:59')]",True
+76,Delgado Ltd Market,supermercado,fisico,"[('17:00:00', '19:00:00')]",False
+77,Bates-Hernandez Restaurant,restaurante,online,"[('00:00:00', '23:59:59')]",False
+78,"Evans, Wright and Hendricks Restaurant",restaurante,fisico,"[('15:00:00', '19:00:00')]",True
+79,Nelson-Whitaker Tech,tecnologia,online,"[('14:00:00', '17:00:00')]",True
+80,"Bailey, Bryant and Jones",entretenimiento,fisico,"[('07:00:00', '16:00:00'), ('16:00:00', '22:00:00')]",False
+81,Martinez-Ward Market,supermercado,online,"[('00:00:00', '23:59:59')]",False
+82,Hoover-Miller,entretenimiento,fisico,"[('13:00:00', '22:00:00')]",False
+83,"Green, Brown and Hernandez Boutique",ropa,online,"[('00:00:00', '23:59:59')]",False
+84,Gibbs-Harris Market,supermercado,fisico,"[('06:00:00', '09:00:00')]",True
+85,Ewing and Sons Restaurant,restaurante,online,"[('09:00:00', '18:00:00'), ('19:00:00', '23:00:00')]",False
+86,Perry LLC Restaurant,restaurante,online,"[('09:00:00', '18:00:00')]",False
+87,Lindsey Ltd Boutique,ropa,online,"[('00:00:00', '23:59:59')]",False
+88,Skinner-Chan Restaurant,restaurante,online,"[('00:00:00', '23:59:59')]",True
+89,Sanders-Sanders Boutique,ropa,fisico,"[('17:00:00', '23:00:00'), ('10:00:00', '15:00:00')]",False
+90,Gutierrez Inc Market,supermercado,fisico,"[('17:00:00', '23:00:00'), ('14:00:00', '17:00:00')]",False
+91,"Lopez, Williamson and Hughes",entretenimiento,online,"[('09:00:00', '17:00:00'), ('17:00:00', '21:00:00')]",False
+92,"Collins, Sanders and Hood Farmacia",farmacia,online,"[('19:00:00', '22:00:00')]",False
+93,Smith-Jenkins Restaurant,restaurante,fisico,"[('10:00:00', '14:00:00')]",True
+94,"Yang, Hall and Potts Tech",tecnologia,online,"[('00:00:00', '23:59:59')]",True
+95,Ryan-Johnson Farmacia,farmacia,online,"[('14:00:00', '23:00:00'), ('06:00:00', '12:00:00')]",False
+96,Fields PLC Restaurant,restaurante,online,"[('00:00:00', '23:59:59')]",False
+97,Odom-Kelly Restaurant,restaurante,fisico,"[('19:00:00', '21:00:00'), ('13:00:00', '16:00:00')]",False
+98,Jackson and Sons Farmacia,farmacia,online,"[('09:00:00', '19:00:00')]",False
+99,Orozco-Hill Boutique,ropa,online,"[('00:00:00', '23:59:59')]",False
+100,Marshall LLC,entretenimiento,online,"[('00:00:00', '23:59:59')]",True
+101,Hardin Group Market,supermercado,fisico,"[('13:00:00', '16:00:00'), ('06:00:00', '08:00:00')]",False
+102,"Owen, Summers and Johnson Farmacia",farmacia,fisico,"[('14:00:00', '21:00:00')]",False
+103,Jones-Torres,banco,online,"[('00:00:00', '23:59:59')]",True
+104,"Gibson, Alvarez and Clark",entretenimiento,online,"[('12:00:00', '19:00:00'), ('08:00:00', '12:00:00')]",False
+105,"Dillon, Garcia and Smith Restaurant",restaurante,fisico,"[('07:00:00', '11:00:00')]",False
+106,George Group Boutique,ropa,fisico,"[('20:00:00', '22:00:00')]",True
+107,Meyer Group Boutique,ropa,fisico,"[('09:00:00', '20:00:00'), ('20:00:00', '23:00:00')]",False
+108,Robbins-Contreras,banco,online,"[('00:00:00', '23:59:59')]",False
+109,Davis-Munoz Market,supermercado,fisico,"[('12:00:00', '20:00:00'), ('20:00:00', '23:00:00')]",False
+110,"Brown, Olsen and Cabrera Tech",tecnologia,online,"[('07:00:00', '17:00:00'), ('19:00:00', '23:00:00')]",False
+111,Hunt-Johnson Market,supermercado,fisico,"[('08:00:00', '22:00:00')]",False
+112,Vazquez LLC Farmacia,farmacia,fisico,"[('08:00:00', '22:00:00')]",False
+113,"Phillips, Morales and Dickerson",banco,fisico,"[('14:00:00', '17:00:00'), ('19:00:00', '22:00:00')]",False
+114,"Jones, Smith and House",entretenimiento,online,"[('00:00:00', '23:59:59')]",False
+115,Stein-Rodriguez Restaurant,restaurante,online,"[('00:00:00', '23:59:59')]",False
+116,May PLC,banco,fisico,"[('18:00:00', '23:00:00'), ('09:00:00', '18:00:00')]",True
+117,Morris and Sons Tech,tecnologia,online,"[('00:00:00', '23:59:59')]",True
+118,Davis and Sons Farmacia,farmacia,online,"[('00:00:00', '23:59:59')]",False
+119,Clayton-Richmond Boutique,ropa,online,"[('00:00:00', '23:59:59')]",True
+120,Moody-Trujillo Farmacia,farmacia,fisico,"[('15:00:00', '19:00:00')]",True
+121,Henry Inc,entretenimiento,fisico,"[('08:00:00', '17:00:00'), ('18:00:00', '23:00:00')]",False
+122,Garcia LLC Farmacia,farmacia,online,"[('18:00:00', '22:00:00')]",False
+123,"Foley, Boyer and Medina Restaurant",restaurante,fisico,"[('16:00:00', '19:00:00')]",False
+124,Anderson Group Boutique,ropa,fisico,"[('06:00:00', '12:00:00')]",False
+125,Clements-Nelson Boutique,ropa,fisico,"[('07:00:00', '17:00:00'), ('17:00:00', '21:00:00')]",False
+126,"Jackson, Harris and Ryan",banco,fisico,"[('20:00:00', '22:00:00')]",False
+127,Lucas Group,banco,online,"[('00:00:00', '23:59:59')]",False
+128,King-Blackwell Restaurant,restaurante,online,"[('09:00:00', '11:00:00'), ('18:00:00', '23:00:00')]",True
+129,"Walker, Cox and Lynch Tech",tecnologia,online,"[('00:00:00', '23:59:59')]",False
+130,Knight Group,banco,online,"[('00:00:00', '23:59:59')]",True
+131,"Scott, Atkinson and Brown Tech",tecnologia,online,"[('00:00:00', '23:59:59')]",True
+132,Bennett Ltd Tech,tecnologia,fisico,"[('16:00:00', '21:00:00'), ('07:00:00', '11:00:00')]",False
+133,Farrell-Brewer,entretenimiento,online,"[('00:00:00', '23:59:59')]",True
+134,"Miller, Roberts and Mcfarland Market",supermercado,fisico,"[('15:00:00', '22:00:00'), ('10:00:00', '13:00:00')]",False
+135,Santos Ltd Boutique,ropa,online,"[('15:00:00', '19:00:00')]",False
+136,"Davis, Barrett and Horn",entretenimiento,online,"[('00:00:00', '23:59:59')]",False
+137,Olson and Sons Tech,tecnologia,fisico,"[('14:00:00', '22:00:00')]",False
+138,Alexander and Sons Restaurant,restaurante,fisico,"[('06:00:00', '23:00:00')]",True
+139,"Mckenzie, Wells and Mendoza",entretenimiento,fisico,"[('19:00:00', '23:00:00'), ('08:00:00', '15:00:00')]",False
+140,Joseph-Sims Boutique,ropa,fisico,"[('12:00:00', '18:00:00'), ('20:00:00', '22:00:00')]",False
+141,Simmons-Benitez Farmacia,farmacia,online,"[('18:00:00', '22:00:00')]",True
+142,Brown-Kennedy,banco,online,"[('00:00:00', '23:59:59')]",False
+143,"Fernandez, Strickland and Aguilar Market",supermercado,fisico,"[('09:00:00', '12:00:00')]",False
+144,"Mendoza, Lewis and Peterson Tech",tecnologia,online,"[('18:00:00', '20:00:00'), ('20:00:00', '23:00:00')]",False
+145,"Gordon, Mcdaniel and Davis",entretenimiento,online,"[('16:00:00', '19:00:00')]",False
+146,"Gibbs, Romero and Moran Tech",tecnologia,fisico,"[('14:00:00', '16:00:00'), ('17:00:00', '20:00:00')]",True
+147,"Love, Woods and Schwartz Farmacia",farmacia,fisico,"[('06:00:00', '14:00:00')]",False
+148,"Lewis, Woodard and Clarke Boutique",ropa,fisico,"[('19:00:00', '21:00:00')]",False
+149,Mills Group Farmacia,farmacia,fisico,"[('15:00:00', '20:00:00')]",True
+150,Johnson Inc Restaurant,restaurante,fisico,"[('06:00:00', '17:00:00'), ('17:00:00', '21:00:00')]",False
+151,George-Henson,entretenimiento,fisico,"[('20:00:00', '23:00:00'), ('09:00:00', '11:00:00')]",False
+152,Kelly Inc Boutique,ropa,fisico,"[('18:00:00', '20:00:00')]",False
+153,"Jones, Turner and Miller",banco,online,"[('18:00:00', '23:00:00'), ('06:00:00', '11:00:00')]",False
+154,"Aguilar, Schneider and Barry",banco,fisico,"[('16:00:00', '20:00:00')]",False
+155,Green-Salazar,entretenimiento,online,"[('00:00:00', '23:59:59')]",True
+156,Montgomery-Hernandez Farmacia,farmacia,online,"[('00:00:00', '23:59:59')]",True
+157,Dunlap Ltd Boutique,ropa,online,"[('08:00:00', '18:00:00'), ('20:00:00', '23:00:00')]",False
+158,Tran-Daniels Boutique,ropa,online,"[('00:00:00', '23:59:59')]",False
+159,"Hobbs, Vaughn and Gray",entretenimiento,online,"[('00:00:00', '23:59:59')]",False
+160,Potter-Lawson,entretenimiento,fisico,"[('15:00:00', '22:00:00')]",False
+161,"Perkins, Murphy and Garrett Boutique",ropa,online,"[('00:00:00', '23:59:59')]",False
+162,"Walters, Reyes and Bell Restaurant",restaurante,online,"[('00:00:00', '23:59:59')]",False
+163,Dyer Inc,entretenimiento,online,"[('00:00:00', '23:59:59')]",False
+164,Bishop-Matthews,banco,online,"[('00:00:00', '23:59:59')]",True
+165,Duffy-Warren Market,supermercado,online,"[('18:00:00', '23:00:00')]",True
+166,Stafford Inc Restaurant,restaurante,fisico,"[('19:00:00', '22:00:00')]",False
+167,Carter Ltd,banco,online,"[('08:00:00', '18:00:00')]",False
+168,Martinez-Robinson,banco,online,"[('00:00:00', '23:59:59')]",True
+169,Walters-Newman,entretenimiento,online,"[('00:00:00', '23:59:59')]",False
+170,Rogers-Fox,entretenimiento,online,"[('00:00:00', '23:59:59')]",False
+171,Mcdonald-Gilmore Restaurant,restaurante,fisico,"[('07:00:00', '13:00:00'), ('19:00:00', '22:00:00')]",False
+172,"Osborne, Li and Peters Boutique",ropa,fisico,"[('20:00:00', '23:00:00')]",False
+173,Scott Group Tech,tecnologia,fisico,"[('16:00:00', '19:00:00'), ('07:00:00', '14:00:00')]",False
+174,Valenzuela Ltd,entretenimiento,online,"[('00:00:00', '23:59:59')]",False
+175,West Inc Farmacia,farmacia,online,"[('00:00:00', '23:59:59')]",False
+176,"Murray, Scott and Lopez",banco,online,"[('00:00:00', '23:59:59')]",False
+177,"Larson, Lee and Cole Farmacia",farmacia,fisico,"[('18:00:00', '20:00:00')]",False
+178,"Campbell, Guzman and Goodman Market",supermercado,online,"[('15:00:00', '23:00:00'), ('08:00:00', '11:00:00')]",False
+179,Reyes-Leonard,banco,online,"[('00:00:00', '23:59:59')]",False
+180,Jones-Miller,entretenimiento,fisico,"[('16:00:00', '18:00:00')]",True
+181,"Liu, Rose and Holt Tech",tecnologia,fisico,"[('06:00:00', '15:00:00')]",False
+182,Huynh Group,banco,online,"[('00:00:00', '23:59:59')]",False
+183,Jensen Group Market,supermercado,online,"[('00:00:00', '23:59:59')]",False
+184,Mitchell-Mccarthy Farmacia,farmacia,fisico,"[('20:00:00', '23:00:00'), ('12:00:00', '18:00:00')]",False
+185,Mooney-Armstrong Tech,tecnologia,fisico,"[('08:00:00', '10:00:00'), ('12:00:00', '17:00:00')]",True
+186,Green-Frazier Farmacia,farmacia,fisico,"[('08:00:00', '21:00:00')]",False
+187,"Hernandez, Cook and Reese Market",supermercado,fisico,"[('19:00:00', '21:00:00')]",False
+188,Holland Inc,entretenimiento,online,"[('00:00:00', '23:59:59')]",True
+189,Acevedo-Solomon Market,supermercado,fisico,"[('13:00:00', '17:00:00')]",False
+190,"Snyder, Scott and Taylor Restaurant",restaurante,fisico,"[('12:00:00', '18:00:00'), ('20:00:00', '23:00:00')]",False
+191,Thompson-Scott,entretenimiento,online,"[('00:00:00', '23:59:59')]",False
+192,"Patel, Cox and Singh",banco,fisico,"[('09:00:00', '18:00:00')]",False
+193,Ware LLC Restaurant,restaurante,fisico,"[('19:00:00', '22:00:00')]",False
+194,Melton LLC,entretenimiento,fisico,"[('20:00:00', '23:00:00')]",False
+195,"Cruz, Vincent and Smith Tech",tecnologia,fisico,"[('13:00:00', '20:00:00'), ('11:00:00', '13:00:00')]",False
+196,Holmes Inc,entretenimiento,online,"[('14:00:00', '16:00:00')]",False
+197,"Wright, Bray and Smith Farmacia",farmacia,fisico,"[('13:00:00', '19:00:00')]",True
+198,Johnson-Mckay,entretenimiento,fisico,"[('16:00:00', '18:00:00')]",False
+199,"Kelly, Norman and Kelly",entretenimiento,fisico,"[('15:00:00', '21:00:00')]",False
+200,Irwin-Griffith Farmacia,farmacia,fisico,"[('06:00:00', '23:00:00')]",False
+201,Suarez PLC Restaurant,restaurante,fisico,"[('10:00:00', '22:00:00')]",False
+202,"Rivera, Hernandez and Jones Boutique",ropa,online,"[('00:00:00', '23:59:59')]",False
+203,Holland-Velasquez,entretenimiento,online,"[('00:00:00', '23:59:59')]",True
+204,"Hughes, Roth and Collins Restaurant",restaurante,fisico,"[('18:00:00', '21:00:00')]",False
+205,Spence and Sons Restaurant,restaurante,online,"[('00:00:00', '23:59:59')]",False
+206,Fitzgerald Inc,banco,fisico,"[('20:00:00', '22:00:00')]",False
+207,Jones-Alvarado,entretenimiento,fisico,"[('20:00:00', '22:00:00'), ('12:00:00', '17:00:00')]",False
+208,Griffith-Wilson Restaurant,restaurante,online,"[('17:00:00', '21:00:00')]",False
+209,"Barron, Montoya and Adkins",banco,fisico,"[('14:00:00', '19:00:00'), ('19:00:00', '22:00:00')]",False
+210,Ramirez-Miller,entretenimiento,online,"[('20:00:00', '23:00:00'), ('10:00:00', '12:00:00')]",False
+211,"Ramos, Pope and Davis Market",supermercado,online,"[('00:00:00', '23:59:59')]",False
+212,"Watkins, Watson and Green",entretenimiento,fisico,"[('06:00:00', '11:00:00'), ('18:00:00', '21:00:00')]",False
+213,"West, Nelson and Harrison Farmacia",farmacia,online,"[('00:00:00', '23:59:59')]",False
+214,Estrada and Sons Boutique,ropa,fisico,"[('15:00:00', '23:00:00')]",False
+215,Flores Inc Restaurant,restaurante,fisico,"[('15:00:00', '21:00:00')]",False
+216,"Perez, Welch and Deleon Restaurant",restaurante,online,"[('00:00:00', '23:59:59')]",False
+217,"Smith, Cox and Morrow Boutique",ropa,fisico,"[('15:00:00', '21:00:00')]",False
+218,"Lara, Cole and Anderson",entretenimiento,fisico,"[('16:00:00', '20:00:00')]",False
+219,Roberts and Sons Tech,tecnologia,online,"[('00:00:00', '23:59:59')]",False
+220,Buckley-Parks,entretenimiento,fisico,"[('09:00:00', '22:00:00'), ('06:00:00', '08:00:00')]",False
+221,Maldonado Inc Tech,tecnologia,fisico,"[('14:00:00', '21:00:00')]",True
+222,Gilbert Ltd Farmacia,farmacia,online,"[('00:00:00', '23:59:59')]",True
+223,Vega Ltd Restaurant,restaurante,online,"[('00:00:00', '23:59:59')]",False
+224,"Alvarez, Guerrero and Smith",banco,online,"[('00:00:00', '23:59:59')]",False
+225,Thornton-Richard Restaurant,restaurante,online,"[('00:00:00', '23:59:59')]",False
+226,"Jones, Walker and Mcmahon Market",supermercado,fisico,"[('19:00:00', '23:00:00')]",False
+227,Gomez Ltd Restaurant,restaurante,online,"[('00:00:00', '23:59:59')]",False
+228,"Hernandez, Rogers and Lindsey Farmacia",farmacia,online,"[('09:00:00', '12:00:00'), ('14:00:00', '20:00:00')]",False
+229,"Juarez, Frazier and Smith Tech",tecnologia,fisico,"[('08:00:00', '17:00:00'), ('17:00:00', '22:00:00')]",True
+230,Nicholson-Duke Boutique,ropa,fisico,"[('18:00:00', '20:00:00'), ('08:00:00', '12:00:00')]",False
+231,"Romero, Owens and Wright Farmacia",farmacia,online,"[('12:00:00', '14:00:00')]",False
+232,"Johnson, Fitzpatrick and Camacho Market",supermercado,online,"[('00:00:00', '23:59:59')]",False
+233,Edwards-Lawrence,entretenimiento,online,"[('12:00:00', '20:00:00')]",False
+234,Hudson Inc Boutique,ropa,online,"[('00:00:00', '23:59:59')]",True
+235,Franklin-Hanson,entretenimiento,fisico,"[('07:00:00', '21:00:00')]",False
+236,"Garcia, Bell and Martinez Farmacia",farmacia,online,"[('20:00:00', '23:00:00')]",False
+237,Roy and Sons Farmacia,farmacia,online,"[('00:00:00', '23:59:59')]",False
+238,Harris PLC,banco,online,"[('00:00:00', '23:59:59')]",False
+239,Francis-Maxwell Boutique,ropa,fisico,"[('16:00:00', '19:00:00')]",False
+240,Skinner Inc Tech,tecnologia,fisico,"[('19:00:00', '21:00:00'), ('16:00:00', '19:00:00')]",True
+241,"Harris, Shaw and Owen Tech",tecnologia,online,"[('20:00:00', '23:00:00')]",False
+242,Baxter-Alvarado Farmacia,farmacia,fisico,"[('10:00:00', '21:00:00')]",False
+243,Webb-Craig Boutique,ropa,fisico,"[('09:00:00', '15:00:00')]",False
+244,Smith PLC Restaurant,restaurante,online,"[('00:00:00', '23:59:59')]",False
+245,Mcclain-Kim Market,supermercado,online,"[('00:00:00', '23:59:59')]",False
+246,Smith-Love,entretenimiento,online,"[('00:00:00', '23:59:59')]",False
+247,"Sherman, Hernandez and Lambert",banco,online,"[('00:00:00', '23:59:59')]",False
+248,"Riggs, Kennedy and Mata Boutique",ropa,online,"[('00:00:00', '23:59:59')]",False
+249,"Richardson, Tucker and Nichols Tech",tecnologia,online,"[('10:00:00', '19:00:00')]",True
+250,"Rojas, Pope and Williams Boutique",ropa,fisico,"[('06:00:00', '09:00:00')]",False
+251,"Moore, Williams and Pitts",entretenimiento,online,"[('00:00:00', '23:59:59')]",False
+252,Flores-Fisher Farmacia,farmacia,online,"[('14:00:00', '21:00:00'), ('09:00:00', '11:00:00')]",False
+253,Krause-Perez Farmacia,farmacia,fisico,"[('08:00:00', '22:00:00')]",False
+254,Jones-Jefferson Restaurant,restaurante,fisico,"[('14:00:00', '23:00:00')]",False
+255,Simmons-Wilson Farmacia,farmacia,fisico,"[('07:00:00', '20:00:00')]",False
+256,Russell PLC Tech,tecnologia,fisico,"[('20:00:00', '22:00:00'), ('12:00:00', '15:00:00')]",False
+257,Esparza Ltd Restaurant,restaurante,online,"[('00:00:00', '23:59:59')]",False
+258,Lewis-Moody Market,supermercado,fisico,"[('09:00:00', '23:00:00')]",False
+259,Williams-Logan Restaurant,restaurante,online,"[('00:00:00', '23:59:59')]",False
+260,Johnson Ltd Market,supermercado,online,"[('00:00:00', '23:59:59')]",True
+261,Werner Ltd,banco,online,"[('00:00:00', '23:59:59')]",False
+262,"Lucas, Mcclure and Howell",banco,online,"[('06:00:00', '17:00:00'), ('18:00:00', '21:00:00')]",True
+263,Holland Group Boutique,ropa,online,"[('06:00:00', '22:00:00')]",False
+264,"King, Parsons and Bradley Boutique",ropa,fisico,"[('17:00:00', '22:00:00'), ('08:00:00', '15:00:00')]",False
+265,Ayala PLC Boutique,ropa,fisico,"[('09:00:00', '15:00:00'), ('20:00:00', '23:00:00')]",False
+266,Kennedy-Wright,entretenimiento,online,"[('00:00:00', '23:59:59')]",True
+267,"Taylor, Cobb and Romero Farmacia",farmacia,fisico,"[('08:00:00', '22:00:00')]",False
+268,"Lewis, Anderson and Zimmerman Boutique",ropa,fisico,"[('06:00:00', '20:00:00'), ('20:00:00', '22:00:00')]",False
+269,Walsh-Jordan,entretenimiento,fisico,"[('10:00:00', '16:00:00'), ('20:00:00', '23:00:00')]",False
+270,"Cruz, Smith and Wilson",banco,fisico,"[('12:00:00', '22:00:00'), ('07:00:00', '12:00:00')]",False
+271,"Rivera, Lee and Silva Boutique",ropa,fisico,"[('06:00:00', '19:00:00')]",False
+272,Johnson-Knapp Tech,tecnologia,online,"[('00:00:00', '23:59:59')]",False
+273,Evans and Sons Boutique,ropa,fisico,"[('12:00:00', '14:00:00')]",False
+274,Barry-Lang,banco,fisico,"[('09:00:00', '20:00:00'), ('20:00:00', '23:00:00')]",False
+275,Gallegos-Barrera Restaurant,restaurante,online,"[('00:00:00', '23:59:59')]",False
+276,Hubbard-Conner,entretenimiento,online,"[('00:00:00', '23:59:59')]",False
+277,Schmidt-Smith Market,supermercado,fisico,"[('09:00:00', '13:00:00'), ('18:00:00', '23:00:00')]",False
+278,Oliver Group Market,supermercado,online,"[('00:00:00', '23:59:59')]",False
+279,Torres-Armstrong,entretenimiento,online,"[('00:00:00', '23:59:59')]",True
+280,Webb-Davis,banco,fisico,"[('10:00:00', '23:00:00')]",False
+281,Ray LLC Restaurant,restaurante,fisico,"[('11:00:00', '23:00:00')]",False
+282,West-Thomas Farmacia,farmacia,fisico,"[('17:00:00', '23:00:00')]",False
+283,Rodriguez-Wilkins,banco,fisico,"[('13:00:00', '22:00:00'), ('06:00:00', '11:00:00')]",False
+284,Mathis and Sons,banco,online,"[('08:00:00', '10:00:00'), ('18:00:00', '23:00:00')]",False
+285,"Barton, Davidson and Turner Market",supermercado,online,"[('00:00:00', '23:59:59')]",False
+286,Evans-Singh,entretenimiento,online,"[('12:00:00', '23:00:00')]",False
+287,"Anderson, Gallagher and Brown Market",supermercado,fisico,"[('10:00:00', '12:00:00'), ('20:00:00', '22:00:00')]",False
+288,Jones-Ruiz Boutique,ropa,online,"[('00:00:00', '23:59:59')]",False
+289,Sherman and Sons Market,supermercado,fisico,"[('09:00:00', '13:00:00')]",False
+290,"Edwards, Bailey and Levine Restaurant",restaurante,online,"[('00:00:00', '23:59:59')]",False
+291,Dean Group,entretenimiento,fisico,"[('15:00:00', '21:00:00')]",False
+292,Clarke Ltd Restaurant,restaurante,fisico,"[('10:00:00', '23:00:00')]",False
+293,Davis LLC,entretenimiento,fisico,"[('13:00:00', '23:00:00'), ('09:00:00', '11:00:00')]",False
+294,Gray-Cook,entretenimiento,online,"[('00:00:00', '23:59:59')]",True
+295,Robinson and Sons,entretenimiento,fisico,"[('09:00:00', '17:00:00'), ('19:00:00', '22:00:00')]",False
+296,Church Inc Restaurant,restaurante,online,"[('15:00:00', '22:00:00'), ('07:00:00', '10:00:00')]",False
+297,Morrison-Howard Market,supermercado,fisico,"[('11:00:00', '17:00:00'), ('18:00:00', '20:00:00')]",False
+298,Forbes-Bates Restaurant,restaurante,fisico,"[('07:00:00', '19:00:00')]",False
+299,"Martinez, Murillo and Perez",banco,fisico,"[('08:00:00', '10:00:00'), ('19:00:00', '22:00:00')]",False
+300,Johnson Inc Market,supermercado,online,"[('00:00:00', '23:59:59')]",False
+301,Morris-Hamilton,entretenimiento,fisico,"[('17:00:00', '22:00:00')]",True
+302,Jones Inc Restaurant,restaurante,fisico,"[('14:00:00', '18:00:00'), ('18:00:00', '23:00:00')]",False
+303,Carson and Sons Market,supermercado,online,"[('00:00:00', '23:59:59')]",False
+304,"Mcmahon, Anderson and Morrison",entretenimiento,online,"[('06:00:00', '09:00:00'), ('12:00:00', '16:00:00')]",False
+305,Carlson-Nelson Boutique,ropa,fisico,"[('18:00:00', '20:00:00'), ('13:00:00', '18:00:00')]",False
+306,Lawrence Ltd,entretenimiento,fisico,"[('19:00:00', '22:00:00'), ('08:00:00', '10:00:00')]",False
+307,Fleming-Allen,entretenimiento,fisico,"[('09:00:00', '13:00:00'), ('13:00:00', '16:00:00')]",False
+308,Pitts LLC,banco,online,"[('09:00:00', '17:00:00')]",False
+309,"Smith, Figueroa and Brown",entretenimiento,online,"[('00:00:00', '23:59:59')]",True
+310,Franco-Butler,entretenimiento,fisico,"[('19:00:00', '21:00:00'), ('07:00:00', '11:00:00')]",False
+311,"Shelton, Garcia and Monroe Boutique",ropa,online,"[('00:00:00', '23:59:59')]",True
+312,Thompson and Sons,entretenimiento,fisico,"[('11:00:00', '13:00:00')]",False
+313,Sullivan and Sons,banco,fisico,"[('14:00:00', '23:00:00'), ('06:00:00', '08:00:00')]",False
+314,Newman LLC Boutique,ropa,fisico,"[('07:00:00', '15:00:00')]",False
+315,"Carlson, Pena and Johnston Tech",tecnologia,online,"[('00:00:00', '23:59:59')]",True
+316,"Hogan, Elliott and Hurst Tech",tecnologia,fisico,"[('08:00:00', '13:00:00')]",False
+317,Collins-Hall Market,supermercado,online,"[('00:00:00', '23:59:59')]",False
+318,Mills Ltd,entretenimiento,fisico,"[('06:00:00', '10:00:00'), ('19:00:00', '23:00:00')]",False
+319,Colon and Sons Market,supermercado,fisico,"[('09:00:00', '19:00:00')]",True
+320,Smith-Scott Market,supermercado,fisico,"[('17:00:00', '19:00:00'), ('14:00:00', '17:00:00')]",False
+321,Mclaughlin LLC Market,supermercado,fisico,"[('19:00:00', '22:00:00')]",False
+322,Blair and Sons,entretenimiento,online,"[('11:00:00', '20:00:00')]",False
+323,"Reyes, Wood and Frost Tech",tecnologia,fisico,"[('17:00:00', '20:00:00')]",False
+324,Welch Group Market,supermercado,online,"[('08:00:00', '10:00:00'), ('14:00:00', '20:00:00')]",False
+325,Gonzales Ltd,banco,online,"[('00:00:00', '23:59:59')]",False
+326,"Smith, Scott and Howard",banco,online,"[('00:00:00', '23:59:59')]",False
+327,"Wise, Green and Meza Market",supermercado,online,"[('00:00:00', '23:59:59')]",False
+328,Thomas LLC Boutique,ropa,online,"[('00:00:00', '23:59:59')]",False
+329,"Bradley, Graham and Powell",entretenimiento,online,"[('17:00:00', '22:00:00')]",True
+330,Solis PLC,entretenimiento,fisico,"[('11:00:00', '20:00:00'), ('06:00:00', '11:00:00')]",False
+331,Henry Group Boutique,ropa,fisico,"[('20:00:00', '23:00:00'), ('09:00:00', '15:00:00')]",False
+332,Macias-Ferguson Market,supermercado,online,"[('00:00:00', '23:59:59')]",False
+333,Patterson Inc Farmacia,farmacia,online,"[('00:00:00', '23:59:59')]",False
+334,Strong LLC Boutique,ropa,online,"[('00:00:00', '23:59:59')]",True
+335,Hawkins PLC Tech,tecnologia,fisico,"[('16:00:00', '19:00:00'), ('13:00:00', '15:00:00')]",False
+336,Richmond-Heath Farmacia,farmacia,online,"[('00:00:00', '23:59:59')]",True
+337,Rowe PLC Market,supermercado,fisico,"[('18:00:00', '22:00:00')]",True
+338,Mitchell Inc,entretenimiento,online,"[('16:00:00', '23:00:00'), ('10:00:00', '15:00:00')]",False
+339,Olson Ltd Market,supermercado,online,"[('00:00:00', '23:59:59')]",True
+340,Cole Inc Market,supermercado,fisico,"[('11:00:00', '21:00:00')]",True
+341,"Logan, Robinson and Rodriguez Farmacia",farmacia,fisico,"[('14:00:00', '22:00:00'), ('06:00:00', '09:00:00')]",False
+342,"Wilson, Atkins and Davis",banco,fisico,"[('18:00:00', '20:00:00'), ('20:00:00', '23:00:00')]",False
+343,Taylor Ltd Farmacia,farmacia,fisico,"[('08:00:00', '14:00:00'), ('17:00:00', '19:00:00')]",False
+344,Hodge and Sons Market,supermercado,online,"[('00:00:00', '23:59:59')]",True
+345,"Griffin, Avery and Sharp Boutique",ropa,online,"[('12:00:00', '23:00:00')]",False
+346,Delacruz PLC,entretenimiento,online,"[('16:00:00', '20:00:00')]",False
+347,Jefferson Inc Market,supermercado,online,"[('00:00:00', '23:59:59')]",False
+348,"Tucker, Holden and Mathis Farmacia",farmacia,fisico,"[('15:00:00', '21:00:00')]",False
+349,Flores-Brooks Farmacia,farmacia,fisico,"[('19:00:00', '23:00:00'), ('10:00:00', '18:00:00')]",False
+350,May-Ross,banco,online,"[('00:00:00', '23:59:59')]",True
+351,"Craig, Davis and James",banco,fisico,"[('19:00:00', '22:00:00')]",False
+352,"White, Cowan and Sharp Tech",tecnologia,online,"[('00:00:00', '23:59:59')]",False
+353,"Smith, Michael and Valentine",entretenimiento,fisico,"[('14:00:00', '16:00:00'), ('06:00:00', '09:00:00')]",False
+354,"Fowler, Clarke and Diaz Tech",tecnologia,online,"[('00:00:00', '23:59:59')]",True
+355,Williamson Ltd Boutique,ropa,online,"[('00:00:00', '23:59:59')]",True
+356,Miller and Sons,entretenimiento,online,"[('00:00:00', '23:59:59')]",False
+357,"Arnold, Cruz and Tran Tech",tecnologia,online,"[('00:00:00', '23:59:59')]",False
+358,Cruz Ltd Boutique,ropa,online,"[('09:00:00', '17:00:00')]",True
+359,"Flores, Moore and Miller Tech",tecnologia,fisico,"[('19:00:00', '23:00:00')]",True
+360,Moore-Villegas Farmacia,farmacia,fisico,"[('11:00:00', '23:00:00'), ('07:00:00', '09:00:00')]",False
+361,Osborne-Padilla,banco,fisico,"[('14:00:00', '18:00:00')]",False
+362,Davis-Benjamin Farmacia,farmacia,online,"[('15:00:00', '19:00:00')]",True
+363,Clayton Ltd Farmacia,farmacia,online,"[('00:00:00', '23:59:59')]",False
+364,"Mitchell, Yates and Booker Market",supermercado,online,"[('00:00:00', '23:59:59')]",False
+365,Palmer LLC Farmacia,farmacia,fisico,"[('08:00:00', '18:00:00'), ('18:00:00', '22:00:00')]",True
+366,Carr and Sons Restaurant,restaurante,fisico,"[('13:00:00', '23:00:00'), ('08:00:00', '13:00:00')]",False
+367,"Martinez, Acosta and Hicks",banco,online,"[('00:00:00', '23:59:59')]",False
+368,Becker Group,banco,online,"[('18:00:00', '23:00:00'), ('06:00:00', '09:00:00')]",True
+369,Banks-Friedman,banco,fisico,"[('17:00:00', '22:00:00'), ('07:00:00', '10:00:00')]",False
+370,"Hensley, Robles and Mccoy Boutique",ropa,fisico,"[('19:00:00', '21:00:00'), ('12:00:00', '14:00:00')]",False
+371,Smith PLC Restaurant,restaurante,online,"[('00:00:00', '23:59:59')]",False
+372,Aguilar Group,banco,fisico,"[('16:00:00', '21:00:00')]",False
+373,Reid and Sons Boutique,ropa,online,"[('00:00:00', '23:59:59')]",False
+374,Jones-Decker Market,supermercado,online,"[('17:00:00', '20:00:00'), ('11:00:00', '14:00:00')]",False
+375,Price Inc,entretenimiento,online,"[('13:00:00', '15:00:00')]",False
+376,King-Brown Restaurant,restaurante,fisico,"[('14:00:00', '20:00:00'), ('10:00:00', '12:00:00')]",False
+377,Webster LLC Tech,tecnologia,fisico,"[('19:00:00', '23:00:00')]",True
+378,Martinez Inc Tech,tecnologia,online,"[('00:00:00', '23:59:59')]",True
+379,Ramirez Ltd Market,supermercado,online,"[('00:00:00', '23:59:59')]",True
+380,"Allen, Wise and Dennis Farmacia",farmacia,online,"[('00:00:00', '23:59:59')]",False
+381,"Cole, Flores and Perez Farmacia",farmacia,online,"[('00:00:00', '23:59:59')]",False
+382,Price-Guzman,banco,fisico,"[('20:00:00', '22:00:00'), ('10:00:00', '19:00:00')]",False
+383,Johnson Group Boutique,ropa,fisico,"[('10:00:00', '12:00:00')]",False
+384,Scott PLC Boutique,ropa,fisico,"[('08:00:00', '23:00:00')]",False
+385,Ware Ltd Market,supermercado,online,"[('00:00:00', '23:59:59')]",False
+386,Morgan-Giles,entretenimiento,online,"[('00:00:00', '23:59:59')]",False
+387,"Moss, Love and Hernandez",entretenimiento,online,"[('00:00:00', '23:59:59')]",True
+388,"Fischer, Whitaker and Burgess Boutique",ropa,online,"[('13:00:00', '17:00:00')]",True
+389,"Frey, Phillips and Taylor Restaurant",restaurante,online,"[('16:00:00', '20:00:00'), ('12:00:00', '15:00:00')]",False
+390,Doyle-Baker Market,supermercado,fisico,"[('17:00:00', '20:00:00'), ('11:00:00', '14:00:00')]",False
+391,Evans-Robbins Farmacia,farmacia,fisico,"[('11:00:00', '22:00:00'), ('06:00:00', '10:00:00')]",True
+392,Flynn and Sons Farmacia,farmacia,online,"[('00:00:00', '23:59:59')]",False
+393,Deleon Inc Boutique,ropa,online,"[('10:00:00', '15:00:00')]",False
+394,Fry Group,banco,online,"[('00:00:00', '23:59:59')]",False
+395,Sanchez-Nelson,entretenimiento,fisico,"[('08:00:00', '10:00:00')]",False
+396,Stewart-Davidson Farmacia,farmacia,fisico,"[('16:00:00', '21:00:00'), ('09:00:00', '14:00:00')]",False
+397,"Jones, Hicks and Yates",entretenimiento,online,"[('00:00:00', '23:59:59')]",False
+398,Lewis-Hicks Farmacia,farmacia,fisico,"[('17:00:00', '19:00:00')]",False
+399,Juarez-Armstrong Tech,tecnologia,online,"[('00:00:00', '23:59:59')]",True
+400,"Brooks, Merritt and Cunningham Market",supermercado,online,"[('00:00:00', '23:59:59')]",False
+401,Patterson Ltd Market,supermercado,fisico,"[('09:00:00', '20:00:00'), ('20:00:00', '22:00:00')]",False
+402,Johnson-Mcdonald Tech,tecnologia,fisico,"[('15:00:00', '17:00:00')]",False
+403,Hill LLC Boutique,ropa,online,"[('16:00:00', '23:00:00')]",True
+404,Clark PLC Boutique,ropa,fisico,"[('13:00:00', '20:00:00'), ('07:00:00', '11:00:00')]",False
+405,Cook-Sanford Farmacia,farmacia,fisico,"[('08:00:00', '13:00:00')]",False
+406,Edwards Group Tech,tecnologia,online,"[('00:00:00', '23:59:59')]",True
+407,Collins and Sons Farmacia,farmacia,fisico,"[('09:00:00', '12:00:00'), ('13:00:00', '23:00:00')]",False
+408,Smith-Smith Market,supermercado,fisico,"[('20:00:00', '23:00:00'), ('07:00:00', '17:00:00')]",False
+409,"Hall, Huang and Watson",banco,fisico,"[('17:00:00', '20:00:00')]",False
+410,Jordan-Hall Farmacia,farmacia,fisico,"[('07:00:00', '09:00:00'), ('17:00:00', '22:00:00')]",False
+411,"Fritz, Long and Young Market",supermercado,online,"[('00:00:00', '23:59:59')]",False
+412,Williams-Robinson Market,supermercado,online,"[('00:00:00', '23:59:59')]",False
+413,Davenport Ltd Farmacia,farmacia,online,"[('00:00:00', '23:59:59')]",False
+414,"Ford, Moore and Walker Market",supermercado,fisico,"[('10:00:00', '17:00:00'), ('06:00:00', '08:00:00')]",False
+415,Moore-Bryan Farmacia,farmacia,fisico,"[('07:00:00', '15:00:00')]",False
+416,"Scott, Hale and Fowler Boutique",ropa,online,"[('00:00:00', '23:59:59')]",False
+417,Marshall-Henderson Tech,tecnologia,online,"[('00:00:00', '23:59:59')]",False
+418,Martin-Juarez Farmacia,farmacia,fisico,"[('07:00:00', '14:00:00')]",True
+419,Collier and Sons Market,supermercado,fisico,"[('06:00:00', '14:00:00')]",False
+420,Austin-Esparza,entretenimiento,fisico,"[('16:00:00', '18:00:00'), ('20:00:00', '23:00:00')]",False
+421,"Clark, Blanchard and Bailey",banco,fisico,"[('08:00:00', '20:00:00')]",False
+422,Cardenas-Green Restaurant,restaurante,online,"[('00:00:00', '23:59:59')]",True
+423,"Miller, Parks and Wilkinson Tech",tecnologia,online,"[('00:00:00', '23:59:59')]",False
+424,Roberts and Sons,banco,online,"[('00:00:00', '23:59:59')]",False
+425,Mcdaniel-Williams Tech,tecnologia,online,"[('00:00:00', '23:59:59')]",False
+426,Smith and Sons,entretenimiento,online,"[('00:00:00', '23:59:59')]",False
+427,"Chang, Luna and Ware Boutique",ropa,fisico,"[('13:00:00', '20:00:00'), ('07:00:00', '13:00:00')]",False
+428,Logan-Smith Market,supermercado,online,"[('00:00:00', '23:59:59')]",True
+429,"Smith, Ford and Townsend Boutique",ropa,fisico,"[('12:00:00', '19:00:00'), ('19:00:00', '22:00:00')]",True
+430,Moore-Campbell,entretenimiento,fisico,"[('16:00:00', '22:00:00')]",False
+431,"Morgan, Howard and Schwartz Boutique",ropa,online,"[('00:00:00', '23:59:59')]",False
+432,Soto-Bradford Market,supermercado,fisico,"[('18:00:00', '20:00:00'), ('07:00:00', '17:00:00')]",False
+433,Williamson Ltd Farmacia,farmacia,fisico,"[('19:00:00', '21:00:00'), ('13:00:00', '15:00:00')]",True
+434,Brown Group,banco,fisico,"[('09:00:00', '17:00:00'), ('18:00:00', '21:00:00')]",False
+435,Knox-Perez Restaurant,restaurante,online,"[('09:00:00', '15:00:00')]",True
+436,Rogers and Sons Tech,tecnologia,online,"[('00:00:00', '23:59:59')]",False
+437,Short LLC Market,supermercado,online,"[('12:00:00', '21:00:00')]",False
+438,Cooper-Smith,banco,fisico,"[('18:00:00', '20:00:00')]",False
+439,Martin-Williamson,entretenimiento,fisico,"[('16:00:00', '18:00:00'), ('20:00:00', '23:00:00')]",False
+440,"Dudley, Parker and Knapp Restaurant",restaurante,fisico,"[('10:00:00', '21:00:00'), ('06:00:00', '10:00:00')]",False
+441,"Price, Hebert and Kaufman Boutique",ropa,fisico,"[('14:00:00', '18:00:00'), ('20:00:00', '23:00:00')]",False
+442,Miller-Black Tech,tecnologia,online,"[('07:00:00', '09:00:00')]",True
+443,Stewart-Joyce,entretenimiento,fisico,"[('12:00:00', '19:00:00')]",False
+444,"Lozano, Washington and Goodman Farmacia",farmacia,online,"[('10:00:00', '13:00:00'), ('18:00:00', '20:00:00')]",False
+445,Welch-Smith,entretenimiento,online,"[('00:00:00', '23:59:59')]",False
+446,Lozano-Bowman,banco,fisico,"[('08:00:00', '17:00:00'), ('19:00:00', '22:00:00')]",False
+447,Roberts-Phelps Boutique,ropa,fisico,"[('18:00:00', '23:00:00'), ('12:00:00', '17:00:00')]",False
+448,Winters and Sons Market,supermercado,fisico,"[('16:00:00', '21:00:00'), ('06:00:00', '16:00:00')]",False
+449,Gonzalez-Gray,entretenimiento,online,"[('00:00:00', '23:59:59')]",False
+450,"Gill, Bautista and Scott",entretenimiento,online,"[('14:00:00', '22:00:00')]",False
+451,Hernandez LLC Restaurant,restaurante,fisico,"[('14:00:00', '20:00:00')]",False
+452,Johnson-Cook,entretenimiento,online,"[('00:00:00', '23:59:59')]",True
+453,"Flores, Hart and Rose Market",supermercado,online,"[('00:00:00', '23:59:59')]",False
+454,"Lindsey, Dixon and Clark Tech",tecnologia,online,"[('18:00:00', '23:00:00')]",False
+455,"Hoffman, Moore and Murray Restaurant",restaurante,online,"[('00:00:00', '23:59:59')]",False
+456,"Aguilar, Holland and Dunn Farmacia",farmacia,online,"[('00:00:00', '23:59:59')]",False
+457,Young PLC Restaurant,restaurante,online,"[('00:00:00', '23:59:59')]",False
+458,"Nichols, Payne and Castro Restaurant",restaurante,fisico,"[('12:00:00', '22:00:00')]",False
+459,Alexander-Richardson Farmacia,farmacia,online,"[('11:00:00', '21:00:00')]",False
+460,"Collins, Wolfe and Adams",entretenimiento,fisico,"[('15:00:00', '18:00:00')]",False
+461,"Rogers, Jackson and Escobar Farmacia",farmacia,fisico,"[('06:00:00', '14:00:00')]",False
+462,Jackson-Wood Tech,tecnologia,online,"[('00:00:00', '23:59:59')]",False
+463,James-Smith Market,supermercado,fisico,"[('13:00:00', '23:00:00')]",True
+464,Barnett-Price,banco,fisico,"[('11:00:00', '17:00:00')]",False
+465,"Johnson, Peterson and Kirby Market",supermercado,online,"[('00:00:00', '23:59:59')]",True
+466,"Bullock, English and Johnson Tech",tecnologia,fisico,"[('16:00:00', '21:00:00')]",False
+467,"Freeman, Becker and Cobb Boutique",ropa,online,"[('20:00:00', '22:00:00')]",False
+468,"Harper, Carlson and Walker Farmacia",farmacia,fisico,"[('12:00:00', '17:00:00'), ('18:00:00', '21:00:00')]",False
+469,Figueroa Group Boutique,ropa,fisico,"[('13:00:00', '22:00:00')]",False
+470,Kim Inc Farmacia,farmacia,fisico,"[('14:00:00', '18:00:00')]",False
+471,Johnson PLC Farmacia,farmacia,online,"[('00:00:00', '23:59:59')]",True
+472,"Dennis, Gates and Wolfe Market",supermercado,online,"[('00:00:00', '23:59:59')]",False
+473,Gardner-Klein Tech,tecnologia,fisico,"[('09:00:00', '15:00:00')]",False
+474,Zamora and Sons Restaurant,restaurante,fisico,"[('15:00:00', '22:00:00'), ('06:00:00', '14:00:00')]",False
+475,Horton Inc Tech,tecnologia,fisico,"[('19:00:00', '23:00:00')]",False
+476,Grant Inc Restaurant,restaurante,fisico,"[('06:00:00', '22:00:00')]",False
+477,Tucker Inc Market,supermercado,fisico,"[('17:00:00', '21:00:00')]",False
+478,"Malone, Montgomery and Stephens Restaurant",restaurante,online,"[('00:00:00', '23:59:59')]",False
+479,"Rasmussen, Foster and Rodriguez Tech",tecnologia,fisico,"[('07:00:00', '19:00:00')]",True
+480,"Harrison, Reyes and Ellis Boutique",ropa,online,"[('00:00:00', '23:59:59')]",False
+481,Davis Inc Tech,tecnologia,online,"[('20:00:00', '23:00:00'), ('12:00:00', '19:00:00')]",False
+482,Cervantes and Sons,entretenimiento,online,"[('17:00:00', '23:00:00'), ('06:00:00', '15:00:00')]",False
+483,Kane-Carey Boutique,ropa,online,"[('00:00:00', '23:59:59')]",False
+484,"Lane, Hall and Smith",banco,online,"[('00:00:00', '23:59:59')]",False
+485,Bates-White Market,supermercado,fisico,"[('19:00:00', '21:00:00')]",False
+486,Jimenez-Vasquez Restaurant,restaurante,fisico,"[('10:00:00', '15:00:00'), ('16:00:00', '22:00:00')]",False
+487,"Martinez, Hill and Reyes Restaurant",restaurante,fisico,"[('14:00:00', '18:00:00')]",False
+488,"King, Mitchell and Medina",banco,fisico,"[('16:00:00', '18:00:00'), ('08:00:00', '12:00:00')]",False
+489,Gallegos PLC Boutique,ropa,online,"[('09:00:00', '16:00:00'), ('19:00:00', '21:00:00')]",False
+490,"Huff, Lee and Mcclure Tech",tecnologia,online,"[('20:00:00', '22:00:00')]",True
+491,Andrews Group,banco,fisico,"[('17:00:00', '19:00:00'), ('20:00:00', '23:00:00')]",False
+492,Glass-Miller Market,supermercado,fisico,"[('19:00:00', '21:00:00'), ('14:00:00', '16:00:00')]",False
+493,"Howell, Owens and Schmidt Boutique",ropa,fisico,"[('16:00:00', '19:00:00'), ('12:00:00', '16:00:00')]",False
+494,Acosta-Hamilton,banco,fisico,"[('11:00:00', '17:00:00'), ('06:00:00', '09:00:00')]",False
+495,Meadows-Evans Tech,tecnologia,fisico,"[('06:00:00', '12:00:00'), ('15:00:00', '23:00:00')]",True
+496,Lewis-Flynn Restaurant,restaurante,fisico,"[('12:00:00', '23:00:00')]",False
+497,Tyler-Dennis Market,supermercado,online,"[('19:00:00', '22:00:00')]",False
+498,Delgado-Salas Market,supermercado,online,"[('00:00:00', '23:59:59')]",False
+499,"Contreras, Herrera and Choi Boutique",ropa,fisico,"[('09:00:00', '12:00:00'), ('20:00:00', '22:00:00')]",False
+500,Joseph Ltd,entretenimiento,online,"[('08:00:00', '23:00:00')]",False

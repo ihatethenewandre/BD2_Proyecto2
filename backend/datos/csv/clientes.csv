@@ -1,0 +1,1001 @@
+id,nombre,fecha_nacimiento,riesgo,sueldo,empleo
+1,Aura Alvarado,1953-07-31,0.04,6572.34,Gestor de aduana
+2,Miguela Monreal Solera,1983-12-27,0.34,16255.46,Operador de grúas y aparatos elevadores
+3,Berta Hernández-Cruz,1985-03-11,0.29,17987.99,Técnico en ciencias físicas y químicas
+4,Margarita Cano Ramis,1966-04-01,0.27,12759.25,Labrante
+5,Leyre Córdoba Sanjuan,1970-03-21,0.68,13809.5,Peón de pesca y acuicultura
+6,Dimas Vargas Cervantes,1986-07-20,0.82,13758.58,Mensajero
+7,Pía Quero,1966-11-29,0.15,3282.52,Trabajador comunitario de la salud
+8,Maximiano Valera Corral,1973-03-25,0.49,17072.23,Cortador de vidrio
+9,Odalis Carmela Morata Amo,1990-01-30,0.22,13446.29,Expendedor de gasolineras
+10,Rodolfo Pinedo Gonzalo,2006-12-31,0.01,14839.3,Controlador de plagas y malas hierbas
+11,Ambrosio Valenciano Verdugo,1952-06-09,0.77,7692.16,Juez
+12,Maura Nadal Domínguez,1949-08-21,0.11,17408.77,Peletero
+13,Adelardo Marino Vigil Bauzà,2005-02-02,0.56,11800.12,"Modelo de moda, arte y publicidad"
+14,Alfonso Primitivo Andrade Figueras,1950-05-11,0.55,11983.25,Empleado de ventanillas de informaciones
+15,Jimena Miró Carreras,1986-06-16,0.61,19789.48,Fisioterapeuta
+16,María Luisa Luz Llopis,1990-06-30,0.4,16520.59,Profesor de enseñanza secundaria
+17,Ignacia Padilla Castellanos,1992-08-17,0.68,16620.0,Diseñador gráfico
+18,Héctor Lumbreras Taboada,1997-01-21,0.81,10116.98,Director de servicios de cuidados infantiles
+19,Aurora de Bayón,2006-10-05,0.64,6921.39,"Gerente de sucursales de bancos, de servicios financieros y de seguros"
+20,Íñigo de Manuel,1968-02-16,0.34,4762.98,Inspector de fronteras
+21,Celestino del Baños,1966-08-09,0.83,5565.0,Profesor de enseñanza secundaria
+22,Lina Diego-Alonso,1948-05-18,0.22,5283.52,Profesional de medicina
+23,Carla Clavero Samper,1991-12-22,0.16,9465.83,Minero
+24,Francisco Molina,1953-01-22,0.19,8913.61,Director financiero
+25,Pacífica Belén Pineda Cánovas,1977-03-22,0.61,7084.0,Especialista en métodos pedagógicos
+26,Juan Pablo Peral Recio,2007-10-19,0.31,19166.13,Profesional de ventas técnicas y médicas
+27,Merche Ripoll,1985-06-20,0.65,5257.62,Peón de explotaciones de cultivos mixtos y ganaderos
+28,Luciano Rodrigo Calderón,1949-03-03,0.69,10638.68,Sociólogo
+29,Severo Guillen Goicoechea,1979-08-16,0.81,11490.6,Técnico en operaciones de tecnología de la información y las comunicaciones
+30,Rufino Asenjo Sotelo,1991-07-13,0.56,10115.74,Empacador manual
+31,Modesto Boada-López,2007-06-22,0.45,8670.87,Ingeniero metalúrgico
+32,Alfredo Marcio Leal Ros,2000-05-12,0.96,3021.77,Ingeniero en telecomunicaciones
+33,Herberto de Colomer,1998-08-30,0.81,3758.78,Guardián de prisión
+34,Tania Oliveras Higueras,1974-12-15,0.87,6642.35,Desarrollador Web y multimedia
+35,Jonatan Peláez Benavent,1991-04-09,0.2,9697.28,Operador de máquinas de coser
+36,Vilma Lola Zamora Samper,1991-11-16,0.93,9422.05,Reparador de bicicletas
+37,Yolanda Cuevas-Reina,1986-02-13,0.39,4119.71,Agricultor
+38,Gerónimo Bas Somoza,1963-07-03,0.19,6155.83,Peón de pesca y acuicultura
+39,Tomás Real Galván,2000-01-06,0.69,17815.2,Guardagujas
+40,Ascensión Valls Gual,1956-01-20,0.53,14285.03,Operador de máquinas para fabricar productos de papel
+41,Alcides Piña Sotelo,1957-11-07,0.34,17889.12,Regulador y operador de máquinas de labrar madera
+42,Leocadia Coll Gordillo,1994-04-23,0.49,12752.77,Catador de alimentos y bebidas
+43,Erasmo Sureda Campillo,1986-08-20,0.04,18057.22,Afinador de instrumentos musicales
+44,Felicidad Figueroa Folch,1947-05-23,0.89,15422.5,Piloto de aviación
+45,Nico Escobar Castell,1984-07-20,0.23,4839.19,Cuidador de niños
+46,Ulises Armas Garzón,1989-07-12,0.47,12989.27,Dentista
+47,Soraya Pombo Artigas,1973-05-25,0.66,4105.02,Revocador
+48,Atilio Hurtado,1998-04-11,0.82,9999.31,Escribiente público
+49,René Méndez Alemán,1998-05-10,0.62,5092.79,Mecánico y reparador de vehículos de motor
+50,Íngrid del Peñas,1979-07-13,0.44,15611.94,Practicante paramédico
+51,Simón Sanabria Valderrama,1982-05-09,0.65,15354.44,Trabajador comunitario de la salud
+52,Adelardo Carreras Saura,1972-10-09,0.93,17529.05,Operador de máquinas de movimiento de tierras
+53,Tomasa Granados Peralta,1951-02-14,0.61,9062.25,Técnico en aparatos de diagnóstico y tratamiento médico
+54,Kike Torrens Azcona,1976-03-23,0.78,7449.55,Ggeofísico
+55,Jose Antonio Nuñez Anaya,1985-12-17,0.38,7506.51,Técnico en electrónica
+56,Casandra Cuéllar-Pelayo,1969-02-05,0.15,6859.8,Operador de máquinas lavarropas
+57,Fermín Vara,1954-02-10,0.33,16988.24,Guardián de prisión
+58,Maximiliano Múgica,1985-10-10,0.68,8986.61,Farmacéutico
+59,Mohamed Urrutia Hoz,1954-05-12,0.07,6838.8,Técnico en documentación sanitaria
+60,Toño León Salcedo,1980-03-09,1.0,4482.5,Pescador de alta mar
+61,Adán Hermenegildo Caballero Aznar,1985-05-04,0.49,13858.11,Químico
+62,Teófilo Castejón-Porcel,1979-01-10,0.13,10018.15,Vendedor de quioscos y de puestos de mercado
+63,Angelita Guzmán Coello,1962-11-11,0.88,13057.6,Albañil
+64,Juan José de Moreno,1966-05-03,0.28,18177.9,Contable
+65,Feliciano Román-Acedo,2004-10-09,0.12,4987.08,Guía de turismo
+66,Jessica Marí Aragonés,2004-06-03,0.16,15884.61,Sericultor
+67,Edgardo Raúl Vila Paniagua,1947-03-12,0.22,3106.73,Ensamblador de maquinaria mecánica
+68,Amado Ayllón Correa,1960-11-27,0.94,19340.46,Operador de instalaciones de tratamiento de agua
+69,Marcela Patricia Balaguer Sandoval,1997-09-30,0.97,5466.05,Lavador de ventanas
+70,Conrado Quintana,1969-07-18,0.1,19323.78,Especialista en tratamientos de belleza
+71,Esteban Salom-Sastre,1963-07-02,0.51,5716.37,Operador de máquinas para fabricar productos de caucho
+72,Belen de Roldan,1963-02-06,0.9,15985.25,"Limpiador y asistente de oficinas, hoteles y otros establecimientos"
+73,Octavia Viña-Manzanares,2006-06-24,0.77,9946.93,"Redactor de carteles, pintor decorativos y grabador"
+74,Juan Bautista Barón-Gonzalo,1985-11-27,0.55,19969.11,Ingeniero medioambiental
+75,María Manuela Lucena Cañas,2005-05-03,0.7,12237.67,Operario en cemento armado y enfoscador
+76,Benito Peinado Puga,2002-06-28,0.44,8557.62,Lavandero
+77,Isidro Salvador Toledo,1950-08-19,0.29,16711.98,Agente de aduanas
+78,Heliodoro Aguirre Cabañas,1965-04-26,0.88,13581.86,Economista
+79,Montserrat del Sarmiento,1974-09-08,0.35,7336.42,Director de explotaciones de minería
+80,Pacífica Figuerola Huerta,1945-08-26,0.33,19343.91,Sociólogo
+81,Nélida del Barco,1997-06-25,0.51,6210.03,Actor
+82,Renato del Camps,1986-07-23,0.24,14365.12,Tapicero
+83,Ceferino Ferrández Guitart,2008-01-05,0.92,15939.62,Repartidor
+84,Teófilo Pareja Maza,1945-05-22,0.93,14470.96,Diseñador multimedia
+85,Martirio Barroso Mur,1955-02-10,0.27,11666.48,Traductor e intérprete
+86,Amelia Bermejo Tena,1948-07-04,0.32,14907.98,Controlador de plagas y malas hierbas
+87,Dafne Balaguer-Cases,1952-09-27,0.23,12440.62,Especialista en tratamientos de belleza
+88,Irene Izaguirre Zurita,1989-12-09,0.96,3387.03,Mecánico y ajustador electricista
+89,Berto Cornejo Salamanca,1998-11-13,0.17,13390.15,Labrante
+90,Adora Menéndez,1951-12-16,0.41,14353.4,Meteorólogo
+91,Carmen de Blanco,1985-03-07,0.15,11097.5,Ayudante de ambulancia
+92,Rolando Saez Castelló,1992-02-04,0.48,7163.67,Físico
+93,Javier Pujol Carpio,1988-09-30,0.0,15207.26,Peón forestales
+94,Horacio Huerta Guzman,1979-09-23,0.18,8544.2,Peón de carga
+95,Violeta Armengol Andrade,1950-02-05,0.53,11859.1,Asesor de inversiones
+96,Héctor Ibarra Cabello,1989-11-14,0.88,5997.84,Operador de instalaciones de refinación de petróleo y gas natural
+97,Amor Ferrando-Gracia,2006-07-24,0.21,15729.27,Controlador de procesos
+98,Fidela Nebot-Sierra,1949-10-30,0.17,9996.28,Chapista
+99,Isa Villalonga Adán,1982-08-24,0.77,10918.42,"Pescador, cazador, tramperos y recolector de subsistencia"
+100,Rosalina Moraleda-Calvo,1968-12-17,0.5,12432.72,Grabador de piedra
+101,Nacho Blanco Taboada,1998-01-07,0.86,15095.98,Patronista y cortador de tela
+102,Gerardo del Borrell,1966-10-14,0.87,15425.11,Profesional en redes de computadores
+103,Martina Alcázar,1994-10-01,0.2,9180.63,Agente de bolsa
+104,Urbano Carreras,1976-07-01,0.89,5365.41,Trabajador ambulante de servicios
+105,Marcela Carrera,1983-12-04,0.5,18279.73,Director de publicidad y relaciones públicas
+106,Javiera Ainoa Lucas Gallardo,2005-09-10,0.72,3381.73,Profesional de enfermería
+107,Marisela Cano Sureda,1971-05-28,0.17,5463.82,Director de explotaciones de minería
+108,Alejandra de Cabanillas,1963-12-26,0.89,14702.47,Compositor
+109,Purificación Escolano,1990-08-04,0.64,6973.79,Operador de instalaciones para la preparación de pasta para papel y papel
+110,Ovidio Amigó Correa,1961-01-31,0.2,4137.58,Alfarero
+111,Valeria Ramón Vigil,1986-12-10,0.77,13249.62,Técnico en redes y sistemas de computadores
+112,Alejandra Duarte Lamas,1963-11-28,0.31,17095.49,Trabajador de cuidados personales en instituciones
+113,Arcelia Roman-Sacristán,1946-10-12,0.9,7055.84,Químico
+114,Alfredo Ibañez Alcaraz,2000-05-16,0.49,4601.8,Trabajador agrícola de subsistencia
+115,Carmen Madrid-Ramirez,2001-07-08,0.56,5133.98,Administrador de bases de datos
+116,Héctor Bertrán Zurita,1961-06-23,0.77,5109.46,Profesional de nivel medio de medicina alternativa
+117,Rafael Abellán Mas,1989-02-05,0.28,11465.87,Receptor de apuestas
+118,Blas Velasco,1984-10-15,0.21,13839.2,Entrevistador de encuestas
+119,Consuela Cañete,1996-11-15,0.09,19732.82,Asistente de venta
+120,Aurelia Pedro Ríos,1981-07-12,0.95,4673.68,Agente de compras
+121,Rufina Figueras Diez,2005-07-26,0.4,15626.1,Agrónomo
+122,Sergio Baños Galan,2004-04-17,0.31,15599.88,Peletero
+123,Dani Pallarès Martínez,1988-08-09,0.04,3133.36,Fisioterapeuta
+124,Prudencio Curro Bermejo Moles,1981-04-21,0.83,6187.62,"Operador de máquinas pulidoras, galvanizadoras y recubridoras de metales "
+125,Poncio Nicolás-Durán,2000-12-20,0.74,6089.78,Perforador y sondista de pozos
+126,Melchor Bernad Quevedo,1983-03-29,0.92,15385.23,Ensamblador de equipos eléctricos
+127,Palmira Moles Jover,2003-06-22,0.1,16614.65,Vendedor ambulantes (excluyendo de comida)
+128,Armando Vega Toro,1989-08-16,0.12,10885.58,Operador de grúas y aparatos elevadores
+129,Seve Casal-Girón,1963-12-12,0.03,6462.17,"Técnico en galerías de arte, museos y bibliotecas"
+130,Obdulia Piquer Pol,1987-10-06,0.33,5033.72,Ingeniero químico
+131,Lourdes Robledo-Aguilera,1967-04-04,0.8,12572.46,Sericultor
+132,Cipriano Santamaría Prats,1959-06-14,0.19,8196.62,Oficial maquinistas en navegación
+133,Augusto Bonet Ramis,1980-09-28,0.08,7516.33,Director de publicidad y relaciones públicas
+134,Ema Acuña,1973-08-24,0.92,13504.63,Cajero
+135,Bonifacio Arrieta Barrios,2000-02-01,0.26,13672.23,Patronista y cortador de tela
+136,Flavio Zamorano Hoz,1994-09-24,0.04,3283.35,Secretario administrativo
+137,Paulino Rodrigo Paredes Vilalta,1988-11-27,0.01,8555.84,Cuidador de animales
+138,Marciano Guardiola Calatayud,2003-08-20,0.21,16524.72,Técnico en ingeniería mecánica
+139,Hector García Moliner,2002-07-05,0.91,10468.22,Desarrollador de software
+140,Mayte Peinado,2006-08-29,1.0,19628.69,Bordador
+141,Gracia Gras Gimenez,1990-08-01,0.24,15931.73,Limpiador de fachadas
+142,Santos Santana Salas,1987-05-30,0.13,15640.97,Aparejador
+143,Lino Chamorro Alvarez,2000-10-30,0.4,14678.64,"Pescador, cazador, tramperos y recolector de subsistencia"
+144,Mateo Rocamora Morante,1968-08-15,0.68,16742.07,Profesional de ventas de tecnología de la información y las comunicaciones
+145,Luciano Jaén Linares,1960-07-10,0.63,8190.57,Oficial maquinistas en navegación
+146,Florentino Perera Gálvez,1948-12-16,0.39,19820.24,Conductor de taxis
+147,Juanito Sigfrido Pomares Aguilar,1986-07-07,0.81,14902.43,Instalador y reparador en tecnología de la información y las comunicaciones
+148,Adora Fortunata Nevado Colomer,1947-07-19,0.44,18256.4,Operario de la elaboración de productos lácteos
+149,Conrado Ripoll Arellano,1996-10-12,0.03,8848.3,Bibliotecarios
+150,Alex Miguel Arrieta Espada,1981-01-19,0.98,9074.8,Analista financiero
+151,Florentina Bartolomé-Hoz,1962-07-26,0.68,3682.34,Patronista y cortador de tela
+152,Yolanda Ojeda Porras,1997-03-01,0.98,5588.39,Patronista y cortador de tela
+153,Jose Carlos Pera-Cortes,1960-04-05,0.43,19910.62,Guía de turismo
+154,Juana Real Bas,2007-01-21,0.54,5353.34,Profesional de ventas de tecnología de la información y las comunicaciones
+155,Cruz Guijarro Montenegro,2003-02-03,0.11,15806.4,Analista de sistemas
+156,Eva de Perez,1977-04-12,0.33,14673.05,Desarrollador Web y multimedia
+157,Teófila Álvarez Ribes,1961-03-02,0.87,6303.81,Paisajista
+158,Anna Carro-Blanch,1979-09-28,0.12,11939.14,Técnico de la Web
+159,Herminia Martín Fabregat,1958-01-11,0.64,8633.24,Operador de instalaciones de procesamiento de la madera
+160,Tania Murillo Bustamante,1962-04-27,0.95,17041.9,Operador de instalaciones mineras
+161,Plácido Serrano Saavedra,1972-05-10,0.2,16036.54,Astrólogo
+162,Emiliano Reig Serra,1959-11-08,0.24,15279.12,Mampostero
+163,Felipe Teodoro Miranda Bustos,1984-04-26,0.34,14656.01,Moldeador y machero
+164,Cleto de Checa,1992-10-24,0.68,11039.16,Agente inmobiliario
+165,Macaria Borja Recio,1955-10-30,0.72,18223.4,Profesor de música
+166,Claudia Puente Menendez,2002-12-27,0.31,7925.07,Técnico de la Web
+167,Teófila Lastra-Olivé,1971-12-12,0.93,15045.39,Empleado de servicios de apoyo a la producción
+168,Noé de Vizcaíno,1988-07-28,0.73,7618.23,Profesional de ventas técnicas y médicas
+169,Bernardita Elías Tomas,2006-12-22,0.7,5873.36,Trabajador social de nivel medio
+170,Marcela Gomis Ruano,1974-07-10,0.81,8645.27,Operador de telar y otras máquinas tejedoras
+171,Jesús Ayala Sobrino,1987-01-19,0.06,12570.72,Astrónomos
+172,María Diez Peláez,2007-03-02,0.67,13270.78,Empleado de archivos
+173,Concha Itziar Cózar Jiménez,1953-08-06,0.38,5186.93,Profesor de universidades y de la enseñanza superior
+174,Rebeca del Cabanillas,1972-07-09,0.94,12223.81,Operador de máquinas de tratamiento de pieles y cueros
+175,Olimpia Riquelme-Bermúdez,1977-12-16,0.74,4317.24,Oficial de préstamos y créditos
+176,Corona Saura Jaume,1994-04-24,0.36,7914.25,Urbanistas e ingenieros de tránsito
+177,Sarita Gras Lara,1948-05-20,0.76,12937.2,"Pescador, cazador, tramperos y recolector de subsistencia"
+178,Maxi Campos Dalmau,2004-09-30,0.7,5770.9,Profesional de medicina alternativa
+179,Olivia Ferrándiz Carretero,1993-01-09,0.33,8505.33,Director de producción de piscicultura y pesca
+180,Alberto Alberdi Marí,2006-11-17,0.1,3043.08,Peón forestales
+181,Sandalio Fuente Catalá,1992-07-17,0.17,14485.61,Operador de máquinas para fabricar productos de material plástico
+182,Reyes Tormo Estévez,1986-04-06,0.84,5111.6,Asistente de venta
+183,Virgilio Giner Hoz,1990-03-08,0.11,8003.17,"Redactor de carteles, pintor decorativos y grabador"
+184,Rocío Prat-Rocha,1966-03-19,0.4,4556.65,Cazador
+185,Adela Company Dávila,1969-09-19,0.47,5817.44,Preparador y elaborador de tabaco y sus productos
+186,Rodrigo Garmendia-Serrano,2008-03-04,0.26,16271.77,Revocador
+187,Dan Galan Burgos,1993-09-11,0.34,19697.85,Técnico en seguridad aeronáutica
+188,Cipriano de Baeza,2004-08-11,0.4,4927.33,Impresor
+189,Plácido Santana Solís,2000-01-11,0.67,16502.75,Ingeniero electricista
+190,Ofelia Guzmán Gutierrez,1976-05-03,0.78,15582.63,Conductor de taxis
+191,Jordán Peña,1960-11-23,0.29,10465.14,Instructor de autoescuela
+192,Bruno de Valenzuela,1970-02-16,0.11,10790.49,Adivinador
+193,Amor Edelmira Sastre Ortega,1973-08-28,0.6,19796.39,Revisor y cobrador de los transportes públicos
+194,Victor Gonzalo Ordóñez,1970-05-07,0.88,17648.93,Guardián de prisión
+195,Blas Escrivá Navarro,1984-09-03,0.39,14559.54,Conductor de taxis
+196,Matilde Pereira Guzmán,1985-02-01,0.43,7765.79,Director de ventas y comercialización
+197,Roberto Real Sevillano,2007-08-25,0.63,15124.61,Tapicero
+198,Cayetano Martin Riquelme,1966-05-19,0.21,6229.01,Ayudante de ambulancia
+199,Regina Rosado Padilla,1990-06-19,0.63,5092.41,Geólogo
+200,Yago Manso Prado,2004-03-23,0.76,6280.12,Director de servicios de educación
+201,Priscila Rios Tomás,2005-07-28,0.54,8538.71,Reponedor de estanterías
+202,Mariana Campoy Gil,1947-01-22,0.41,15135.48,Empleado de agencia de viajes
+203,Noé Tirado Sandoval,1997-06-29,0.85,14717.52,Director de servicios de cuidados infantiles
+204,Samanta Febe Tamarit Morcillo,1953-11-06,0.71,9637.18,Recolector de basura y material reciclable
+205,Fernando Gallardo Paz,1968-02-27,0.37,19937.52,Director de servicios de cuidados infantiles
+206,Paulino Heliodoro Llanos Terrón,1976-04-24,0.51,10503.05,"Panaderos, pasteleros y confiteros"
+207,Venceslás Palomares Pozuelo,1947-09-12,0.09,14295.3,Operador de instalaciones de refinación de petróleo y gas natural
+208,Edelmira Soler Esteban,1970-03-03,0.2,7902.9,Dibujante técnico
+209,Damián Malo,1999-10-24,0.31,3729.15,Controlador de tráfico aéreo
+210,María Jesús Ramón-Arribas,1994-07-19,0.38,7849.47,Profesional de la salud y la higiene laboral y ambiental
+211,Renata Lumbreras Cañellas,1959-05-23,0.07,16054.63,Físico
+212,Paco Carro-Redondo,2001-01-30,0.12,8797.48,Fotógrafo
+213,Nidia Bernarda Guijarro Ballesteros,1949-02-19,0.75,11897.07,Montador de estructuras metálicas
+214,Ruth Benítez Olivera,2004-06-18,0.71,5048.06,Trabajador social de nivel medio
+215,Nuria del Pina,1991-11-02,0.63,17807.6,Profesor de universidades y de la enseñanza superior
+216,Emelina Bernad Cáceres,1985-03-31,0.4,6679.68,Operador de máquinas para fabricar productos de material plástico
+217,Ainoa Casanova Pina,2002-05-25,0.36,12056.24,Productor y trabajador calificado de explotaciones agropecuarias mixtas
+218,Florentino Piñeiro Cisneros,1996-10-07,0.84,12363.86,Cuidador de animales
+219,Nacio Reyes Marí Saavedra,1976-01-13,0.44,3971.16,Parquetero y colocador de suelos
+220,Daniela Ayllón Azorin,1959-09-21,0.85,17755.66,Compositor
+221,Eligia Rincón,1956-09-20,0.24,4626.39,Profesional de nivel medio de partería
+222,Matías del Escobar,1995-11-05,0.6,17993.97,Ayudante de cámara
+223,Ángela de Gibert,1959-08-17,0.08,9137.61,Técnico en ciencias biológicas
+224,Carlos Terrón Pedrero,1949-05-11,0.64,11745.61,Operador de máquinas lavarropas
+225,Áurea Pepita Agullo Andrés,1975-02-15,0.88,17371.87,Técnico de telecomunicaciones
+226,Luisina Aller Benet,1969-03-03,0.27,8250.6,Focumentalista
+227,Ainoa Galvez Parejo,1971-03-23,1.0,3661.0,Agente de servicios de seguridad social
+228,Erasmo Emiliano Aramburu Aguado,1996-09-15,0.49,18151.6,Analista de sistemas
+229,Virgilio Amigó Hierro,2002-10-07,0.61,3604.35,Analista financiero
+230,Cayetana Íngrid Cabanillas Campoy,1954-11-17,0.4,11895.94,"Gerente de centros deportivos, de esparcimiento y culturales"
+231,Alondra Pía Tomás Rius,1980-01-24,0.62,10767.99,Empleado de contabilidad y cálculo de costos
+232,Leire Cámara Barbero,1950-07-26,0.27,4264.83,Técnico en ciencias biológicas
+233,Odalis Godoy Echeverría,2007-07-24,0.98,6103.5,"Redactor de carteles, pintor decorativos y grabador"
+234,Cosme Mateo Montserrat,1973-11-25,0.89,4963.35,Artesano
+235,Candelas Maite Salas León,1958-06-08,0.28,9799.85,Detective
+236,Evaristo de Bejarano,2007-01-10,0.76,18105.7,Suboficial de las fuerzas armadas
+237,Marta Pía Gelabert Rodríguez,1952-04-26,0.44,14717.74,Director de recursos humanos
+238,Ofelia Villegas-Cazorla,1966-02-23,0.18,14241.3,Limpiador y asistente doméstico
+239,Abel Fernández Galiano,2000-06-10,0.51,8143.9,Controlador de plagas y malas hierbas
+240,Quique Capdevila Zabala,2000-06-20,0.05,16259.78,Asistente fisioterapeuta
+241,Delfina Carreras Garzón,2006-01-19,0.25,12868.52,Técnico en ingeniería mecánica
+242,Guadalupe Beltran Ledesma,1993-04-25,0.27,14991.02,Lavandero
+243,Maricela Nicolau,1946-10-20,0.42,5336.72,Agente de compras
+244,Teodora Domingo Mascaró,2000-10-15,0.07,5574.52,Gestor de aduana
+245,Luna Lobo Domingo,1988-06-11,0.36,5899.14,Profesional de nivel medio del derecho y servicios legales
+246,Débora Bas Sarmiento,1998-04-06,0.83,17254.75,Operador de instalaciones para la preparación de pasta para papel y papel
+247,Candelas Raya Escalona,1991-04-01,0.72,6489.11,Profesor de idiomas
+248,Luz Armengol Ros,2005-05-12,0.85,19699.73,Limpiador de fachadas
+249,Tomasa Jordán Diego,1959-04-25,0.51,7177.79,Controlador de plagas y malas hierbas
+250,Guadalupe Salcedo Hoz,1957-02-16,0.11,18673.26,Traductor e intérprete
+251,Baltasar Torres Pont,1974-11-10,0.82,16673.32,Agrónomo
+252,Encarnacion del Villalba,1945-10-21,0.12,14259.07,Conductor de vehículos y máquinas de tracción animal
+253,Jenny Bernat Cases,1953-03-04,0.18,12789.72,Urbanistas e ingenieros de tránsito
+254,Cesar Ochoa-Pascual,1964-12-05,0.32,8111.41,Empleado de servicios de correos
+255,César Pera Verdejo,1989-02-24,0.21,7370.14,Agricultor
+256,Severo Peláez,1964-02-22,0.71,10343.65,Ggeofísico
+257,Baldomero Cuervo Ribes,1965-10-26,0.56,16047.05,Agente de compras
+258,Edmundo Tello Llamas,1996-09-07,0.37,19213.96,Técnico en electrónica
+259,Teófila del Estevez,1992-08-10,0.32,18470.58,Corrector de pruebas de imprenta
+260,Margarita Jara,1991-12-05,0.49,17339.43,Especialista en tratamientos de belleza
+261,Leocadia Trillo-Cerdán,1976-08-15,0.66,18859.88,Modisto
+262,Pastor Puerta Ramón,2000-04-06,0.5,8944.49,Inspector de policía
+263,Eugenia Batlle,1996-03-29,0.55,5830.24,Trabajador de cuidados personales a domicilio
+264,Anastasio Duran Álvaro,1969-08-30,0.99,16069.91,Ingeniero civil
+265,Javi Cordero Jódar,1960-08-01,0.07,18666.2,Empacador manual
+266,Rafaela de Borrego,1959-06-17,0.23,4936.19,Empleado de servicios de transporte
+267,Hector Salcedo Montoya,1995-09-21,0.45,19720.09,Carpintero
+268,Lara Arribas Arellano,1983-02-27,0.87,12109.83,Compositor
+269,Olivia del Echevarría,1998-04-17,0.58,12131.53,Mecánico y reparador de instrumentos de precisión
+270,Fulgencio Calleja-Méndez,1973-10-09,0.65,4270.2,Profesor de idiomas
+271,Áurea Landa Villar,1956-05-26,0.29,10934.32,Asesor financiero y en inversiones
+272,Amor Casals Marín,1988-10-30,0.79,18533.25,Empleado de servicios de correos
+273,Kike Villalobos Puente,1965-05-08,0.25,18251.74,Especialista en formación del personal
+274,Quirino Tristán Domingo Cerdá,1986-09-18,0.53,7778.79,Guardagujas
+275,Luna Cuesta,1950-02-04,0.03,17619.03,Abogado
+276,Ramiro Báez Badía,1979-05-13,0.48,14331.56,Profesor de formación profesional
+277,Jacinta Coello Chaves,1992-03-28,0.86,10791.09,Técnico en operaciones de tecnología de la información y las comunicaciones
+278,Manola Yuste,1984-12-23,0.04,17000.33,Escribiente público
+279,Ibán del Bustos,1993-08-17,0.96,9063.62,Agrimensor
+280,Fausto Mariño,2005-01-20,0.27,6919.45,Ingeniero electrónico
+281,Samanta Palacios Mateos,1996-07-20,0.21,3491.89,Tapicero
+282,Jose Carlos Gomila Nicolau,1983-09-09,0.78,19347.22,Clasificador de desechos
+283,Charo Bernat,1947-04-15,0.2,4583.82,Operador de instalaciones de procesamiento de metales
+284,Calista Blanca Salvà,1973-07-26,0.26,6334.59,Técnico en optometría y ópticos
+285,Marisela Pla-Cabo,1974-10-24,0.14,7398.69,Consignatario
+286,Ismael Gallego Laguna,1970-02-05,0.84,18382.33,Ingeniero electrónico
+287,César León-Torrens,1997-01-05,0.94,7998.65,Estadístico
+288,Fulgencio Augusto Maldonado Nieto,1945-09-26,0.47,13662.84,Diseñador de prendas
+289,Miriam Casals Ferrer,1968-09-13,0.69,15966.83,Modisto
+290,Iker Galvez Portillo,1960-09-01,0.54,18063.23,Operador de maquinaria agrícola y forestal móvil
+291,Saturnina Real Velázquez,1973-09-01,0.19,4265.53,Cristalero
+292,Francisco Perera Jover,1967-08-13,0.9,6186.95,Ingeniero electricista
+293,Macario Sabater Lamas,1977-12-23,0.26,3550.1,Decorador de interior
+294,Bautista Villena Polo,1956-11-06,0.49,3844.19,Supervisor de secretaría
+295,Morena Mateo,1994-12-31,0.58,9343.61,Profesional de ventas de tecnología de la información y las comunicaciones
+296,Maite Morillo Pozuelo,1998-07-26,0.55,7564.31,Técnico de radiodifusión y grabación audio visual
+297,Marcia Cabeza Múgica,1983-11-08,0.96,16557.84,Asistente de venta
+298,Saturnino del Sedano,1967-11-03,0.77,3723.76,Técnico de laboratorio médico
+299,Iván Roldán Barrera,1989-01-18,0.54,13054.86,Dentista
+300,Luis Asensio Velasco,1964-10-04,0.36,11437.62,Planchador manuales
+301,Jesusa Cerdá Gutiérrez,1988-07-07,0.54,3664.87,Asesor de inversiones
+302,Inés Macias,1987-12-24,0.09,19067.57,Prestamista
+303,Elena Carrión Ojeda,1953-10-16,0.67,12014.54,Trabajador agropecuario de subsistencia
+304,Amancio Royo Serrano,1991-11-14,0.5,16612.6,Operador de grúas y aparatos elevadores
+305,Fabiola Pallarès Ortuño,1994-09-04,0.53,11926.1,Técnico en ingeniería de minas y metalurgia
+306,Fabio del Camps,1945-08-28,0.15,9418.48,Lavador de vehículos
+307,Dominga Conde Tomás,1956-06-18,0.57,3403.88,Ayudante de cocina
+308,Bernarda Soto,1960-12-10,0.99,12926.62,Recolector de basura y material reciclable
+309,Dorotea Fábregas Puente,1964-11-12,0.98,12054.64,Bailarín
+310,Pepe Alba Poza,1948-04-06,0.53,17170.76,Empleado de control de abastecimientos e inventario
+311,Mireia Catalá Lobo,1998-02-15,0.11,4295.82,Soplador de vidrio
+312,Leoncio Ale Anaya Bayón,2005-01-18,0.56,10710.1,Asesor financiero y en inversiones
+313,Regina Niño-Olivares,1969-05-14,0.15,3866.16,Cobrador
+314,Rosendo Gabaldón,1984-01-29,0.92,14517.17,Profesional de nivel medio en actividades culturales y artísticas
+315,Patricia de Abellán,1955-06-05,0.83,19157.26,Guardián de prisión
+316,Jenaro Talavera-Solano,1971-06-06,0.45,12696.23,Controlador de plagas y malas hierbas
+317,Dora Cánovas Ramón,1977-05-26,0.4,15276.64,Asistente veterinario
+318,Goyo Rosales Ramón,1976-02-04,0.24,17345.09,Reparador de bicicletas
+319,Guillermo Sales Ros,1986-07-21,0.7,13886.24,Telefonista
+320,Cecilia del Madrigal,1979-05-02,0.36,3521.95,Cobrador
+321,Celia Tudela-Corominas,2007-01-04,0.23,6834.23,Ayudante de odontología
+322,Aránzazu Ribera Ramírez,1957-07-10,0.27,8822.62,Dentista
+323,Jose Agustín Bosch,1972-03-01,0.93,13943.72,Antropólogo
+324,Ramiro Tejero,1949-04-23,0.95,4977.47,Operario del tratamiento de la madera
+325,Olimpia Villena,1993-11-08,0.11,8607.64,Director de servicios de bienestar social
+326,Luis Mayo Torrijos,1982-08-06,0.87,8311.58,Instalador y reparador de líneas eléctricas
+327,Íngrid Joaquina Alemán Piñol,1952-10-04,0.86,11812.06,Guardafrenos
+328,Emigdio de González,1968-10-21,0.34,12509.54,Peón de jardinería y horticultura
+329,Andrés Felipe Rodrigo,1984-08-17,0.08,14106.25,Operador de instalaciones mineras
+330,Ramona Rosaura Llanos Zorrilla,2006-08-27,0.38,16822.7,Peón de explotaciones de cultivos mixtos y ganaderos
+331,Donato Marin Barral,1979-07-25,0.95,7983.29,Operador de máquinas de vapor y calderas
+332,Yago Madrigal Suárez,1991-11-27,0.91,14781.31,Periodista
+333,Crescencia Georgina Iniesta Reyes,1955-07-02,0.36,14176.33,Planchador manuales
+334,Encarnita Clavero Quintero,1955-11-29,0.19,9183.48,Modisto
+335,Guiomar Múgica Garriga,1992-12-11,0.41,18817.78,Profesor de universidades y de la enseñanza superior
+336,Victor Manuel Otero Robledo,1970-10-09,0.29,10222.22,Cantante
+337,Irma Llano Guerrero,1965-03-09,0.74,15549.93,Practicante paramédico
+338,Amaya Tomás-Camps,1973-11-27,0.63,9096.22,Agente de bolsa
+339,Pablo Hierro Mir,1973-08-03,0.72,14067.34,Director de recursos humanos
+340,Otilia Maza,2000-06-11,0.21,18725.07,Árbitro deportivo
+341,Leyre del Cuenca,1992-05-17,0.34,19768.15,Operador de máquinas de movimiento de tierras
+342,Jose Manuel Pelayo Boix,1992-08-04,0.44,10196.39,Lavandero
+343,María Fernanda Gámez-Ávila,1996-08-13,0.15,18677.23,Reparador de bicicletas
+344,Milagros Folch Arjona,1983-12-01,0.09,19935.34,Mecánico y reparador de máquinas agrícolas e industriales
+345,Marcos Dan Santamaria Dominguez,1957-02-10,0.85,6317.02,Conserje
+346,Graciela Ballester Capdevila,1961-03-04,0.43,17356.94,Bordador
+347,Vanesa Catalán Donaire,1999-02-20,0.01,10741.25,Agente de aduanas
+348,Vicenta Arcelia Izaguirre Cantón,1972-08-26,0.36,11732.65,Criador de ganado
+349,Jafet Ayala Piña,2005-12-31,0.03,19219.96,Detective
+350,Omar Valbuena Gallego,1989-11-01,0.93,12173.15,Organizador de conferencias y eventos
+351,Fulgencio Alcalá Roig,1951-01-30,0.17,18325.34,Operador de instalaciones para la preparación de pasta para papel y papel
+352,Chus Sáez Falcón,1949-12-30,0.04,6819.06,Locutor de radio
+353,Regina Boix Prada,2005-03-28,0.71,9582.78,Revisor y cobrador de los transportes públicos
+354,José Luis Verdú,1954-02-02,0.21,7071.68,Mecánico y reparador de instrumentos de precisión
+355,Maximiano Olivares Guerrero,1987-06-02,0.47,8744.16,Mensajero
+356,León Hurtado Clemente,1963-05-08,0.47,18655.02,Profesional de ventas de tecnología de la información y las comunicaciones
+357,Aura Arnal Vallés,1988-05-08,0.89,13120.45,"Operador de máquinas de blanqueamiento, teñido y limpieza de tejidos"
+358,Marisa Tolosa,2007-08-22,0.21,16192.16,Colchonero
+359,Augusto Galván Bárcena,1959-11-29,0.44,3736.55,Peón de explotaciones agrícolas
+360,Ramona Gema Alberola Varela,1990-11-25,0.92,17291.07,Operador de máquinas para fabricar productos de caucho
+361,Maximiano Uría Saez,1989-06-30,0.88,12059.39,Profesional en redes de computadores
+362,Yolanda Belda Lillo,1993-04-04,0.75,14439.41,Especialista en métodos pedagógicos
+363,Magdalena Consuelo Echeverría Salinas,1985-03-17,0.92,7961.7,Trabajador social de nivel medio
+364,Nazaret Llamas Fortuny,1984-02-03,0.23,19739.77,Peón de pesca y acuicultura
+365,Geraldo Soler Lamas,2004-01-07,0.68,18123.48,Curtidor
+366,Ildefonso Enríquez Cabeza,1999-11-20,0.62,3873.63,Cazador
+367,Amelia Tomás Parra,1989-05-17,0.89,15223.39,Operador de máquinas de tratamiento de pieles y cueros
+368,Bibiana de Seguí,1988-12-04,0.04,18381.61,Asistente de venta
+369,Gustavo de Mir,2005-02-14,0.44,5953.4,Operador de instalaciones de procesamiento de metales
+370,Victor Carlos López,1966-07-24,0.57,17791.55,Inspector medioambiental y afines
+371,Trini Melero Barreda,1947-08-14,0.43,9442.17,Maestro de enseñanza primaria
+372,Jimena Gaya Quintero,1948-07-19,0.8,4668.4,Operador de máquinas de tratamiento de pieles y cueros
+373,Martín del Arenas,1970-08-15,0.53,3542.45,Recolector de basura y material reciclable
+374,Miguel Ángel Almagro,1948-04-14,0.7,15802.94,Operario en cemento armado y enfoscador
+375,Jose Francisco Villaverde Boada,1974-12-09,0.97,3361.45,Ingeniero en telecomunicaciones
+376,Baudelio Bernat Ferrández,1955-07-21,0.57,4525.98,Catador de alimentos y bebidas
+377,Haroldo Casares Monreal,1953-02-24,0.88,7870.11,Diseñador de bases de datos
+378,Aurora Valero Echeverría,1995-08-25,0.84,9626.55,Carnicero
+379,Evangelina Llanos Puga,1948-05-28,0.75,4329.97,Cuidador de niños
+380,Rolando Vazquez Llabrés,1950-03-10,0.75,14766.44,Actuario
+381,Plinio Llano Arcos,1951-12-03,0.56,5108.25,Veterinario
+382,Eleuterio Elorza Ojeda,1968-08-31,0.79,14572.3,Operador de instalaciones de procesamiento de la madera
+383,Brunilda Cabrero Torrents,1984-01-19,0.33,4466.39,Encuadernador
+384,Dafne Casanovas,1957-12-22,0.42,14300.23,Técnico en optometría y ópticos
+385,Sigfrido Cañete Romero,2007-08-17,0.86,12929.82,Lavandero
+386,Juan Carlos Cabello Escamilla,1966-12-17,0.57,3907.88,Mecánico y reparador de instrumentos de precisión
+387,Flavio Albero Guzman,1945-06-02,0.6,4858.39,Diseñador multimedia
+388,Calixto Cordero-Hernández,1968-05-24,0.48,8814.02,Labrante
+389,Francisca Campos Benitez,1994-01-01,0.46,15935.94,Lavador de ventanas
+390,Fabricio Puig-Sans,1999-04-06,0.2,16995.66,Profesional de la salud y la higiene laboral y ambiental
+391,Jennifer Soria-Ayllón,1983-01-13,0.32,8531.59,Actuario
+392,Florinda Badía Ayala,1973-05-04,0.4,18325.69,Personal directivo de la administración pública
+393,Leoncio Exposito Espinosa,1964-05-07,0.58,17080.89,Mayordomo doméstico
+394,Jordán Folch,1990-10-21,0.63,11112.6,Director de explotaciones de minería
+395,Loida Farré-Andreu,1998-03-23,0.95,7265.96,Operador de instalaciones de tratamiento de agua
+396,Valero Crespo Mena,1995-10-25,0.66,4416.12,Modisto
+397,Albino Aliaga,1979-10-14,0.74,14631.12,Operador de instalaciones de procesamiento de minerales y rocas
+398,Nicolás de Pera,1981-12-20,0.61,6019.29,Ingeniero electricista
+399,Clara de Balaguer,1977-04-18,0.98,7863.7,Geólogo
+400,Olga Huertas-Alegre,1970-08-19,0.37,17715.37,Educador para necesidades especiales
+401,Faustino Tovar Garzón,1947-07-25,0.87,14281.62,Personal directivo de la administración pública
+402,Calixto Escalona-Sabater,1988-06-17,0.06,8394.97,Gestor de aduana
+403,Florentina de Burgos,2000-03-09,0.11,5098.37,"Operario de la conservación de frutas, legumbres y verduras"
+404,Amada Llamas Vega,1974-01-25,0.2,3916.33,Tramper
+405,Angélica Cervantes Andres,1950-10-07,0.9,16575.42,Planchador manuales
+406,Crescencia Aragonés Múñiz,1956-07-22,0.22,14322.23,Empleado del servicio de personal
+407,Marisela del Amorós,1986-03-19,0.55,16150.01,Pintor y empapelador
+408,Abraham Galindo-Viana,1945-08-06,0.87,14923.37,Secretario administrativo
+409,Valentín Agustín-Cobo,1978-09-06,0.54,18438.12,Fontanero
+410,Telmo Cabanillas Coloma,1973-07-01,0.58,12531.91,Instalador de material aislante y de insonorización
+411,María José Sala,1960-08-08,0.87,9755.39,Costurero
+412,Nicanor del Bauzà,1979-05-11,0.74,9650.86,Guardafrenos
+413,Ramón Aguilar Flor,1978-03-20,0.34,4981.78,Gerente de comercios al por mayor y al por menor
+414,Pío Prada Morera,1960-06-13,1.0,13653.17,Minero
+415,Natalia Uría Reina,1978-04-27,0.59,4700.83,Peón de explotaciones de cultivos mixtos y ganaderos
+416,Olalla Valdés Cárdenas,1968-09-05,0.83,19791.02,Mecánico y reparador de vehículos de motor
+417,Florencio Tomé-Busquets,1987-04-29,0.32,13900.29,Biólogo
+418,Samuel Barberá Cardona,1984-06-03,0.29,17987.03,Técnico en ingeniería mecánica
+419,Irma Huertas Bonilla,1946-01-17,0.15,14896.54,Dibujante técnico
+420,Teodosio Arnal-Jove,1960-04-06,0.46,16595.91,Vendedor ambulantes de productos comestibles
+421,Vicente Torrent Neira,1981-03-30,0.21,15153.47,"Panaderos, pasteleros y confiteros"
+422,Etelvina Hurtado Vilar,1953-01-03,0.34,6192.38,Especialista en ciencias políticas
+423,Mayte Pomares,1999-09-05,0.86,12381.52,Psicólogo
+424,Andrés Felipe de Manzanares,2002-06-08,0.79,14148.88,Conductor de vehículos y máquinas de tracción animal
+425,Fidela Alcalá Bustamante,1969-10-13,0.16,3660.98,Profesional de nivel medio de medicina tradicional y alternativa
+426,María Fernanda Jordán,1983-01-04,0.47,18868.07,Ingeniero mecánico
+427,Marco Marco Reina,2000-06-10,0.35,14203.13,Técnico de laboratorio médico
+428,Máximo Sastre Carballo,2007-08-06,0.93,11121.25,Asistente farmacéutico
+429,Candelario Rozas Sans,1977-11-02,0.65,12978.0,Operador de máquinas para fabricar productos de caucho
+430,Ariel Melero Cortina,1978-04-10,0.08,14040.62,Demostrador de tiendas
+431,Belén Fernanda Piñol Escalona,2004-07-13,0.44,13948.29,Cuidador de niños
+432,Anunciación del Acuña,2002-11-15,0.68,17064.32,Operador de plantas y máquinas de productos químicos
+433,Cristina Barragán Barriga,1992-06-28,0.09,4458.81,Detective
+434,Roque Bayón Girón,1980-12-11,0.03,9174.28,Consignatario
+435,Baldomero Ferrero Contreras,1951-10-19,0.88,10258.25,Técnico en ingeniería mecánica
+436,Amada Cáceres Abellán,1961-08-22,0.95,8058.07,Operador de instalaciones de producción de energía
+437,Teodoro Llorens-Roca,2006-06-18,0.69,13156.57,Antropólogo
+438,Iker Simó,1991-05-23,0.71,6692.67,Profesional de medicina
+439,Jenaro Montenegro Coca,1948-05-24,0.91,11551.89,Cocinero
+440,Nadia Bru,1978-08-12,0.9,9943.62,Agente de empleo
+441,Alejandra Quero-Andreu,1975-07-25,1.0,3836.68,Técnico de la Web
+442,Azucena Revilla Lluch,1973-11-10,0.14,16372.01,Profesional de la protección medioambiental
+443,Leocadio Parra Beltrán,1999-01-22,0.03,10649.01,Empleado de servicios de correos
+444,Leopoldo Ortiz Gómez,1961-12-21,0.9,12085.62,Ayudante de ambulancia
+445,Loreto del Córdoba,1951-04-09,0.43,7827.22,Pulidor de vidrio
+446,Gisela Vergara Atienza,1999-06-13,0.95,12283.54,Clasificador de desechos
+447,Pastor Dominguez-Aliaga,1994-05-28,0.5,15293.74,Cristalero
+448,Griselda Salmerón Delgado,1993-10-19,0.61,14680.59,Peletero
+449,Poncio Moisés Prada Suarez,1958-03-11,0.57,16699.49,Técnico en asistencia al usuario de tecnología de la información y las comunicaciones
+450,Nuria Fuertes Castejón,1945-06-12,0.79,15920.93,Entrevistador de investigaciones de mercados
+451,Abel Pozuelo Solís,1996-09-02,0.2,18372.76,Ayudante de cámara
+452,Matías Mayoral-Simó,1988-03-19,0.69,19465.6,Zoólogo
+453,Abel de Valderrama,1972-10-26,0.55,14670.15,Tasador
+454,Valentín Porras Cifuentes,1990-06-25,0.75,5862.69,Locutor de televisión
+455,Toni Navas-Benet,1997-05-04,0.9,8481.13,Miembro del poder legislativo
+456,Jordi Llobet Agudo,1975-11-27,0.45,10215.47,Maestro de enseñanza primaria
+457,Maximino Palomar Osorio,1995-05-16,0.64,12854.16,Diseñador de prendas
+458,Anabel Ibañez Vidal,1981-09-18,0.24,19434.14,Estadístico
+459,Zacarías Carpio Blanes,1981-04-30,0.98,19854.9,Profesional de nivel medio de medicina alternativa
+460,Eloy Ribes Rosales,2002-09-18,0.52,7698.19,Contable
+461,Anacleto Patiño Correa,1977-01-14,0.29,6264.62,Controlador de procesos
+462,Martirio Melero Barón,2007-01-09,0.65,13897.44,Director de investigación y desarrollo
+463,Iris Múñiz Báez,1996-10-01,0.33,6410.3,Costurero
+464,Ruy Quiroga Valcárcel,1999-04-16,0.23,5631.77,Catador de bebidas
+465,Cecilia Armida Vega Salgado,1996-02-24,0.55,7358.51,Ingeniero metalúrgico
+466,Ruy Gonzalez Guitart,1974-10-13,0.13,13954.01,Director de políticas y planificación
+467,Leocadio del Bolaños,1962-11-19,0.16,6859.58,Árbitro deportivo
+468,Eusebio Balaguer Barranco,1966-02-08,0.15,9520.09,Operario del tratamiento de la madera
+469,Rocío Bueno Bolaños,1975-03-22,0.85,19506.48,Botánico
+470,Severiano Venceslás Valbuena Álamo,1984-10-04,0.92,10554.65,Agente de bolsa
+471,Carina Xiomara Rivero Orozco,1967-11-19,0.86,6730.99,Limpiador de fachadas
+472,Édgar Marco Aznar,1989-06-24,0.5,15506.51,Modelador de vidrio
+473,Jacinta Soler Orozco,1963-10-29,0.76,6596.17,Herrero
+474,Consuelo de Gálvez,1984-06-15,0.48,9791.4,Lavador de vehículos
+475,Héctor Vergara Company,1967-08-18,0.34,15399.73,Corrector de pruebas de imprenta
+476,Evita Adán Dueñas,1949-01-14,0.67,15799.02,Filósofo
+477,Luisa Sotelo Ariño,1979-08-29,0.01,15305.59,Recolector de basura y material reciclable
+478,Pepito Galindo Capdevila,1997-07-06,0.82,14807.41,Piloto de aviación
+479,Ignacio Julio César Jover Simó,1961-09-17,0.57,5049.83,Decorador de interior
+480,Abril Checa Mas,1989-02-26,0.86,7470.84,Supervisor de tiendas y almacenes
+481,Adolfo Casas Feijoo,1975-09-13,0.56,17562.13,"Modelo de moda, arte y publicidad"
+482,Mireia Guerrero Boada,1985-03-03,0.66,11925.24,Cristalero
+483,Miguel Molins Vizcaíno,1958-11-09,0.87,16513.69,Juez
+484,Eutimio Oller Franch,1987-03-14,0.86,16919.31,Analista financiero
+485,Charo Corona Fuster Cabanillas,1969-09-28,0.46,9925.58,Profesional del trabajo social
+486,Tamara Ariño Molins,1961-03-02,0.34,15499.66,Diseñador multimedia
+487,Luciano Olivé Tovar,1959-06-21,0.19,16195.06,Traductor e intérprete
+488,Aitana Carla Llobet Lobato,1993-06-23,0.31,17875.56,Físico
+489,Raimundo Pizarro Montesinos,1995-06-20,0.6,16513.7,Mayordomo doméstico
+490,Samu Tejera Becerra,1963-11-24,0.37,16505.34,Constructor de casas
+491,Olimpia Zaragoza Mateo,1974-02-28,0.23,13536.88,Empleado del servicio de personal
+492,Aitor Sosa Quintana,1974-04-30,0.25,19822.42,Supervisor en ingeniería de minas
+493,Bautista Arcos Zorrilla,1985-12-18,0.58,12088.86,Secretario (general)
+494,Hugo Tomé Llorens,1953-10-19,0.68,12168.34,Prestamista
+495,Marta Calatayud Ballester,1956-03-14,0.15,15518.63,Operador de instalaciones de procesamiento de minerales y rocas
+496,Joaquín Martínez,1981-09-03,0.41,17355.15,Conductor de camiones pesados
+497,Belen Matas Galiano,1999-11-06,0.69,8611.37,Vendedor de quioscos y de puestos de mercado
+498,Haydée Giner Arnau,1993-05-31,0.52,18973.45,Empleado de centro de llamadas
+499,Alma Aurora Palma Tamayo,1975-03-22,0.81,10371.45,Impresor
+500,María José Pagès Bosch,1950-07-27,0.03,15726.55,Tronzador
+501,Haydée Sobrino Calvo,1962-04-23,0.16,3172.54,Director de servicios de tecnología de la información y las comunicaciones
+502,Domitila Torrens Pina,1969-10-31,0.42,15488.35,Operador de máquinas para fabricar productos de caucho
+503,Alcides Hector Blanca Boada,1951-01-26,0.78,11093.83,Operador de telar y otras máquinas tejedoras
+504,Heriberto Víctor Bravo Guillén,1959-05-12,0.16,10380.98,Maestro preescolar
+505,Chema Valera Carreras,1947-05-31,0.76,10667.56,Cazador
+506,Agustina Macías Montalbán,1969-07-04,0.44,6599.82,Inspector de policía
+507,Alcides de Pinilla,1948-06-01,0.23,16340.52,Auxiliar de servicio de abordo
+508,Claudia Reyes Vila Pizarro,1970-05-13,0.59,7488.22,Empleado de control de abastecimientos e inventario
+509,María Manuela Pablo Vera,1967-08-03,0.96,8309.94,Conductor de autobús
+510,Rubén Grande Urrutia,1954-05-18,0.12,18234.24,Conductor de automóviles
+511,Juan Luis Barba-Chaves,1953-07-12,0.62,12980.17,Director financiero
+512,Casandra Catalá Prat,2006-10-27,0.28,13025.19,Controlador de plagas y malas hierbas
+513,Manuela Corbacho Rosa,1982-04-27,0.24,12801.77,Director de explotaciones de minería
+514,Juan Carlos Benítez Alcalde,1995-07-22,0.32,15654.33,"Gerente de sucursales de bancos, de servicios financieros y de seguros"
+515,Leandra Palomo Carbonell,2002-04-11,0.0,4961.48,Mecánico y reparador en electrónica
+516,José Andreu Amo,1977-07-20,0.64,19209.66,Cartógrafo
+517,Zoraida Vera Jáuregui,1971-03-14,0.52,15474.21,Trabajador de cuidados personales en instituciones
+518,Lorenzo Roldan Millán,1997-06-02,0.47,14638.35,Agrónomo
+519,Isidro Barrio Porta,1999-05-12,0.24,8007.12,Recolector de basura y material reciclable
+520,Osvaldo Meléndez Viñas,1995-10-27,0.44,3007.19,Dibujante técnico
+521,Marc Jáuregui Mulet,1989-01-16,0.5,9067.33,Supervisor de secretaría
+522,María Miró,1955-06-20,0.91,10072.02,Avicultor
+523,Josep Albero Peñas,1957-08-18,0.49,14295.75,Controlador de plagas y malas hierbas
+524,Alejandro Jáuregui Cabañas,2000-11-16,0.87,14971.83,Decorador de interior
+525,Custodia Águila Peiró,1971-12-02,0.38,10888.31,Clasificador de productos
+526,Manuel Becerra Echevarría,1998-04-14,0.43,14609.23,Demostrador de tiendas
+527,Áurea Vallés Casanova,1967-08-06,0.62,16343.42,Profesional de nivel medio de medicina tradicional y alternativa
+528,Celso Morell,1971-09-05,0.12,13616.82,Operador de instalaciones de vidriería y cerámica
+529,Osvaldo de Amo,1968-10-30,0.47,12980.4,Peletero
+530,Emma Ledesma Farré,1947-09-05,0.94,13043.84,Profesional de la salud y la higiene laboral y ambiental
+531,Regina Cárdenas,1998-02-13,0.0,5763.1,Dinamitero
+532,Marina del Parra,1970-02-21,0.44,4122.18,Operador de grúas y aparatos elevadores
+533,Leandro del Gimenez,1972-01-30,0.55,16539.3,Contable
+534,Wilfredo Patiño Albero,1949-09-06,0.11,8644.9,Organizador de conferencias y eventos
+535,Felicia Leal Verdejo,1991-04-05,0.94,16584.44,Conductor de automóviles
+536,Teodosio Tenorio-Aguilera,1976-03-14,0.26,4195.16,Conductor de autobús
+537,Valentina Anguita Crespi,1980-05-29,0.65,18551.85,Empalmador de cables
+538,Ángel Mesa Amor,1979-01-31,0.06,17155.47,Empleado encargado de las nóminas
+539,Soledad de Maza,1990-08-13,0.3,6606.55,Asesor financiero y en inversiones
+540,Amancio Ojeda Bello,1961-01-04,0.85,16033.28,Diseñador gráfico
+541,Plácido Palacios Castell,1965-10-18,0.21,9659.06,Técnico en ingeniería mecánica
+542,Haroldo Pla Dávila,1994-02-10,0.89,14046.73,Mecánico y reparador de máquinas agrícolas e industriales
+543,Leonardo Andres,1970-10-20,0.6,5431.07,Lavador de ventanas
+544,Chema Valverde Barón,1958-08-12,0.91,12688.39,Diseñador de interior
+545,Amarilis Llorente Recio,1973-02-10,0.75,18578.72,Químico
+546,Toribio Grande Fernández,1998-05-25,0.62,12852.28,Entrevistador de investigaciones de mercados
+547,Jose Miguel Puig-Bravo,1996-04-08,0.65,12608.04,Soplador de vidrio
+548,Albert Maldonado Checa,2006-11-04,0.67,8057.06,Joyero
+549,Virginia Cal Barco,1992-11-25,0.98,13910.01,Operario del tratamiento de la madera
+550,Hugo Cantero-Araujo,1981-07-02,0.78,4646.6,Electricista de obras
+551,Lucio Gomez Llano,1984-08-30,0.26,16750.44,Analista financiero
+552,Azucena Almansa,1946-09-10,0.62,4010.13,Director de políticas y planificación
+553,Paz de Baños,1986-12-06,0.85,3097.9,Ecónomo y mayordomos domésticos
+554,Remedios Ropero-Espinosa,2001-03-08,0.02,3791.89,Operador de instalaciones de vidriería y cerámica
+555,Cristóbal Nebot Peñas,2000-06-24,0.54,18366.06,Técnico en documentación sanitaria
+556,Nayara de Leal,1948-07-05,0.97,8818.64,"Operador de máquinas de blanqueamiento, teñido y limpieza de tejidos"
+557,Bautista Sanz Francisco,1971-08-07,0.74,19081.93,Oficial de las fuerzas armadas
+558,Perla Gomis Torres,1977-07-09,0.07,7968.81,Ingeniero civil
+559,Sergio Vizcaíno-Arteaga,2000-09-28,0.17,7584.86,Técnico en ingeniería civil
+560,Margarita Ocaña Ropero,2005-06-19,0.7,9008.57,Operador de telar y otras máquinas tejedoras
+561,Rosalinda Niño Huertas,1971-10-23,0.94,6664.33,Lingüista
+562,Ildefonso Mir Sanz,1946-04-27,0.49,15204.75,Inspector de fronteras
+563,Feliciana Cuevas Cuéllar,1998-02-03,0.14,13938.07,Mampostero
+564,Pascual Bou Pardo,1991-07-19,0.58,5551.57,Contable
+565,Merche Sanz Hurtado,1969-09-21,0.55,10246.37,Asistente fisioterapeuta
+566,Aristides Belmonte Alemán,1961-04-01,0.05,19512.96,Techador
+567,Fortunato Llano Gisbert,1979-01-31,0.14,9915.16,Optometrista
+568,Ruperta Nicolás Blazquez,1996-11-30,0.5,17909.98,Modelador de vidrio
+569,Verónica Ariza Baños,1984-09-27,0.58,17178.29,Bordador
+570,Rosaura Zorrilla Arnau,1949-09-21,0.51,5662.29,Clasificador de productos
+571,Claudia Suarez Cortes,1982-07-17,0.05,10306.75,Pescadero
+572,Paloma Alegria,1948-01-27,0.65,8872.5,Analista de gestión y organización
+573,Pío Anacleto Sevilla Iriarte,1980-05-21,0.46,3747.62,Fotógrafo
+574,Roxana Ibáñez Carrión,1970-05-05,0.5,4514.98,Conductor de vehículos y máquinas de tracción animal
+575,Moisés Graciano Aroca Ferrero,1965-03-14,0.54,18714.61,Cortador de vidrio
+576,Rufina Mercedes Iniesta Gimenez,1976-09-21,0.01,12418.69,Peón de jardinería y horticultura
+577,Arcelia Valero Casals,1968-06-05,0.51,6105.17,Barnizador
+578,Galo Sainz Navarrete,2003-01-27,0.53,11817.86,Desarrollador de software
+579,Isidora Gonzalo Bautista,1998-08-08,0.98,3366.58,Instructor de autoescuela
+580,Blas Blanch Fabra,1953-07-13,0.76,17697.83,Profesor de enseñanza secundaria
+581,Luna Ledesma-Sevilla,1994-02-17,0.17,19369.16,Oficial de cubierta
+582,Hector Cuervo Rivera,1974-12-17,0.11,19302.05,Peluqueros
+583,Isaías Cobos Céspedes,2005-01-09,0.42,8374.34,Operador de máquinas para elaborar alimentos y productos afines
+584,Odalys Morante Córdoba,1990-08-14,0.11,9503.62,Limpiador y asistente doméstico
+585,Margarita Boada Laguna,1960-05-05,0.09,6966.56,Personal de pompas fúnebres y embalsamador
+586,Poncio Armando Tello Montoya,1971-07-13,0.41,3483.19,Cajero
+587,Rolando Valls Cabezas,1996-07-29,0.15,5329.04,Preparador y elaborador de tabaco y sus productos
+588,Mirta Carlos-Egea,1961-11-13,0.65,13917.35,Joyero
+589,Hermenegildo Flores Jaén,2002-11-02,0.31,9272.34,Delineante
+590,Anita del Barceló,2004-09-29,0.74,4580.95,Geólogo
+591,Osvaldo Lago Gimenez,1986-11-11,0.59,18621.92,Regulador y operador de máquinas y herramientas
+592,Cecilio Osorio Madrigal,1965-09-02,0.87,12073.61,Instalador y reparador en tecnología de la información y las comunicaciones
+593,Edmundo Anglada Osorio,1958-02-17,0.72,6846.55,Auxiliar laico de las religión
+594,Maristela Aránzazu Olmedo Gracia,1979-05-31,0.15,17400.77,Clasificador de desechos
+595,María Pilar Quiroga Peñalver,1987-09-25,0.63,4431.36,Especialista en tratamientos de belleza
+596,Albert Benavides Tur,1967-04-18,0.43,18581.92,Operador de máquinas lavarropas
+597,Bernabé Cañellas Pombo,1990-05-30,0.71,11752.54,Patronista y cortador de tela
+598,Priscila Conesa Salamanca,1954-02-10,0.79,15351.33,Especialista en tratamientos de belleza
+599,Ariadna Barriga Gámez,2001-12-23,0.39,16180.53,Demostrador de tiendas
+600,Rosalva Luque Moll,1965-11-21,0.42,5195.18,Artista plástico
+601,Abel de Rosell,1953-09-28,0.32,4199.01,Peletero
+602,Loreto Mármol Caro,2004-08-15,0.02,8152.01,Técnico en química industrial
+603,Morena Gelabert Castelló,1990-02-05,0.51,15230.34,Director de servicios de cuidado de las personas de edad
+604,Agustina Tomé Sarmiento,1969-06-15,0.13,11056.95,Ayudante de odontología
+605,Sandalio Velasco Guzman,1977-07-06,0.35,9773.02,Director de ventas y comercialización
+606,Jenny Iborra Barrio,1971-11-07,0.6,4167.42,Gerente de hoteles o restaurantes
+607,Lucila Navas Artigas,2005-12-15,0.93,14053.45,Antropólogo
+608,Teodosio del Criado,2005-07-03,0.35,16022.31,Dentista
+609,Natanael Valbuena Bernad,1987-07-22,0.42,9570.24,Guardafrenos
+610,Gerónimo Bermudez Gracia,1971-11-05,0.9,12864.39,Supervisor de secretaría
+611,Celia Baena-Crespo,1970-09-21,0.41,4022.35,Dibujante técnico
+612,Nayara Aliaga Zabala,1958-08-07,0.71,14977.38,Curtidor
+613,Cintia Anna Lucas Losada,2001-12-22,0.1,11772.99,Operador de instalaciones de procesamiento de la madera
+614,Nando Ferrán Vilaplana,1999-12-01,0.48,14533.45,Zoólogo
+615,Nazaret Parejo Porta,2002-07-15,0.23,6804.79,Sombrerero
+616,Paola Rosell Zapata,1993-08-18,0.12,6509.83,Peón de explotaciones de cultivos mixtos y ganaderos
+617,Bernardino Cuadrado,1947-04-09,0.35,12804.49,Profesional de medicina alternativa
+618,Perlita Hoyos,1991-04-20,0.81,5522.6,Secretario ejecutivo
+619,Pacífica Octavia Nogués Anaya,1969-04-18,0.03,4084.11,Vendedor de comidas al mostrador
+620,Felipe Bruno Coronado Arnaiz,1946-12-04,0.2,7510.49,Repartidor
+621,Carlito Peral Casanova,1989-02-17,0.35,16885.73,Encuadernador
+622,Anna Vera Menendez,2005-03-16,0.9,15731.54,Peón de minas y canteras
+623,Javi Daniel Español Ródenas,1962-06-23,0.07,7403.33,Asistente fisioterapeuta
+624,Marisol Coronado,1980-11-21,0.41,16811.72,Médico general
+625,Eugenio Villanueva-Valle,1990-12-14,0.01,3871.01,Representante comercial
+626,Chelo Sancho Mur,1967-08-06,0.86,3070.38,Profesional de nivel medio de medicina alternativa
+627,Florinda Cabanillas Molina,2000-12-11,0.94,12269.2,Pescadero
+628,Pascual de Puerta,2008-02-25,0.85,16764.42,Técnico de laboratorio médico
+629,Haydée Estévez Valle,1972-04-26,0.31,6827.6,Operador de máquinas para elaborar alimentos y productos afines
+630,Águeda Serra-Zorrilla,1998-01-05,0.92,13605.55,"Limpiador y asistente de oficinas, hoteles y otros establecimientos"
+631,Ariel Lozano Abad,1975-08-12,0.72,5316.17,Agente de seguros
+632,Angelina del Barriga,1962-05-26,0.19,11080.31,Estadístico
+633,Salvador Gomila,1974-05-27,0.23,15713.83,Astrónomos
+634,Dorita Reig-Torrens,1945-11-25,0.17,8954.39,Carnicero
+635,Nilo Tirado Giner,1970-11-07,0.18,10349.56,Director de explotaciones de minería
+636,Brígida Arribas-Aranda,1985-04-10,0.36,12063.01,Audiólogo
+637,Cesar Méndez Frías,1964-12-01,0.96,18597.33,Guardagujas
+638,Zaida Verdú Nuñez,1971-05-20,0.87,19602.67,Mecánico y reparador de instrumentos de precisión
+639,Melchor Gilabert Carrión,1947-08-10,0.3,14980.46,Analista de sistemas
+640,Trinidad Sola Fernandez,2003-12-25,0.28,18981.35,Practicante y asistente médico
+641,Jose Ramón Juan Carlos Jerez Nebot,1967-06-06,0.21,10320.27,Piloto de aviación
+642,Diego del Melero,2001-04-10,0.24,11019.65,Fumigador
+643,Leoncio Mosquera,1973-05-30,0.27,14416.39,Biólogo
+644,Berta Moreno Andres,1946-03-29,0.47,6026.44,Técnico en redes y sistemas de computadores
+645,Carmela Cuevas,1951-08-01,0.22,15035.38,Capitán decubierta
+646,Zaira Lobato Cañete,1946-05-13,0.67,3187.52,Técnico de la Web
+647,Consuelo Lago Pacheco,2001-11-05,0.63,6624.93,Locutor de televisión
+648,Tadeo Martinez-Prats,1967-05-01,0.13,19061.55,Empleado de agencia de viajes
+649,Jesusa Frías Paniagua,1989-06-16,0.66,8018.72,Trabajador forestal calificado
+650,Nicodemo Puente Manrique,1996-10-27,0.27,8440.61,Audiólogo
+651,Isaac Grande Simó,1961-12-22,0.76,12791.49,Agente de servicios de expedición de licencias y permisos
+652,Gabriela Pacheco Villaverde,1961-04-28,0.35,9724.3,Telefonista
+653,Andrés Felipe Llanos Niño,1999-06-05,0.54,7741.67,Revocador
+654,Claudia Nogueira Collado,2006-12-27,0.86,14431.91,Peón de explotaciones ganaderas
+655,Emma Pallarès,1959-05-04,0.83,12325.79,Meteorólogo
+656,Natividad de Portillo,1973-11-30,0.82,8033.59,Optometrista
+657,Gerónimo Aguilera Fuertes,1993-10-22,0.91,11839.99,Dibujante técnico
+658,Gala Sala Peiró,1947-09-06,0.13,4174.06,Apicultor
+659,Micaela Coloma,2007-06-16,0.37,13661.18,Controlador de plagas y malas hierbas
+660,Noelia Cantón Narváez,1993-08-19,0.78,6750.11,Barrendero
+661,Belén Alegre Burgos,1985-09-24,0.92,16019.54,Operador de máquinas para fabricar productos fotográficos
+662,Calixta Núñez Escudero,2005-04-02,0.63,10609.61,Cantante
+663,Victoriano Moles Cadenas,1977-05-22,0.63,19524.86,Instructor de educación física y actividades recreativas
+664,Tatiana Rivero Clemente,1964-08-27,0.73,17629.72,Asistente de venta
+665,Isaura Pacheco Rosa,1957-11-21,0.03,14503.51,Empleado de biblioteca
+666,Azeneth Narcisa Ibarra Piñeiro,1986-12-01,0.05,4810.1,Tramper
+667,Celestino de Cueto,1964-07-24,0.57,13308.17,Mampostero
+668,Fabio Alvarado Pedro,1957-11-09,0.06,17615.32,Técnico en electrónica
+669,Candelaria Juana Buendía Bonilla,1964-05-13,0.52,13991.11,Albañil
+670,Primitiva Cobo Nogueira,1990-03-15,0.22,13751.68,Cajero
+671,Pascual Abascal Canals,1993-08-28,0.98,15427.27,Catador de bebidas
+672,Rosalinda de Aguado,1989-07-22,0.46,4882.53,"Pescador, cazador, tramperos y recolector de subsistencia"
+673,Tristán Naranjo Sainz,1996-04-04,0.76,3654.38,"Operario de la conservación de frutas, legumbres y verduras"
+674,Josefa Salamanca Falcón,1998-10-23,0.85,4069.31,Asistente farmacéutico
+675,Teófila del Tamayo,1966-10-30,0.49,8825.72,Agente de empleo
+676,Anna Carpio,1992-02-02,0.06,14293.81,Director de teatro
+677,Trinidad Colom-Tamarit,1964-10-06,0.42,13416.42,Médico especialista
+678,Alfonso Sarmiento Jordá,2002-12-05,0.24,17748.4,Operario en cemento armado y enfoscador
+679,Jose Francisco Silva,1954-09-17,0.25,19661.26,Mecánico y reparador de motores de avión
+680,Heraclio Almagro Valera,1961-10-20,0.82,12050.34,Agente inmobiliario
+681,Aníbal Sáenz,1971-07-24,0.25,3742.63,Supervisor de tiendas y almacenes
+682,Ana Montaña Yuste,1955-10-04,0.32,3187.18,Afinador de instrumentos musicales
+683,Ani de Santamaria,1984-02-23,0.75,11960.41,Técnico de la Web
+684,Francisco Sureda Cervera,1959-12-15,0.7,18441.89,Detective
+685,Oriana de Portero,1966-01-25,0.61,4875.73,Historiador
+686,Jose Torralba,1976-05-04,0.04,12896.16,Operador de máquinas lavarropas
+687,Aroa Nogueira Ferrando,2003-08-18,0.87,4225.58,Locutor de radio
+688,Rolando Maza Maestre,1999-11-30,0.99,4471.85,Químico
+689,Teresa Mendez Alonso,1958-11-01,0.45,13354.29,Especialista en ciencias políticas
+690,Daniela Javiera Vázquez Llano,2004-11-27,0.33,5974.66,Técnico en ingeniería civil
+691,Lisandro Ismael Pedro Montalbán,2004-04-28,0.69,3305.46,Ingeniero industrial
+692,Tito Clemente,2004-02-20,0.43,8707.65,Analista de sistemas
+693,Dan Almansa Coello,2006-11-15,0.26,7931.25,Declarante de aduana
+694,Nazario Mariño Duque,1951-02-17,0.87,10285.64,Director de industrias manufactureras
+695,Marcio del Ayala,1963-09-04,0.91,9360.91,Asistente veterinario
+696,Alma Abril Catalán Pol,1997-03-25,0.41,9094.07,Representante comercial
+697,Benigno Soria Grau,1967-11-04,0.25,8862.5,Geólogo
+698,Perla Vilaplana,1953-04-17,0.26,7258.96,Apicultor
+699,Leoncio Piquer Solano,1950-07-06,0.93,10391.17,Controlador de instalaciones de procesamiento de productos químicos
+700,Trinidad Marti Matas,1973-06-24,0.71,8453.38,Limpiador y asistente doméstico
+701,Américo Báez Pagès,1968-10-27,0.38,19204.67,Operador de máquinas de coser
+702,Micaela Donaire Cantero,1963-03-04,0.51,16162.38,Pulidor de vidrio
+703,Leoncio Madrigal Peña,1957-09-03,0.39,18251.05,Agente de bolsa
+704,Tere Cabeza Rosado,1999-10-02,0.52,13056.91,Locutor de televisión
+705,Albano de Vallés,1988-10-22,0.43,15053.2,Técnico en ingeniería de minas y metalurgia
+706,Venceslás Manso Morillo,1974-05-04,0.26,6359.18,Director de industrias manufactureras
+707,Emigdio Rincón Farré,1997-01-17,0.93,7892.4,Profesional de relaciones públicas
+708,Magdalena Herrero Cal,1949-09-24,0.95,5332.94,Vendedor puerta a puerta
+709,José Mari de Rocha,1973-09-08,0.94,12324.25,Avicultor
+710,Itziar Chamorro Gonzalo,1992-10-07,0.85,4212.26,"Operador de máquinas de preparación de fibras, hilado y devanado"
+711,Josefa Campoy Duarte,1986-12-02,0.89,17128.11,Especialista en ciencias políticas
+712,Isidoro Ferrera Buendía,2001-02-10,0.94,18647.1,Peluqueros
+713,Jenaro León-Piña,2002-09-14,0.95,7135.26,Mecánico y reparador de vehículos de motor
+714,Fabricio de Paredes,1960-03-31,0.65,19604.21,Asistente de venta
+715,Patricio Lucas Benet,1950-04-15,0.5,18292.73,Chef
+716,Azahar Aznar Valverde,1996-07-18,0.05,8338.22,Modelador de vidrio
+717,Brunilda Abascal Huerta,1977-01-07,0.15,14410.12,Lavador de vehículos
+718,Octavio Barco Gibert,2003-12-10,0.73,8619.4,Técnico agropecuario
+719,Maximiliano Cadenas Carrillo,1945-10-03,0.43,11951.26,Profesional de medicina
+720,Concepción Peña Madrigal,1962-09-10,0.09,9938.63,Oficial maquinistas en navegación
+721,Teobaldo Bellido Morcillo,1978-02-17,0.3,19780.16,Conductor de taxis
+722,Manolo Heras-Pereira,1969-06-14,0.62,12325.81,Mecánico y reparador de vehículos de motor
+723,Leonel Noriega Comas,2004-09-24,0.75,16579.68,Moldeador y machero
+724,Teodosio Madrigal Trillo,1974-03-23,0.48,13524.12,Recolector de leña
+725,Ileana Somoza Ledesma,1949-10-08,0.12,4580.32,Peón de jardinería y horticultura
+726,Ernesto Baños,1954-02-02,0.12,10338.53,Aparejador
+727,Ibán Sebastian Enríquez Cobos,1969-12-19,0.77,17903.05,Abogado
+728,Yolanda Royo Aznar,1983-04-08,0.97,8014.13,Codificador de datos
+729,Enrique Garmendia Bayona,1981-08-17,0.68,14673.03,Empleado del servicio de personal
+730,Gracia Chacón Segovia,1953-03-08,0.67,12529.05,Moldeador y machero
+731,Begoña Delfina Téllez Sola,1996-02-03,0.03,19868.41,Técnico en seguridad aeronáutica
+732,Quique Villena Escamilla,1960-09-28,0.87,13750.69,Mensajero
+733,Román Caballero Garcia,1965-12-05,0.22,11630.63,Operador de instalaciones de vidriería y cerámica
+734,Encarnita del Juan,1995-01-02,0.5,19844.82,Focumentalista
+735,Adalberto Arroyo Gabaldón,1993-03-28,0.86,9984.23,Mecánico y reparador de vehículos de motor
+736,Amarilis Cuervo Sola,2001-09-28,0.87,9578.4,Traductor e intérprete
+737,Yésica Iglesias Carrera,1976-06-21,0.51,3457.79,Psicólogo
+738,Isidoro Gómez Arias,1966-12-26,0.47,7393.65,Instructor de autoescuela
+739,Estefanía Farré Castejón,1974-02-03,0.81,14901.81,Trabajador agrícola de subsistencia
+740,Eutimio del Jordán,1949-04-15,0.81,8815.48,Agente de compras
+741,Catalina Guitart Quintero,1967-10-01,0.12,4252.79,Cobrador
+742,Xavier Arregui Millán,1967-04-25,0.89,13912.51,Tipógrafo
+743,Luis Ángel Acero,2007-08-25,0.13,18768.77,Operador de instalaciones de procesamiento de metales
+744,Régulo Rincón Llano,1991-09-06,0.66,7647.51,Profesional de ventas de tecnología de la información y las comunicaciones
+745,Jordi Simó,1989-07-05,0.34,3650.87,Corrector de pruebas de imprenta
+746,Isaac Zabala Cárdenas,1954-11-21,0.11,8476.77,Actuario
+747,Dalila Beltran Vizcaíno,1971-01-02,0.22,17876.98,Operador de máquinas lavarropas
+748,María de Gárate,1952-07-01,0.24,10556.08,Instalador y reparador en tecnología de la información y las comunicaciones
+749,Blas Rogelio Maestre Donoso,1972-01-17,0.64,11538.45,Economista
+750,Federico Anaya Fernández,1981-07-08,0.69,15830.47,Curador de museos
+751,Roque Bermudez-Crespo,2007-09-16,0.94,7382.51,Platero
+752,Ascensión de Pedrosa,1999-06-02,0.27,3112.74,Focumentalista
+753,Luisa Carranza Pla,2001-07-06,0.34,5613.0,Deportista
+754,Celestino Cal,2002-10-24,0.37,14379.47,Instructor de autoescuela
+755,Eligio Quirino Laguna Higueras,1957-09-28,0.13,15893.84,Técnico en aparatos de diagnóstico y tratamiento médico
+756,Pía Marisela Ferrández Polo,2001-08-28,0.3,4970.92,Herramentista
+757,Lorenzo del Gallardo,1998-11-27,0.54,14633.03,Platero
+758,Miguel Pinto Villena,1970-11-24,0.97,13342.55,Repartidor
+759,Loreto Navas Gimeno,1972-11-06,0.97,17730.07,Agente de maniobras
+760,Simón Cuevas-Jódar,2001-02-07,0.27,10179.44,Técnico forestal
+761,Ignacio Gascón,1989-10-09,0.78,16439.4,Cuidador de niños
+762,Epifanio Torrents Daza,1998-02-19,0.08,18082.62,Limpiador y asistente doméstico
+763,Ariel del Peña,1998-11-28,0.67,17297.61,Mecánico y reparador de vehículos de motor
+764,Anastasia Tejero Zurita,1981-12-23,0.44,18256.05,"Panaderos, pasteleros y confiteros"
+765,Reinaldo Belmonte-Arteaga,1956-09-04,0.95,14108.47,Director de servicios de educación
+766,Victoriano Roselló Grau,1957-04-04,0.81,4988.67,"Operador de máquinas de embalaje, embotellamiento y etiquetado "
+767,Josefina Yésica Bonet Antúnez,1993-10-01,0.41,5854.74,Conductor de motocicletas
+768,Pastor Canals Abril,1972-08-17,0.78,13247.9,"Operador de máquinas de blanqueamiento, teñido y limpieza de tejidos"
+769,Guillermo Beltran-Villa,1972-01-01,0.19,19233.85,Técnico en ciencias biológicas
+770,Rodrigo Villar Infante,1997-08-04,0.2,6293.86,Trabajador pecuario de subsistencia
+771,Nazaret Aguiló-Arana,2006-05-27,0.31,3604.77,Optometrista
+772,Juan Bautista Nebot Roldan,1956-02-04,0.16,13690.01,Vendedor de comidas al mostrador
+773,Fidel Ortiz Río,1961-01-20,0.09,12394.07,Astrólogo
+774,Dani Bonet Arco,1994-04-24,0.82,10257.66,Analista de gestión y organización
+775,Valentín Acuña Yáñez,1962-07-02,0.69,14721.84,Focumentalista
+776,Melania Ropero Piña,1963-05-13,0.93,14284.65,Operador de instalaciones de producción de energía
+777,Javier de Pazos,1978-11-12,0.34,6870.03,Operador de instalaciones de procesamiento de metales
+778,Anastasia Palma Fabra,1980-11-07,0.97,4875.4,Decorador de interior
+779,Jacobo Cases Roldan,1983-11-13,0.97,10375.96,Operador de plantas y máquinas de productos químicos
+780,Rosalía Benet Vidal,2000-03-18,0.26,9287.17,Técnico de la Web
+781,Damián Vega Francisco,2002-08-10,0.75,6600.95,Tenedor de libros
+782,Marciano Lloret Fortuny,1980-12-07,0.22,15581.71,Empleado de servicios de transporte
+783,Aurelio Jove-Mir,1992-04-29,0.77,14446.18,Aparejador
+784,Hugo Barrera Arribas,1958-03-10,0.68,5261.07,Ensamblador de maquinaria mecánica
+785,Salud Gelabert Arnaiz,1994-02-25,0.73,5766.79,Ggeofísico
+786,Lope Pareja Moreno,1996-08-06,0.18,6503.58,Laminador de vidrio
+787,Paulino Luis Miguel Arias García,1951-08-14,0.06,6126.16,Profesor de formación profesional
+788,Benita del Aragón,1974-05-04,0.13,14083.32,Clasificador de productos
+789,Matilde Villaverde Roselló,1958-08-03,0.07,14103.97,Albañil
+790,Baltasar Barral Galván,1974-11-10,0.09,7328.12,Personas que realizan trabajos varios
+791,Faustino Codina Castell,1956-04-30,0.02,13481.99,Expendedor de gasolineras
+792,Salud Esparza Salas,1967-06-02,0.96,17965.8,Operador de máquinas de vapor y calderas
+793,Candelaria Grande,2007-04-17,0.98,8166.76,Agente de aduanas
+794,Severo Malo Grande,1949-03-23,0.72,15650.04,Diseñador de bases de datos
+795,Cayetana Dionisia Bru Simó,1950-02-05,0.77,4815.49,Soplador de vidrio
+796,Alondra Casado-Casals,1969-03-22,0.04,17832.55,Inspector medioambiental y afines
+797,Julia Fiol Ángel,1960-03-12,0.78,7910.17,Trabajador comunitario de la salud
+798,Rosendo Escudero Cabrera,1960-01-19,0.5,10714.73,"Empleado de servicios estadísticos, financieros y de seguros"
+799,Tomás de Alcalá,1952-08-05,0.24,14497.16,Locutor de televisión
+800,Rodrigo Hurtado Uribe,1983-03-04,0.33,12858.15,Supervisor de tiendas y almacenes
+801,Valerio Duran-Borrego,2000-08-19,0.57,12389.14,Empleado encargado de las nóminas
+802,Luciana Amigó Cal,2005-11-22,0.61,19005.41,Peluqueros
+803,Marcelino de Dávila,1986-09-02,0.64,6565.66,Empacador manual
+804,Claudia Elodia Diego Murcia,1969-10-28,0.22,4614.38,Maestro de enseñanza primaria
+805,Álvaro Andrés Felipe Gual Pazos,1952-12-23,0.87,3627.06,"Operador de máquinas de blanqueamiento, teñido y limpieza de tejidos"
+806,Adriana Viana Martí,1997-07-24,0.62,15898.29,Trabajador agrícola de subsistencia
+807,Marciano de Arteaga,1958-03-12,0.12,12025.15,Técnico en documentación sanitaria
+808,Wilfredo Cifuentes Mayo,1999-08-10,0.79,10324.31,Patronista y cortador de tela
+809,Gilberto Torre Soto,1954-04-22,0.55,6997.83,Zapatero
+810,Duilio del Fabra,1966-02-06,0.49,10728.96,Herrero
+811,Úrsula Hernandez Salazar,1981-03-17,1.0,9400.68,Conductor de vehículos accionados a pedal o a brazo
+812,Emilia Moliner-Pardo,1981-09-22,0.69,16308.24,Montador de estructuras metálicas
+813,Macarena Nebot Arjona,1984-11-27,0.61,15444.59,Antropólogo
+814,Juan Manuel Franch Medina,1988-05-12,0.08,13609.48,Planchador manuales
+815,Poncio Tejero,1997-09-01,0.07,3273.65,Peón de la construcción de edificios
+816,María Jesús Gallo-Ortiz,1982-08-04,0.51,4017.52,Catador de bebidas
+817,Dionisia Barrios Céspedes,1984-01-06,0.38,6965.12,Peón de jardinería y horticultura
+818,Cayetana Higueras Teruel,1967-01-06,0.03,7220.71,Fotógrafo
+819,Aristides Nogueira Nogueira,1994-09-19,0.71,10196.02,Laminador de vidrio
+820,Irene Gisbert Amigó,1990-08-11,0.31,6798.81,Locutor de radio
+821,Saturnino Rojas Tamarit,1946-12-29,0.19,11264.71,Veterinario
+822,Ambrosio de Noriega,2006-07-27,0.8,6217.32,Conductor de camiones pesados
+823,Eric Carvajal Gutierrez,1988-01-02,0.11,3416.06,Coreógrafo
+824,Severiano Cabañas Arteaga,1946-01-25,0.42,19434.88,Conductor de vehículos accionados a pedal o a brazo
+825,Viviana Franch Vilaplana,1990-10-25,0.26,17384.95,Técnico forestal
+826,Florina Cuadrado Isern,1956-02-14,0.03,3085.41,Empleado de centro de llamadas
+827,Marco Gregorio Monreal Balaguer,1951-07-03,0.86,19401.23,Operador de telar y otras máquinas tejedoras
+828,Marcos Román Prada,1958-03-02,0.57,18629.75,Historiador
+829,Macarena Canales Romeu,1952-07-02,0.55,15719.01,Médico especialista
+830,Adán del Mascaró,2002-12-30,0.98,16879.48,Ayudante de ambulancia
+831,Roldán Bartolomé Arana,1993-06-29,0.56,11031.83,Deportista
+832,Graciana Nadal Gárate,1985-05-26,0.11,14999.58,Operador de instalaciones mineras
+833,Desiderio Font Crespo,1962-08-27,0.37,6024.85,Oficinista general
+834,Baudelio Uriarte Montes,1994-05-02,0.77,8825.48,Actuario
+835,María Alvarado-Asensio,1953-12-06,0.49,5639.11,Maestro de enseñanza primaria
+836,Calista Galindo,2004-05-28,0.95,16047.89,Paisajista
+837,Inmaculada Barberá Ocaña,1964-10-23,0.67,4339.42,Astrólogo
+838,Dora Carranza,1958-08-25,0.83,15981.95,Mensajero
+839,Saturnina Isidora Barba Manzanares,1999-09-21,0.99,18485.82,Mecánico y ajustador electricista
+840,Bernarda de Trujillo,1973-05-19,0.7,15020.06,Inspector de la salud laboral
+841,Sarita Hoyos Losada,1973-10-19,0.42,3048.49,"Operador de máquinas de preparación de fibras, hilado y devanado"
+842,Rosalva Herrero Ureña,1950-02-18,0.18,3243.05,Entrevistador de investigaciones de mercados
+843,Piedad Paz Porcel,1961-11-15,0.47,16271.62,Peón de jardinería y horticultura
+844,Damián Quevedo Cazorla,1995-02-19,0.81,17422.25,Productor y trabajador calificado de explotaciones agropecuarias mixtas
+845,Elisabet Reig Acedo,1997-04-09,0.09,10977.15,Miembro de las fuerzas armadas
+846,Ana Sofía Piquer,1961-06-15,0.05,16291.91,Sociólogo
+847,Curro Solsona Marí,1958-02-11,0.77,19718.31,Barnizador
+848,Sol Aranda Correa,1986-08-20,0.62,13406.62,Profesional de la salud y la higiene laboral y ambiental
+849,Nilo Arjona Lobato,1962-06-26,0.34,8977.62,Agente de servicios de seguridad social
+850,Porfirio de Tapia,1968-03-19,0.31,6019.38,Operador de grúas y aparatos elevadores
+851,Eufemia María Belén Abad Criado,1981-05-10,0.55,14366.27,Controlador de plagas y malas hierbas
+852,Ágata Rosa Osuna,1999-12-20,0.97,19813.24,Actor
+853,Reyes Santamaria Pozo,1963-02-27,0.84,13670.09,Meteorólogo
+854,Bruno Ramis Rius,1982-10-03,0.45,8094.44,Estadístico
+855,Xavier Benet-Barriga,1989-03-08,0.03,14275.54,Técnico en operaciones de tecnología de la información y las comunicaciones
+856,Modesto Medina Llobet,1967-11-21,0.8,11344.53,Delineante
+857,Lorena Quevedo Ureña,1982-06-20,0.01,9264.51,Profesional de nivel medio del derecho y servicios legales
+858,Susana Asunción Tudela Tur,2005-04-30,0.43,11556.95,Supervisor de la construcción
+859,Celestina Catalán Mosquera,1981-02-05,0.26,7583.04,Archivista
+860,Dionisia Díaz Tirado,2005-09-15,0.28,18059.75,Auxiliar laico de las religión
+861,Jenny Azorin,1967-05-11,0.18,19809.19,Peón de jardinería y horticultura
+862,Hortensia Zapata Pombo,1945-06-13,0.95,8399.87,Sombrerero
+863,Marcia Alfonso Lastra,1946-10-03,0.32,18832.9,Focumentalista
+864,Eloy Zacarías Cerro Quero,1979-03-04,0.03,18407.09,"Director de empresas de abastecimiento, distribución y afines"
+865,Dalila Aller Acero,1977-08-22,0.98,15869.38,Camarero de barra
+866,Josefa Eli Sevilla Coca,2002-01-15,0.67,17222.53,Recolector de basura y material reciclable
+867,Zaira Borrell Asensio,2005-09-14,0.47,12019.11,Especialista en métodos pedagógicos
+868,Amado Roma-Aguilar,1991-01-31,0.53,11801.9,"Pescador, cazador, tramperos y recolector de subsistencia"
+869,Ruperta Azucena Giménez Jimenez,2002-06-14,0.74,9756.3,Artesano
+870,Isidoro Arribas-Agudo,1977-02-22,0.94,19500.79,Empleado de centro de llamadas
+871,Odalis Montes,1971-09-03,0.61,17861.28,Operador de instalaciones de procesamiento de minerales y rocas
+872,Marc Cuenca Caro,1987-10-22,0.77,16986.49,Ggeofísico
+873,Zaira de Rebollo,1981-10-03,0.86,13237.87,Técnico en ingeniería mecánica
+874,Inmaculada Izquierdo Campoy,1974-09-03,0.98,5802.02,Bibliotecarios
+875,Fermín Velasco Uriarte,2006-03-10,0.54,4793.09,Piloto de aviación
+876,Jose Manuel Pizarro Cabrera,1987-10-17,0.33,7874.91,Operador de maquinaria agrícola y forestal móvil
+877,Heraclio Castelló Borrego,1950-09-15,0.39,9545.52,Antropólogo
+878,Guadalupe Virgilio Torrent Alegre,1989-11-01,0.81,10775.34,Profesional de nivel medio en actividades culturales y artísticas
+879,Sebastián Parejo Garriga,1959-07-24,0.66,3779.54,Peón de explotaciones de cultivos mixtos y ganaderos
+880,Ángel Cabello-Puig,1976-10-28,0.5,15674.15,Director de servicios de cuidados infantiles
+881,Amado Cerro Vazquez,1991-08-15,0.02,18092.91,Personal de pompas fúnebres y embalsamador
+882,Emilia Feliu Agullo,1948-12-17,0.47,6201.34,Asistente fisioterapeuta
+883,Fabricio Estevez Cabeza,1980-02-02,0.28,18406.16,Perforador y sondista de pozos
+884,Fulgencio Medina Manzano,1966-05-15,0.57,6880.31,Expendedor de gasolineras
+885,José María Riba,1996-04-23,0.14,14888.2,Bordador
+886,Flavia de Otero,1978-09-15,0.03,8742.07,Ggeofísico
+887,Claudia Castelló-Campo,1986-02-01,0.45,13277.75,Telefonista
+888,Pelayo del Valderrama,1965-01-19,0.99,10701.15,Economista
+889,Rafa Revilla Rojas,1961-12-18,0.27,18878.84,Trabajador agrícola de subsistencia
+890,Xavier Morell Linares,1994-11-20,0.82,14753.43,Empleado de servicios de apoyo a la producción
+891,Ofelia Alemán Alberto,1956-11-02,0.57,3622.23,Jefe de pequeñas poblaciones
+892,David Sacristán Pera,1965-11-07,0.22,6972.07,Profesor de artes
+893,Rosa María Cantón Blanco,1971-09-17,0.78,15297.76,Auxiliar de servicio de abordo
+894,Marta Medina,1992-11-04,0.49,16421.36,Técnico en asistencia al usuario de tecnología de la información y las comunicaciones
+895,Mario Manuel Aguilar,1992-12-24,0.42,5498.04,Peón de explotaciones agrícolas
+896,Ciriaco Estrada Castrillo,1987-08-17,0.41,11171.37,Laminador de vidrio
+897,Mayte Guitart Palacio,1965-02-24,0.16,19031.58,Cuidador de animales
+898,Gil Bru-Morán,1973-10-24,0.19,5312.15,Delineante
+899,Cristian Múñiz Mayo,1968-11-23,0.22,17894.03,Profesional de ventas técnicas y médicas
+900,Marcos Gaspar Quintero Galvez,1974-12-13,0.18,5388.9,Trabajador pecuario de subsistencia
+901,Cristina Rico Hernando,1983-06-04,0.01,19683.2,Personal directivo de la administración pública
+902,María Cristina Reyes Benito,1976-01-14,0.26,8030.07,Ayudante de cocina
+903,Édgar Arribas,1998-02-21,0.41,12158.49,Montador de estructuras metálicas
+904,Conrado Guiomar Silva Zabaleta,1946-05-12,0.79,8601.82,Diseñador de interior
+905,Agapito Blanco-Melero,1973-08-21,0.17,8751.66,Maestro de enseñanza primaria
+906,Agustina Victoria Escolano Rocamora,1963-04-20,0.29,14857.57,Revocador
+907,Gregorio Sierra Dávila,1975-11-15,0.13,4063.59,Practicante paramédico
+908,Olegario Torrijos-Tamayo,1963-06-30,0.0,15087.23,Filósofo
+909,Amancio Cornejo Company,1962-05-05,0.46,10106.96,Empleado de biblioteca
+910,Leyre Villalba Nuñez,1977-06-28,0.83,12770.07,Traductor e intérprete
+911,Máxima Fabregat Calatayud,2003-01-26,0.38,12255.81,Costurero
+912,Manuela Emiliana Ferrándiz Vázquez,1957-06-18,0.28,10375.53,Técnico de prótesis médicas y dentales
+913,Jimena Alemán Navarrete,1985-11-09,0.35,14860.13,Adivinador
+914,Leticia Marcos Martín,1966-09-26,0.67,7470.96,Personal de pompas fúnebres y embalsamador
+915,Ligia Jódar,1969-08-31,0.0,13393.5,Agente de maniobras
+916,Diego Josep Guillen Palma,2006-04-03,0.29,4125.59,Periodista
+917,Juanito Patiño,1953-04-19,0.36,15114.19,Paisajista
+918,Marita Jódar,1971-06-23,0.44,4684.74,Operador de grúas y aparatos elevadores
+919,Jennifer Campillo Ródenas,1948-05-30,0.41,13495.64,Químico
+920,Rico Tolosa Mosquera,1981-03-21,0.22,15979.7,Calderero
+921,Desiderio Morcillo Soria,1974-11-15,0.33,10092.58,Director de políticas y planificación
+922,María Carmen Nuñez Esteve,1966-08-22,0.5,9393.7,Profesional de nivel medio de medicina alternativa
+923,Evangelina de Benítez,1977-09-11,0.68,6552.28,Director de cine
+924,Nuria Avilés Cano,1946-01-08,0.05,14898.28,Secretario ejecutivo
+925,Genoveva Mas Águila,1969-03-15,0.74,11774.77,Director de investigación y desarrollo
+926,José María Fuente Gutiérrez,1995-01-12,0.62,16812.53,Profesional de partería
+927,Narcisa Ramón Quevedo,1988-06-17,0.67,4792.93,"Pescador, cazador, tramperos y recolector de subsistencia"
+928,Isabela Montserrat Salazar,1952-03-11,0.89,14183.52,Profesor de universidades y de la enseñanza superior
+929,Priscila Campillo Carvajal,1979-11-30,0.61,12403.72,Zoólogo
+930,Eugenio Pastor Bosch Bayo,1967-12-15,0.96,19953.09,Peón de carga
+931,Benigno Chaparro Ibáñez,1979-08-12,0.37,9950.0,Peón de jardinería y horticultura
+932,Verónica del Cáceres,1990-06-25,0.22,15740.14,Técnico de telecomunicaciones
+933,Aureliano Campoy España,1962-06-09,0.16,3845.55,Médico especialista
+934,Asdrubal Luz Martin,2003-10-20,0.99,8862.55,Prestamista
+935,Porfirio Nogueira Bejarano,1990-10-02,0.32,9040.4,Peón de jardinería y horticultura
+936,León Daza Benavent,1951-12-10,0.1,16799.04,Maleter
+937,Adora Mármol,1961-08-09,0.6,7640.68,Inspector medioambiental y afines
+938,Osvaldo Roldán Viña Anglada,1991-06-07,0.33,19218.44,Trabajador comunitario de la salud
+939,Mariana Prats-Calvet,1986-06-22,0.39,5038.86,Operador de máquinas de tratamiento de pieles y cueros
+940,Felicia Belmonte Gaya,2007-11-11,0.99,18144.94,"Panaderos, pasteleros y confiteros"
+941,Dominga Sánchez Pozuelo,1972-10-10,0.99,13146.32,Modelador de vidrio
+942,Maximiliano Moliner-Marcos,1993-05-16,0.08,3408.34,Profesional de ventas de tecnología de la información y las comunicaciones
+943,Jimena Adán Costa,1966-07-23,0.46,4072.08,Analista de sistemas
+944,Luis Miguel Carmona Salamanca,1962-05-03,0.55,16654.79,Contable
+945,Segismundo Pi Villena,1971-05-11,0.19,7623.77,Director de empresas de construcción
+946,María Del Carmen del Falcó,1975-06-14,0.35,13604.09,Mecánico y reparador en electrónica
+947,Jacobo Olivé Arellano,1998-08-09,0.8,3631.26,"Empleado de servicios estadísticos, financieros y de seguros"
+948,Abel Arcos Pozuelo,1952-03-02,0.66,11142.51,Lavador de vehículos
+949,Zoraida Páez Viana,2005-03-29,0.13,6711.26,Corrector de pruebas de imprenta
+950,Ainara Serrano-Gomila,1995-03-23,0.26,19979.15,Profesional del trabajo social
+951,Rafaela Jiménez Casado,1946-12-08,0.94,8594.38,Guardián de prisión
+952,Dorotea Losa Bello,2001-02-22,0.09,7761.46,Empleado de servicios de apoyo a la producción
+953,Begoña Fernandez Aliaga,1978-01-20,0.64,9313.61,Cocinero de comidas rápidas
+954,Josué del Gibert,2001-10-18,0.09,4345.83,Organizador de conferencias y eventos
+955,Nieves Emma Varela Ripoll,1950-05-03,0.2,18309.82,"Operario de la conservación de frutas, legumbres y verduras"
+956,Custodia Acuña Agustín,1971-01-21,0.28,18097.58,Ingeniero químico
+957,Hipólito Inocencio Mir Barrena,2007-07-27,0.59,14844.11,Herramentista
+958,Álvaro Lerma Requena,1950-01-15,0.86,19782.8,Urbanistas e ingenieros de tránsito
+959,Encarnación Chaves-Barroso,1963-01-30,0.39,16004.47,Técnico de laboratorio médico
+960,Roque Múñiz-Ochoa,1999-01-12,0.82,11381.29,Periodista
+961,Plácido del Girona,1952-05-27,0.69,12568.73,Mecánico y reparador de vehículos de motor
+962,Felisa Haro Peiró,1996-11-25,0.57,10436.33,Soplador de vidrio
+963,Íñigo Torre,1963-12-28,0.68,9034.85,Fisioterapeuta
+964,Cleto Sosa Linares,2003-10-09,0.69,3822.94,Árbitro deportivo
+965,Casandra Gutiérrez,1992-01-02,0.33,3010.7,Recolector de basura y material reciclable
+966,Lola Iborra Rueda,2008-03-02,0.94,5535.7,Regulador y operador de máquinas y herramientas
+967,Vidal Florentino Morell Zaragoza,1986-07-24,0.26,9433.87,Árbitro deportivo
+968,Galo Villalonga-Sevilla,2006-03-21,0.88,14869.98,Controlador de instalaciones de procesamiento de productos químicos
+969,Antonia Paniagua,1983-03-20,0.45,18293.68,Carpintero
+970,Clementina Abad-Mascaró,1950-03-28,0.65,4984.09,Peón de explotaciones de cultivos mixtos y ganaderos
+971,Aureliano Chaparro Barceló,2000-09-23,0.89,5938.63,Ingeniero electrónico
+972,Ángeles Puga,1956-08-28,0.14,18862.59,Técnico agropecuario
+973,Rodolfo Camacho Perelló,1973-07-30,0.63,17079.52,Pescadero
+974,Pepe Pereira Escribano,1978-08-29,0.69,3555.82,Vendedor puerta a puerta
+975,Alfonso Baró Hervia,2006-03-24,0.47,11485.84,Técnico en electrónica
+976,Dafne Amo Esparza,1986-10-05,0.9,7631.75,Bordador
+977,Luciana del Ballester,1981-04-28,0.66,7406.12,Buzo
+978,Belen Caparrós-Palomo,1987-06-13,0.97,12925.52,Planchador manuales
+979,Ámbar Sala Palomo,1975-08-02,0.97,15243.77,Empleado de centro de llamadas
+980,Teobaldo Raya Higueras,1978-04-07,0.77,17165.26,Técnico de la Web
+981,Morena Paredes Reyes,1965-06-01,0.61,3541.02,Supervisor en ingeniería de minas
+982,Manu Velasco Baquero,1988-10-05,0.52,12989.42,Peón de minas y canteras
+983,Teodoro Segura-Ayllón,1959-02-20,0.84,11628.04,Vendedor ambulantes (excluyendo de comida)
+984,Esteban Roldan Gárate,1979-11-17,0.35,16239.15,Expendedor de gasolineras
+985,Bárbara Ávila Boada,1951-03-23,0.88,6789.49,Técnico en ingeniería mecánica
+986,Gaspar de Guardiola,1989-05-13,1.0,10328.88,Cazador
+987,Celestina Carlota Puig Pozo,1946-11-13,0.75,15159.22,Criador de ganado
+988,Rafa Planas Daza,1967-08-01,0.05,19778.72,Cocinero de comidas rápidas
+989,Esteban Pinilla Bolaños,1947-04-15,0.84,6947.54,Artesano
+990,Wálter de Nebot,1978-09-16,0.03,5279.62,Ayudante de cocina
+991,Lorenza Tirado Robles,1999-05-04,0.39,7954.41,Peón de explotaciones de cultivos mixtos y ganaderos
+992,Melisa Jacinta Carretero Morillo,1949-06-18,0.26,3127.19,Profesional de nivel medio de servicios estadísticos o matemáticos
+993,Reyes Tomé,1948-02-05,0.09,10389.94,Juez
+994,Alexandra Royo,2002-06-15,0.38,11482.02,Bombero
+995,Rosa María del Mendez,1946-04-11,0.49,3499.02,Operador de máquinas de vapor y calderas
+996,Raúl Alvarez Riquelme,1959-06-26,0.94,17902.62,Corrector de pruebas de imprenta
+997,Febe Costa Cornejo,1996-09-05,0.55,8793.72,Técnico en ciencias biológicas
+998,Débora Odalys Larrañaga Baños,1966-10-03,0.42,7006.03,Analista financiero
+999,Jennifer Elorza Beltran,1981-02-20,0.94,5309.15,Tenedor de libros
+1000,Benigna Losa Rosa,1997-03-09,0.19,6465.46,"Limpiador y asistente de oficinas, hoteles y otros establecimientos"

@@ -1,801 +1,801 @@
-continente,pais,ciudad,latitud,longitud,zona_riesgo
-América,Malta,Álava,31.5007825,6.16253,False
-Oceanía,Irlanda,Albacete,71.7535775,-8.135422,False
-Oceanía,India,Teruel,17.3644685,-36.147552,False
-América,Perú,Jaén,-60.5719175,-25.49951,False
-Asia,Marruecos,Cáceres,-65.221709,159.391703,False
-América,Suecia,Ávila,3.841534,29.66996,True
-África,Kiribati,Palencia,8.870008,163.346989,False
-Europa,Santo Tomé y Príncipe,Granada,30.54839,-28.159087,False
-América,Benin,Toledo,-2.6577585,33.043523,False
-América,Brasil,Ávila,-17.373803,-86.246525,False
-América,Kenya,Málaga,65.517735,51.28696,True
-América,República de Macedonia del Norte,Alicante,-20.046553,123.347946,False
-Europa,Papua Nueva Guinea,León,18.6933885,-57.115311,False
-Europa,Libia,Tarragona,44.4406025,-129.358339,False
-Asia,Azerbaiyán,Girona,-10.5806695,-17.845034,False
-Europa,Singapur,Las Palmas,-56.4389915,-66.742837,False
-Europa,Indonesia,Toledo,-41.5070145,152.935155,False
-Oceanía,Venezuela,Soria,62.6229205,130.127188,True
-África,Turquía,Cádiz,-24.2964845,-110.940609,True
-América,Bolivia,Palencia,-52.091169,116.326482,False
-Oceanía,Trinidad y Tabago,Palencia,17.152687,61.241828,False
-América,Omán,Santa Cruz de Tenerife,48.4144815,75.673551,False
-Oceanía,Uzbekistán,Murcia,-9.626848,36.923487,False
-América,República Árabe Siria,Tarragona,-48.3663605,-164.10878,False
-Asia,Nigeria,Álava,-22.3634145,-98.546856,False
-África,Dinamarca,Zaragoza,1.5294715,18.190115,False
-Asia,Palau,Tarragona,12.0547,76.262635,False
-África,Japón,Alicante,-12.105602,117.703719,False
-África,Reino Unido de Gran Bretaña e Irlanda del Norte,Málaga,-15.829276,-168.495013,False
-África,Libia,Teruel,-53.880116,-41.615225,False
-Europa,Kuwait,Melilla,15.798841,-64.014691,False
-África,Papua Nueva Guinea,Madrid,69.605873,112.043146,True
-África,Sudán,Toledo,-73.1319415,46.930064,False
-Europa,Reino Unido de Gran Bretaña e Irlanda del Norte,Asturias,-35.8495015,-119.470052,False
-Oceanía,Japón,Granada,33.7957955,-102.963134,False
-Oceanía,República Dominicana,Ciudad,-62.803217,-61.244197,False
-América,Omán,Lleida,53.3289335,54.14697,False
-América,Antigua y Barbuda,Melilla,-9.4260015,49.60587,False
-Oceanía,República Democrática Popular Lao,Ávila,54.024438,-58.802363,False
-América,Alemania,Castellón,-17.3268905,-69.684399,False
-Oceanía,Federación de Rusia,Melilla,-56.405298,135.789415,False
-Oceanía,Belice,Zaragoza,-15.1762405,170.056866,False
-Asia,Palau,Pontevedra,3.983243,-61.240881,False
-Europa,Suriname,Salamanca,63.3646495,2.934582,True
-África,República Popular Democrática de Corea,Ourense,-65.4926605,-152.553807,False
-Oceanía,Angola,Toledo,22.6561905,-149.691894,False
-Asia,Fiji,Sevilla,38.2485485,150.509909,False
-América,Bahrein,Cáceres,30.848474,-93.654487,True
-América,Gambia,Zaragoza,79.160369,-114.139359,True
-África,República Democrática Popular Lao,Zaragoza,47.349922,-159.413222,True
-Europa,Luxemburgo,La Coruña,55.9599445,-50.851185,False
-Europa,Dinamarca,Salamanca,37.33127,-142.436843,False
-Europa,Fiji,Almería,23.8449635,128.607656,False
-Asia,Yemen,Ávila,38.898209,36.56266,False
-América,Bahamas,Guipúzcoa,-88.4978295,-141.973785,True
-Oceanía,Alemania,Cuenca,-53.8548005,155.706907,False
-Asia,Antigua y Barbuda,Ourense,-61.7039235,36.486136,False
-África,República Centroafricana,Valencia,83.269383,118.402091,True
-Asia,Dinamarca,Barcelona,-66.9979825,0.606129,False
-Oceanía,Tuvalu,Cuenca,71.833371,171.890776,False
-África,Panamá,Ávila,-85.2605345,-60.783839,False
-África,Marruecos,Sevilla,46.0330835,53.364907,False
-América,Sudáfrica,Álava,-71.4090455,145.601752,True
-Europa,Tayikistán,Granada,18.508256,99.358979,False
-Asia,República de Macedonia del Norte,Granada,38.9796365,85.378953,False
-África,Serbia,Madrid,-25.8422275,-76.358283,False
-América,Ecuador,Guipúzcoa,9.253047,-93.986403,False
-Asia,Nauru,Sevilla,67.2385015,50.936028,False
-América,Suiza,Albacete,54.6937815,35.507332,False
-América,Vietman,Burgos,-1.283799,-173.509645,False
-América,Liberia,Navarra,1.4096465,-141.719558,False
-África,Libia,Toledo,88.720984,-62.26613,True
-África,Túnez,Girona,61.2123025,154.204833,False
-Europa,Malasia,Valladolid,-50.27074,7.288643,False
-Oceanía,Colombia,Huesca,-62.9485905,107.945711,True
-Europa,Seychelles,La Coruña,34.1738275,161.772642,False
-Asia,Tuvalu,Ciudad,8.417598,-167.437042,False
-América,República Popular Democrática de Corea,Navarra,38.3877185,-175.872669,True
-Oceanía,Portugal,La Coruña,-74.9783765,-115.052293,False
-África,Serbia,Lugo,25.3266665,132.612224,False
-Asia,Turquía,Salamanca,-33.480554,85.686196,False
-África,Indonesia,Vizcaya,84.4065435,160.011108,False
-Europa,República de Macedonia del Norte,Santa Cruz de Tenerife,49.5461095,-116.061562,False
-África,Hungría,Cáceres,18.2662585,56.810823,True
-África,Chad,Barcelona,-89.114592,91.357615,True
-Oceanía,Líbano,Alicante,-27.5017845,-116.468027,False
-Oceanía,Portugal,Huelva,-15.5748255,22.115979,False
-América,Belarús,Las Palmas,-29.612851,115.982131,False
-América,Grecia,Granada,59.699965,-123.219705,False
-Oceanía,Trinidad y Tabago,La Rioja,17.4943405,-19.008391,False
-Europa,Hungría,Guipúzcoa,69.1162425,140.095305,False
-Oceanía,Pakistán,Salamanca,-76.1917505,55.882131,False
-África,Libia,Málaga,-47.3815595,32.789756,False
-Europa,Seychelles,Ciudad,44.15339,62.945209,False
-Oceanía,India,Almería,20.3528845,-172.174691,False
-Europa,Granada,Toledo,-69.354435,42.240799,True
-África,Andorra,Toledo,32.1563475,-166.135645,False
-Europa,Dinamarca,Cantabria,-56.9949235,-170.116802,False
-Asia,Armenia,Burgos,-21.7863355,20.251803,False
-Asia,Haití,Álava,14.194486,121.594918,False
-África,Dinamarca,Barcelona,-84.894513,-30.797522,True
-África,Seychelles,Alicante,73.412503,117.666806,True
-Asia,Australia,Burgos,-73.6717065,-22.772061,True
-Asia,Canadá,Segovia,23.455379,146.577937,False
-África,República Centroafricana,Segovia,31.345329,-47.929488,False
-Asia,Indonesia,Cádiz,2.5751875,-4.476567,False
-Oceanía,Islas Salomón,La Coruña,-2.3479315,141.35895,False
-América,Papua Nueva Guinea,Alicante,73.0683865,-58.884704,False
-Europa,Djibouti,Melilla,27.835838,69.349753,False
-Europa,Armenia,Asturias,-42.1365085,-87.72965,False
-Asia,Bulgaria,Valladolid,40.6086555,69.65753,False
-Oceanía,Ecuador,La Coruña,1.012646,21.36139,False
-Asia,Colombia,Cádiz,82.5065865,-86.136035,False
-América,Mauricio,Córdoba,39.4721045,32.623245,True
-América,Saint Kitts y Nevis,Barcelona,69.1812525,26.217468,True
-América,Myanmar,Cádiz,70.07401,34.345654,True
-Asia,Suecia,Guipúzcoa,-81.218954,141.126944,False
-Asia,España,Ciudad,25.2014835,2.52985,False
-Europa,Japón,Burgos,81.734547,-86.676794,False
-África,República de Corea,La Coruña,-13.4784955,102.065765,True
-Asia,Líbano,Las Palmas,75.029056,19.916875,False
-América,Japón,Valladolid,83.647914,-147.340569,False
-Asia,Guinea,Santa Cruz de Tenerife,-30.7760355,-110.1821,False
-Asia,El Salvador,Girona,72.382688,-130.313063,True
-Europa,Alemania,Las Palmas,-38.087601,122.448773,False
-Europa,Camerún,Granada,-46.6359795,-96.64466,False
-Asia,Papua Nueva Guinea,Burgos,-50.186668,-46.421595,False
-África,Argentina,La Coruña,54.031979,-60.50495,False
-Europa,Chad,Alicante,25.7793345,20.725391,False
-Oceanía,Haití,Segovia,-33.039768,-0.654564,False
-Oceanía,Portugal,Tarragona,-41.4486785,-11.997533,False
-Asia,Malta,Barcelona,-87.012743,-144.974376,False
-Asia,Granada,Asturias,45.6725345,-28.193285,False
-África,Emiratos Árabes Unidos,Cáceres,-61.724566,127.037169,False
-África,Lesotho,León,-36.9625115,18.651864,False
-Europa,Finlandia,Málaga,57.0221395,28.151393,False
-Asia,Emiratos Árabes Unidos,Barcelona,72.79306,154.240294,True
-Asia,Líbano,Segovia,22.2499085,-142.782295,False
-América,Montenegro,Castellón,-45.2500165,-94.217023,False
-Oceanía,San Vicente y las Granadinas,Tarragona,-63.847307,-10.230658,True
-América,Maldivas,Cáceres,86.170009,-43.137569,True
-África,Camerún,La Coruña,61.9399175,129.128941,True
-Asia,Turquía,Melilla,-44.7829655,-34.835563,False
-Asia,Letonia,Vizcaya,-62.3501285,-24.646756,False
-África,Trinidad y Tabago,Cuenca,-54.6046245,43.514674,False
-África,Papua Nueva Guinea,Pontevedra,71.540383,-65.1312,False
-América,Saint Kitts y Nevis,Granada,-67.848362,81.115416,True
-América,Maldivas,Almería,-29.4832305,119.598375,False
-África,Qatar,Tarragona,79.2830785,111.844107,True
-América,Estados Unidos de América,Sevilla,55.6603535,117.685442,False
-América,Côte d'Ivoire,Valladolid,59.714101,-119.952102,False
-África,Granada,Santa Cruz de Tenerife,-80.389431,-168.322057,True
-África,Kenya,Málaga,54.337283,-173.257775,False
-Oceanía,Senegal,Huelva,69.0458455,0.397591,False
-América,Nauru,Álava,-59.03059,-138.753942,False
-América,Palau,Cantabria,-12.119114,-10.053253,False
-África,Somalia,Girona,-16.178125,174.213774,False
-África,China,Granada,-79.2408165,153.592148,True
-América,Timor-Leste,Alicante,18.998872,-39.938939,True
-Oceanía,Kiribati,Córdoba,-75.574152,28.743393,False
-Asia,Egipto,Girona,35.814345,34.497571,False
-Oceanía,Benin,Valencia,74.8239015,-62.200775,False
-América,Bahamas,Granada,86.4538055,121.594205,False
-Oceanía,San Marino,Sevilla,8.3215325,34.29448,False
-Asia,India,Tarragona,-61.8029835,-51.949383,False
-África,Rwanda,Vizcaya,-54.555318,-79.730843,False
-Asia,Dominicana,Salamanca,-41.4426665,12.117292,False
-África,India,Valencia,55.7872105,15.865712,False
-Europa,Venezuela,Huelva,50.317214,-125.301137,False
-Oceanía,Senegal,Valencia,70.1782245,5.923149,False
-Europa,República de Moldova,Cádiz,1.1782645,-33.217757,False
-África,República Democrática del Congo,Burgos,16.103706,53.311099,False
-África,Bahamas,Salamanca,52.0463385,95.285884,False
-Europa,Islas Salomón,Ciudad,-80.0643165,148.584782,False
-África,México,Palencia,30.2851565,95.259049,False
-Asia,Palau,Huelva,-5.14867,-92.540742,False
-América,Uganda,Málaga,-4.9363925,85.982075,False
-África,Honduras,Madrid,-79.9683475,-63.074721,True
-América,Samoa,Guadalajara,-59.8443985,-130.238349,False
-Oceanía,Cuba,Pontevedra,-44.5338305,-157.765681,False
-Europa,China,Baleares,-37.414809,176.240071,False
-Oceanía,Saint Kitts y Nevis,Girona,79.932523,67.413684,False
-Europa,Chipre,Soria,-81.885854,57.532541,False
-África,Vanuatu,Lugo,24.336787,8.563284,False
-África,Tonga,Salamanca,-26.0313905,-32.297226,False
-Europa,Camboya,Jaén,22.01996,113.775539,False
-África,Kuwait,La Rioja,-83.646891,72.082564,False
-Asia,Finlandia,Huesca,82.362233,73.93849,False
-Asia,República de Corea,Sevilla,-20.7446875,-18.749624,False
-Asia,Saint Kitts y Nevis,Lugo,-53.8195045,-9.726905,False
-Europa,Turkmenistán,Zamora,41.001688,101.930936,False
-Europa,Croacia,Lleida,-31.000809,24.818957,False
-América,Jamaica,León,8.0544885,-21.1913,False
-Oceanía,Tayikistán,Cádiz,27.0915345,-109.901775,False
-Asia,Argentina,Guipúzcoa,-84.8693965,-103.501699,False
-Oceanía,Bhután,Albacete,-40.8813165,91.022855,False
-América,Pakistán,Vizcaya,26.1494795,-64.308556,False
-Asia,Islas Salomón,Pontevedra,-38.2731295,135.351278,False
-Asia,Somalia,Palencia,4.8640085,107.551183,False
-Europa,Lesotho,Granada,-72.9087975,79.771596,True
-Europa,Uzbekistán,Ceuta,80.5237955,176.694973,False
-Asia,Montenegro,Cantabria,56.3468305,-154.652568,False
-Oceanía,Haití,Segovia,47.131955,-73.772915,False
-Europa,Uruguay,Madrid,-6.0304085,96.99864,False
-Asia,Kenya,Málaga,-72.558733,-67.5048,False
-América,Costa Rica,Girona,-26.0317295,7.164991,True
-América,Túnez,Girona,-25.3748095,-71.722484,False
-Europa,Perú,Pontevedra,41.2827475,139.095051,False
-Oceanía,Eritrea,Girona,-4.26741,-100.656827,False
-Oceanía,España,Cantabria,-60.255299,-27.638066,True
-África,Bhután,Lugo,-27.0027755,-7.924475,True
-Europa,Malasia,Castellón,-12.0551485,-48.299466,False
-América,Zimbabwe,Vizcaya,26.978654,40.587097,False
-Asia,Tayikistán,Cuenca,48.165671,-51.708879,False
-África,San Marino,Guadalajara,-60.9927425,-68.271501,False
-América,Benin,La Rioja,72.442823,35.486856,False
-Oceanía,Finlandia,Melilla,0.6081155,-101.537157,False
-Oceanía,Swazilandia,Ourense,-11.0590425,139.323013,False
-Oceanía,México,Ceuta,-62.4300385,-104.964907,False
-Oceanía,Kiribati,Lleida,-77.5426595,-9.09637,False
-Oceanía,Reino Unido de Gran Bretaña e Irlanda del Norte,Zaragoza,59.337274,92.837276,False
-América,Burkina Faso,Córdoba,30.570167,-86.967491,False
-África,Guyana,Segovia,-32.1674575,28.377668,True
-América,Sudán del Sur,Lleida,2.4205395,18.287176,True
-África,Seychelles,Alicante,-68.109446,6.728488,False
-América,Grecia,Alicante,-6.9904075,7.955173,False
-Asia,Niger,Barcelona,58.970323,21.946702,False
-América,República de Corea,Huelva,-41.4925435,-0.88474,False
-Asia,Azerbaiyán,Las Palmas,70.298187,-162.238196,False
-Europa,Kiribati,Palencia,-80.164064,96.490755,True
-Europa,Bahamas,Castellón,49.287592,33.069026,False
-América,Malasia,Murcia,-37.816075,-48.272489,False
-Europa,Tonga,Almería,54.6688705,-8.349459,False
-África,Indonesia,Castellón,81.126491,-142.317826,True
-África,Mozambique,Zaragoza,20.859812,-152.364976,False
-América,Comoras,Guipúzcoa,3.882706,50.420515,False
-América,Guinea Bissau,Córdoba,86.5508145,-158.761788,False
-Oceanía,Gabón,Cádiz,70.0897705,-17.396105,True
-África,Federación de Rusia,Murcia,56.341239,-42.555461,False
-África,Timor-Leste,La Coruña,-89.8779815,59.384698,False
-Europa,Lesotho,Ceuta,50.8847275,134.901507,False
-América,Islas Marshall,Almería,-28.664601,65.917074,False
-Europa,Países Bajos,Ciudad,-38.83141,-54.901126,False
-Europa,Liechtenstein,Castellón,-34.1810185,-14.313131,False
-Oceanía,Túnez,Granada,61.365411,-25.519329,False
-Oceanía,Fiji,Jaén,-3.87548,-14.703793,False
-África,Australia,Asturias,-27.570193,58.66223,False
-África,Israel,Soria,11.0244835,33.253416,False
-Europa,Reino Unido de Gran Bretaña e Irlanda del Norte,Jaén,88.484223,30.500339,True
-Asia,Egipto,Cáceres,0.931572,-50.984769,False
-Asia,Etiopía,Valencia,87.0952525,123.624892,False
-Asia,Mauritania,Ávila,64.1692055,0.018814,False
-Asia,Ghana,Álava,46.5970435,18.742369,False
-Europa,Mongolia,Murcia,56.9424985,-10.199625,False
-Asia,Libia,Navarra,9.776951,-86.929754,False
-Oceanía,Madagascar,Vizcaya,58.039326,-97.065782,False
-Oceanía,Canadá,Ceuta,-86.08283,-120.34422,True
-Europa,Emiratos Árabes Unidos,Córdoba,50.1604355,-32.220804,False
-América,Eslovaquia,Cantabria,3.5657715,78.328183,False
-África,República Dominicana,Zamora,-0.794006,37.39082,True
-Europa,Côte d'Ivoire,Cádiz,70.8825785,13.036578,False
-Asia,Guinea Ecuatorial,Santa Cruz de Tenerife,-58.6491345,134.215958,False
-Oceanía,Túnez,Cádiz,59.5811735,19.719635,False
-Europa,Sri Lanka,Teruel,35.792041,116.611241,False
-África,Camboya,Ceuta,31.4202355,94.158973,False
-América,Mónaco,Ciudad,42.5090245,86.839857,False
-África,Bélgica,Albacete,25.7554685,-16.724562,False
-Europa,Reino Unido de Gran Bretaña e Irlanda del Norte,Burgos,-40.908697,-28.102389,False
-América,Guinea Ecuatorial,Baleares,1.7219725,150.264905,True
-África,Fiji,Lleida,38.1612225,-29.037404,True
-Asia,Congo,Lleida,49.3746965,-145.632462,False
-Europa,Francia,Toledo,34.258087,143.459633,False
-África,Palau,Lleida,-88.5761215,33.547497,False
-África,Brunei Darussalam,Las Palmas,-89.143288,53.427074,True
-América,Nueva Zelandia,Sevilla,-72.8869195,-16.641934,True
-África,Rumania,Málaga,2.712092,15.176115,False
-Europa,Polonia,Ourense,13.454766,90.082654,False
-África,Botswana,Álava,35.6190005,-67.349851,False
-América,República Unida de Tanzanía,Santa Cruz de Tenerife,-22.8851655,-23.363827,False
-Europa,Túnez,Almería,48.7395335,52.401621,False
-Oceanía,Togo,Cáceres,-76.016777,138.268371,False
-Europa,Chile,Huelva,-7.907657,95.659667,False
-Asia,Filipinas,Cantabria,-39.8511425,24.010537,False
-América,Maldivas,Navarra,-60.320219,59.089094,True
-Europa,Islas Marshall,Toledo,45.1500515,-105.896291,False
-África,Perú,Baleares,-60.0877095,150.414215,True
-África,Gambia,Ávila,-35.7923635,-90.456592,False
-Oceanía,Suriname,Almería,-76.301045,-155.248874,True
-Europa,Croacia,Palencia,-62.6709865,-65.527611,True
-Asia,Afganistán,Palencia,80.806217,-45.524,False
-Europa,Congo,Álava,4.8592685,-35.974569,False
-Europa,Cuba,Burgos,-5.882811,-150.489589,False
-África,Mozambique,La Rioja,45.5420155,-16.640359,False
-Asia,Mali,Albacete,54.5115975,10.794999,False
-América,Islas Salomón,Lugo,81.8375845,109.433884,False
-Europa,Italia,Cáceres,54.9389205,-24.952432,False
-África,Irán,Cantabria,72.5404975,-31.278151,True
-América,Túnez,Girona,13.7792475,167.264569,True
-Oceanía,Uzbekistán,Tarragona,75.126083,114.163804,False
-África,Costa Rica,Huesca,34.7764435,-133.888595,False
-América,Gabón,Granada,-66.5324625,-155.559326,False
-Oceanía,Croacia,Castellón,41.0295775,-164.319205,False
-Asia,Irán,La Rioja,78.138264,161.233977,True
-América,Sudán,Badajoz,-43.838198,-19.585759,True
-África,Sudáfrica,Córdoba,74.699642,20.000336,True
-Oceanía,Armenia,Ceuta,21.0680335,111.631589,False
-Europa,Tayikistán,Badajoz,7.1803545,-54.119157,False
-América,Indonesia,Badajoz,-40.603443,28.523006,False
-Oceanía,Namibia,Cantabria,67.3107225,-40.673566,True
-África,Georgia,León,80.9029255,85.651971,True
-África,Argentina,Navarra,-48.210932,-48.417527,False
-Europa,Nigeria,Tarragona,32.797121,133.175707,False
-África,Montenegro,Granada,11.9370115,56.680916,True
-América,Kenya,Cádiz,30.784647,84.618656,False
-Europa,Malawi,Málaga,-56.8546835,-129.217953,False
-África,Camboya,Santa Cruz de Tenerife,-17.8861015,-29.248185,True
-Europa,Guatemala,Girona,81.4189225,73.172957,True
-Asia,Andorra,Girona,-25.8221465,48.790144,False
-Europa,Argelia,Burgos,29.2149275,154.190203,False
-Oceanía,Kirguistán,Ourense,48.0172335,-21.352341,False
-América,Malta,Córdoba,-17.530873,65.243128,True
-Europa,Suriname,Zamora,-48.004443,-39.433252,False
-Europa,República de Moldova,Asturias,9.540875,72.80676,False
-Europa,Vanuatu,Cádiz,-68.835163,15.510235,True
-Oceanía,Santo Tomé y Príncipe,Badajoz,17.3997475,57.373536,False
-América,Tonga,Toledo,-86.8704665,158.392834,True
-Asia,Mauritania,Cáceres,25.160266,-29.654736,False
-Europa,República Árabe Siria,Zamora,47.497361,-31.521055,False
-Europa,Ghana,Murcia,63.5650165,56.651539,False
-Asia,Colombia,La Rioja,-3.8715855,152.60511,False
-Europa,Panamá,Toledo,23.2777025,27.191221,False
-América,Marruecos,Granada,26.3977515,6.408997,False
-América,Estados Unidos de América,Sevilla,-85.4573275,-127.446918,False
-América,Namibia,Málaga,-35.712687,6.44816,False
-Europa,República Checa,Cádiz,74.9366545,73.256646,False
-África,Haití,Tarragona,54.8322785,96.207231,False
-Oceanía,Bosnia y Herzegovina,Badajoz,-76.28724,-35.027168,False
-África,Irán,Segovia,-34.694177,57.137695,False
-América,Qatar,Soria,49.7492155,60.435975,False
-Oceanía,Namibia,Soria,-64.885406,-26.996678,True
-Oceanía,Indonesia,Vizcaya,16.7218145,88.260894,False
-América,Belice,Melilla,3.7346455,29.956732,False
-Europa,Chile,Jaén,46.074395,114.659636,False
-Oceanía,Libia,Santa Cruz de Tenerife,-19.015819,3.067813,False
-Oceanía,República Dominicana,Asturias,52.4501765,11.966871,False
-Europa,Malawi,Melilla,22.691728,-89.746091,False
-Europa,Líbano,Girona,38.150972,116.420364,False
-Europa,Ecuador,Cuenca,-29.3024365,163.986475,False
-Europa,Micronesia,Málaga,51.688608,95.582514,False
-Oceanía,Estados Unidos de América,Albacete,23.2306455,-155.12805,False
-Oceanía,Kirguistán,Castellón,39.2098595,-162.931249,False
-América,Togo,Toledo,30.254876,-163.313235,True
-Asia,Burundi,Málaga,24.55483,129.19312,False
-Oceanía,Eslovenia,Guadalajara,-11.465585,-95.721817,False
-Asia,Mongolia,Salamanca,-88.417775,-140.554562,False
-África,Bulgaria,Palencia,49.6778895,15.032118,False
-África,Argentina,Las Palmas,-58.2083825,78.645245,False
-África,Federación de Rusia,Alicante,-17.3639875,44.874362,True
-África,Malawi,Ciudad,-56.904481,-15.546965,False
-Oceanía,Tuvalu,Ávila,-6.13148,-110.317647,False
-Europa,Sudán del Sur,Las Palmas,-69.607421,156.228314,False
-América,Lituania,Asturias,58.4834795,165.599073,False
-África,Timor-Leste,Cáceres,10.184823,109.905127,False
-África,Dinamarca,Castellón,-3.002425,-131.652702,False
-América,Tonga,Cáceres,-37.932628,-169.762488,False
-Asia,República Democrática del Congo,Santa Cruz de Tenerife,69.8244365,37.747926,False
-Europa,Malasia,Álava,75.005305,-156.904476,False
-América,Estonia,León,-76.8724755,-111.723283,True
-Oceanía,Marruecos,Cádiz,24.576377,30.615182,False
-Europa,Burundi,Lleida,-61.756709,-33.607585,False
-África,Camerún,Baleares,-72.247822,-78.659191,True
-Oceanía,Comoras,Valladolid,-78.132859,-156.134646,False
-Asia,Zimbabwe,Salamanca,35.0743445,-126.391773,False
-África,Angola,Salamanca,-57.296967,98.088707,False
-Asia,Sierra Leona,Castellón,-33.223135,-132.321472,False
-Oceanía,Uganda,Albacete,80.3146965,-61.326464,True
-América,Guinea Bissau,Tarragona,42.132018,15.159152,False
-Oceanía,Egipto,León,-67.125388,101.459267,True
-América,Swazilandia,Navarra,-3.134899,-146.621691,True
-Asia,Bélgica,Zamora,-11.7272435,-58.844721,False
-América,Noruega,Barcelona,69.404025,30.011204,False
-Oceanía,Paraguay,Ceuta,-84.450496,94.298024,True
-África,Belice,Castellón,85.8192815,135.176449,True
-América,Japón,Soria,-75.4520965,93.973532,True
-Oceanía,Argelia,Huelva,13.476422,52.93471,False
-América,China,Melilla,76.559614,-1.333418,True
-América,Kazajstán,Albacete,-47.188213,70.609557,False
-África,Kenya,Málaga,36.7987705,39.220601,False
-América,Namibia,Sevilla,0.6755865,-116.858275,True
-Europa,Maldivas,Ciudad,-84.3030245,93.267778,True
-África,Sudán,Soria,5.666207,50.947191,False
-Asia,Turquía,Cuenca,35.06087,99.189018,False
-Oceanía,Tayikistán,Zamora,4.2914085,-70.009339,False
-África,Rwanda,Huelva,-36.926102,109.449829,False
-África,República Federal Democrática de Nepal,Murcia,43.913654,-133.074502,False
-Europa,República Dominicana,Girona,-66.34543,135.226721,True
-Oceanía,Rumania,Castellón,45.692403,91.21275,False
-América,Libia,Sevilla,-69.4314095,167.933557,False
-Oceanía,Kuwait,La Coruña,-5.2164325,99.596847,False
-Europa,Rumania,Almería,47.984676,-136.063603,False
-América,Santo Tomé y Príncipe,Granada,-66.51982,-55.370671,False
-Asia,Guyana,Badajoz,9.625651,40.298546,False
-América,Israel,Guadalajara,71.5411355,68.792386,False
-América,Turkmenistán,Albacete,-9.532766,162.258376,False
-Europa,Serbia,Ceuta,-32.546126,8.985444,False
-América,Argentina,Zaragoza,63.6130485,3.073312,False
-América,Maldivas,Las Palmas,57.154234,144.255553,False
-América,Gabón,Sevilla,-57.2926955,-64.204638,False
-América,Colombia,León,31.1458295,-179.844274,True
-África,Liechtenstein,Vizcaya,25.984913,-171.746492,False
-América,Tayikistán,Lleida,-14.7635355,59.246302,False
-Oceanía,Chad,Pontevedra,10.80128,5.903968,False
-África,India,Albacete,81.8350715,-130.56078,False
-Oceanía,Kuwait,León,-43.4946305,-15.281029,False
-Oceanía,Suriname,Melilla,59.590404,-80.099013,False
-Asia,Uganda,Huesca,-43.3538295,163.391593,False
-América,República Centroafricana,Málaga,-48.1335685,115.220119,True
-América,Eslovenia,Almería,25.6861385,132.870504,False
-América,Nicaragua,Álava,60.697593,18.829944,False
-América,Panamá,Castellón,23.595754,-9.835075,False
-Europa,Finlandia,Ceuta,-27.2956425,21.037576,False
-África,Bangladesh,Cantabria,-58.144486,-125.594383,True
-África,Croacia,León,58.3387035,136.66112,True
-América,Guinea,Granada,-24.480562,-31.050646,True
-Europa,Micronesia,Segovia,72.311281,24.064435,False
-América,España,Madrid,82.438435,46.7103,True
-Oceanía,Filipinas,Toledo,40.4192965,-61.495413,False
-Oceanía,Papua Nueva Guinea,Tarragona,45.4171945,158.133304,False
-América,Irlanda,Cantabria,24.6897775,-109.485254,False
-Europa,República Democrática del Congo,Valencia,19.375261,-84.827178,False
-Oceanía,Nigeria,Granada,-50.37819,121.596424,False
-Europa,República Democrática Popular Lao,Vizcaya,83.314863,-21.196108,True
-Oceanía,Haití,Vizcaya,-65.9432465,-121.524144,True
-Europa,Vietman,Cáceres,-74.1823125,-41.431673,False
-Europa,Brasil,Lugo,47.048523,9.539098,False
-Asia,Mali,Sevilla,-29.209598,67.219276,False
-Europa,Israel,Lleida,86.6516055,-22.410764,True
-África,Pakistán,Tarragona,1.974337,-63.492021,True
-Oceanía,República de Macedonia del Norte,Lleida,-81.4779265,-170.613236,True
-Europa,Bosnia y Herzegovina,Badajoz,-1.5781615,25.340983,False
-Oceanía,Federación de Rusia,Valladolid,45.5863665,-171.077852,False
-América,Camboya,Ciudad,-28.497383,112.065446,True
-Oceanía,Swazilandia,Zamora,-64.9506025,176.643037,False
-Oceanía,Guinea,Cantabria,84.2257415,-161.868446,True
-América,Líbano,Albacete,-71.4359985,-57.109665,True
-América,Guatemala,Cantabria,53.690969,98.323849,True
-Oceanía,Sri Lanka,Vizcaya,72.253351,72.15671,False
-África,República Democrática Popular Lao,Pontevedra,-88.541188,-164.531176,True
-América,Reino Unido de Gran Bretaña e Irlanda del Norte,La Rioja,48.8038075,-43.109921,False
-Asia,India,Zaragoza,-31.942217,88.285071,False
-Asia,Azerbaiyán,Asturias,-32.025879,140.643885,False
-América,Micronesia,Melilla,34.038333,153.244418,False
-Europa,Papua Nueva Guinea,Valencia,-51.885859,36.861237,False
-Europa,Polonia,Girona,28.459047,36.207498,False
-Europa,San Vicente y las Granadinas,Córdoba,67.3339335,174.113531,False
-África,Uzbekistán,Zaragoza,42.8688475,69.521706,False
-Europa,Vanuatu,Ávila,-37.644708,4.823929,False
-Asia,Jamaica,Zamora,-67.4836335,173.973681,False
-Oceanía,Turquía,Ourense,43.113741,-101.820142,False
-África,Armenia,Badajoz,25.9764,48.86466,True
-África,República Federal Democrática de Nepal,Cuenca,-43.0158655,61.807029,False
-África,Vanuatu,Córdoba,13.376461,114.958836,True
-Europa,Luxemburgo,Badajoz,44.9410495,-40.658155,False
-Asia,Hungría,Palencia,-8.864099,-106.272141,False
-Asia,Italia,Zamora,18.666197,-77.2945,False
-Oceanía,Jamaica,Córdoba,11.1236025,99.316437,False
-África,Nueva Zelandia,Valencia,-36.180907,123.257827,True
-Europa,República Democrática Popular Lao,La Rioja,1.776823,38.873219,False
-Asia,Belarús,Ávila,-7.7169915,-115.099946,False
-Asia,Mónaco,Valencia,-40.928667,-41.874222,False
-Europa,Irán,Vizcaya,80.8544405,-95.799848,False
-Oceanía,Etiopía,Alicante,71.4183775,-70.263804,True
-Europa,Francia,Sevilla,36.438875,-37.0702,False
-América,Filipinas,Valladolid,38.1580765,94.091789,True
-Asia,Vanuatu,Segovia,-59.6270575,166.284224,False
-Asia,Nauru,Guipúzcoa,-67.530991,-167.364198,False
-Asia,Zambia,Ávila,36.25467,-30.443158,False
-Europa,Noruega,León,-82.296087,-161.033084,True
-Asia,México,Barcelona,-21.7662265,142.103682,False
-América,Omán,Valencia,-45.59974,179.386437,False
-Asia,Uruguay,Huelva,40.1403845,12.331518,False
-Asia,Afganistán,Guadalajara,55.617084,-94.981173,False
-América,Bolivia,Huelva,-86.965966,-8.791448,True
-África,Uzbekistán,Baleares,-86.4079975,44.344334,True
-Oceanía,Myanmar,Melilla,-7.989017,79.668887,False
-Europa,Georgia,Córdoba,79.5551075,118.31609,False
-Europa,Estonia,Cantabria,4.9995375,150.945742,False
-Europa,Islas Salomón,León,18.1779525,84.500619,False
-África,Burkina Faso,Zamora,22.126105,-37.300234,False
-Asia,Barbados,Ceuta,-54.673907,-18.201326,False
-África,Bolivia,Asturias,58.910631,-128.279735,False
-Europa,Haití,Zaragoza,-50.191625,-172.172005,False
-Asia,Japón,Álava,88.0452165,-3.009676,False
-América,Camerún,Madrid,-67.5727645,-145.155817,True
-Oceanía,Afganistán,Navarra,-31.3353455,-7.033652,False
-Asia,Maldivas,Cuenca,-44.2474975,152.024909,False
-África,Tailandia,Cantabria,-50.2775855,137.389656,False
-Europa,Libia,Melilla,-60.3289315,111.846993,False
-Europa,Georgia,Girona,50.903841,151.216028,False
-Oceanía,República Unida de Tanzanía,Ceuta,11.5030045,154.122488,False
-América,Palau,Ciudad,-25.1322325,-37.687193,False
-África,Camerún,Toledo,21.3242705,-132.852288,False
-Asia,Argelia,Toledo,73.1920525,-37.558948,True
-África,Azerbaiyán,Ourense,32.194931,-25.722731,True
-África,Fiji,Zaragoza,44.8309495,179.208864,False
-Asia,República Checa,Córdoba,-73.2839075,-157.35381,False
-África,Kazajstán,Cuenca,-57.517628,136.118128,True
-Asia,Congo,La Rioja,-5.9790815,113.123304,False
-África,Saint Kitts y Nevis,Salamanca,-80.2120945,11.534996,False
-África,Chad,Sevilla,1.1969765,150.735227,False
-África,Croacia,Ourense,68.8745955,-1.876351,False
-África,Brasil,Teruel,6.6509,-154.92602,True
-Oceanía,China,Palencia,27.837062,148.09532,False
-Asia,Bolivia,Murcia,83.632407,-162.99919,True
-África,Angola,Huesca,-84.379077,-32.685747,True
-Asia,San Vicente y las Granadinas,Barcelona,70.216051,-141.241724,False
-Asia,Mónaco,Ciudad,8.5798305,-79.607212,False
-África,Omán,Córdoba,-8.4310385,106.96651,True
-Asia,Jamaica,Zaragoza,-20.066708,-102.152545,False
-Europa,Georgia,Valencia,-54.034174,131.21467,False
-Oceanía,Mónaco,Barcelona,-33.3065385,-75.678234,False
-América,Kiribati,Badajoz,-39.508117,-94.416892,True
-América,Togo,Zamora,-76.8900295,64.835764,True
-Oceanía,Arabia Saudita,Málaga,2.6638705,157.684796,False
-África,Bosnia y Herzegovina,Navarra,-33.5301415,-100.183095,False
-América,Tuvalu,Cádiz,67.6639775,-97.494745,False
-Asia,Camboya,León,41.352943,-155.71061,False
-Europa,Portugal,Córdoba,-33.299853,128.51538,False
-África,Chile,Pontevedra,21.114897,-137.550998,False
-Asia,Malta,Ciudad,51.9344655,176.307447,False
-América,Argelia,Cáceres,33.519132,88.919752,False
-Asia,Mauritania,Vizcaya,-69.851057,172.314471,True
-Asia,España,Cáceres,52.3005925,11.377398,False
-África,República de Moldova,Girona,-69.382309,-160.082795,True
-Oceanía,Nicaragua,Cáceres,-63.3365435,71.182715,False
-Oceanía,Reino Unido de Gran Bretaña e Irlanda del Norte,Pontevedra,89.1866985,39.183409,False
-Oceanía,Austria,Asturias,44.419206,-168.494813,False
-África,Kuwait,Tarragona,-89.032893,-67.359666,True
-Oceanía,China,Salamanca,61.256322,167.533266,False
-América,Belice,Asturias,-87.000239,28.828763,False
-América,Guinea Bissau,Granada,-27.500389,103.925896,False
-África,Arabia Saudita,Palencia,59.066988,59.757712,False
-Oceanía,Bélgica,Burgos,11.7242665,-165.372311,False
-Europa,Afganistán,Huesca,3.611497,153.137457,False
-Oceanía,Saint Kitts y Nevis,La Rioja,-23.9342765,-57.95008,False
-África,Uzbekistán,León,-31.051887,89.652173,False
-Asia,Irlanda,Ciudad,40.522924,4.653961,False
-Asia,Jordania,Girona,71.7437935,-132.517797,False
-Asia,Ucrania,Ávila,81.556656,152.911249,False
-Europa,Cabo Verde,Vizcaya,8.736406,16.949374,False
-Europa,Uzbekistán,Granada,-64.941194,-164.871102,True
-Europa,Portugal,Almería,-5.0256455,43.500985,False
-África,Venezuela,Ourense,47.390834,4.169874,False
-Europa,Australia,Baleares,82.8997195,-174.742883,False
-África,Países Bajos,Baleares,-71.6055725,-167.027376,True
-Asia,Liberia,Teruel,-26.3832555,-106.363558,False
-África,Barbados,Barcelona,-85.843257,50.603316,False
-Europa,Federación de Rusia,Lugo,85.193884,171.848361,True
-Europa,Timor-Leste,Vizcaya,28.88814,-23.772079,False
-Asia,Sri Lanka,Barcelona,80.4370085,-139.92034,False
-Oceanía,Omán,Ceuta,-3.236676,-123.667791,False
-Asia,Polonia,Asturias,-15.1951585,-115.473097,False
-Oceanía,República de Moldova,Murcia,-0.0420015,-168.265583,False
-Europa,Antigua y Barbuda,Salamanca,-38.4336885,125.779901,False
-Oceanía,Colombia,Valencia,-16.754668,-124.227712,False
-América,Grecia,Vizcaya,-35.3957215,-45.822965,False
-Oceanía,Eritrea,Cádiz,-59.5374015,-46.025947,False
-Europa,República Democrática Popular Lao,Ourense,32.322336,30.674025,False
-Europa,Gambia,Cantabria,-56.575005,44.386097,False
-Asia,Maldivas,Almería,33.5431975,159.914612,False
-África,Niger,Castellón,66.4340025,172.505858,True
-Oceanía,Burkina Faso,Valencia,-57.5592795,-55.429942,False
-Asia,Sudáfrica,Guipúzcoa,-85.2498595,-20.547178,True
-Europa,Italia,Las Palmas,-6.116461,18.872969,False
-Oceanía,Nigeria,Zamora,-66.563094,-43.317393,True
-Asia,Saint Kitts y Nevis,Segovia,80.256724,91.552266,False
-Asia,Rumania,Valladolid,-70.3719785,-83.600819,False
-Asia,Jordania,Guadalajara,-17.466166,45.641859,False
-Oceanía,Mali,Jaén,-38.0845755,38.642681,False
-Europa,Finlandia,Salamanca,-48.941545,-20.862771,False
-Oceanía,China,Teruel,18.8098165,98.22026,False
-Asia,Venezuela,Baleares,-26.533588,105.311792,False
-Oceanía,Argentina,Asturias,75.339951,11.617335,True
-África,Arabia Saudita,Soria,-82.3768555,-68.66662,True
-Asia,Malta,Sevilla,35.9792035,-143.157646,False
-Oceanía,República Unida de Tanzanía,Guipúzcoa,6.7253705,-60.393617,False
-África,Marruecos,Ourense,-6.381766,69.903033,False
-Oceanía,Lituania,Tarragona,44.5638445,158.808239,False
-África,Tailandia,Guipúzcoa,43.1901435,-73.975032,False
-Europa,Georgia,Guipúzcoa,-7.972997,-130.258444,False
-Europa,Belarús,Palencia,47.8322905,-30.927097,False
-Asia,Eslovenia,Jaén,17.527299,109.299828,False
-América,Indonesia,Girona,-37.5498575,-171.942767,False
-Oceanía,Turquía,Santa Cruz de Tenerife,51.004653,90.426106,False
-Europa,Madagascar,Barcelona,11.9426455,76.782948,False
-Europa,Panamá,Ourense,-44.2198755,-35.337556,False
-América,Guyana,Cantabria,41.7533205,-51.524524,False
-Europa,Eslovaquia,Valencia,-39.322372,-175.003788,False
-Asia,Micronesia,Álava,-25.928521,-91.149387,False
-Oceanía,Libia,Ourense,-10.15273,-122.213391,False
-América,Federación de Rusia,Barcelona,18.122825,98.134466,False
-África,Finlandia,Segovia,-60.154242,16.549523,False
-África,Liechtenstein,Jaén,-50.607671,85.608329,False
-Europa,México,Navarra,84.005485,-46.124849,True
-África,Chipre,Tarragona,-48.994277,62.640792,False
-América,Islas Salomón,Zaragoza,19.298504,133.557131,False
-Oceanía,Omán,Las Palmas,40.209134,-166.34838,False
-Oceanía,Benin,Granada,34.977786,164.620368,False
-Oceanía,República de Corea,Ciudad,-73.210895,-9.890687,True
-América,Estados Unidos de América,Navarra,-25.6326625,103.660499,False
-Europa,Uruguay,Granada,62.5945485,-30.346954,True
-Oceanía,República de Moldova,Ávila,-4.063109,-26.649453,False
-Oceanía,Armenia,La Rioja,86.0385995,-134.056564,False
-Oceanía,República Árabe Siria,Lleida,59.0540285,-42.060975,False
-América,República de Corea,Barcelona,-66.1693505,-115.137376,True
-Asia,Japón,Cáceres,33.6149595,119.658988,False
-América,Ucrania,Álava,-26.181085,-44.479257,True
-África,Islas Marshall,Jaén,77.5326455,-144.63907,True
-América,Samoa,Pontevedra,70.21798,-48.638581,True
-América,Ghana,Guipúzcoa,19.138578,-11.360311,False
-América,Guatemala,Cantabria,-66.253303,107.653737,True
-América,Bhután,Zamora,16.4517755,-85.93092,True
-Europa,Seychelles,Girona,2.73235,64.394202,False
-África,Paraguay,Jaén,48.877303,-21.373279,True
-Asia,Indonesia,Badajoz,30.7227405,-179.340698,False
-América,Senegal,Badajoz,82.868198,137.059968,True
-América,Hungría,Almería,-13.837616,133.909395,True
-Asia,Ecuador,Toledo,-44.913041,-60.970239,False
-África,Indonesia,Barcelona,-75.8348065,60.31655,True
-Europa,Uzbekistán,Lleida,-53.663715,-7.685626,False
-América,Nueva Zelandia,Santa Cruz de Tenerife,31.139604,28.679342,False
-Asia,Gabón,Málaga,-43.67672,42.779172,False
-América,Turquía,Santa Cruz de Tenerife,34.170195,140.253164,False
-América,Nicaragua,Málaga,-31.9220535,141.646453,True
-Asia,Mongolia,Barcelona,72.2647045,-26.349478,True
-América,Tuvalu,Ciudad,-50.126532,-148.048996,False
-Oceanía,San Vicente y las Granadinas,Almería,81.3716065,-49.52149,False
-Oceanía,Vietman,León,-59.5824125,84.764722,False
-Asia,Congo,Barcelona,39.498496,-95.043556,False
-Oceanía,El Salvador,La Coruña,82.615045,62.453394,True
-Europa,Zambia,Almería,-53.438204,-152.056753,False
-Asia,Hungría,Las Palmas,-87.882626,-161.469996,False
-Asia,Botswana,Badajoz,57.441679,145.863286,False
-América,Rwanda,Burgos,-27.115335,145.203449,False
-Asia,Eslovenia,Asturias,21.1763785,-169.994573,False
-Europa,Gabón,Lleida,12.713632,167.782664,False
-Oceanía,Singapur,Burgos,-47.412571,-34.349701,False
-América,Croacia,Barcelona,-57.9618795,-119.427148,False
-Europa,República Árabe Siria,La Coruña,62.5799015,-32.977168,True
-Oceanía,Guinea Ecuatorial,Badajoz,-78.3775705,-82.416706,True
-América,Colombia,Palencia,79.1955125,139.559559,False
-Asia,San Marino,Zaragoza,-30.525388,65.15409,False
-Europa,Portugal,Huesca,89.687619,-93.53771,False
-Asia,Palau,Burgos,33.6972605,62.435596,False
-América,San Marino,Toledo,43.2346475,-56.635761,False
-Oceanía,Jordania,Vizcaya,-59.5594335,-80.067247,False
-Europa,Maldivas,Madrid,-34.4851455,-146.226304,False
-África,Côte d'Ivoire,Burgos,32.614422,-94.053384,False
-Oceanía,Irán,Baleares,-73.625823,35.867531,True
-Europa,Sierra Leona,Almería,30.1446055,-11.26569,False
-África,Islas Marshall,Huesca,-72.036363,-123.177713,False
-Asia,Gambia,Huesca,-16.8610015,-31.93452,False
-Asia,Qatar,Guipúzcoa,25.201715,133.976988,False
-Europa,Togo,Cuenca,-70.067582,36.212786,False
-Asia,Australia,Huesca,42.186958,-23.002126,False
-América,Túnez,Vizcaya,-1.064042,23.500021,True
-Europa,Uganda,Badajoz,-18.678031,-157.801232,False
-Europa,Senegal,Valencia,-13.5701655,120.209076,False
-Europa,Ghana,Huelva,22.7380205,-136.146137,False
-Europa,Cabo Verde,Las Palmas,-19.9819555,156.642917,False
-Europa,Benin,Jaén,14.4713655,77.189774,False
-África,Lesotho,Palencia,-16.6337425,107.701296,True
-África,Sierra Leona,La Rioja,-86.9528305,5.64943,True
-África,Ecuador,Cuenca,-44.1178305,-161.562743,False
-África,Uganda,Melilla,-63.470849,-129.075477,False
-Asia,República Árabe Siria,Valladolid,-89.0781075,70.162309,False
-Oceanía,Sri Lanka,Navarra,-79.7081375,94.335843,True
-Oceanía,República de Moldova,Tarragona,-36.717796,100.770749,False
-Europa,Sri Lanka,Ciudad,-24.573162,-51.677694,False
-Oceanía,Kirguistán,Valencia,-73.5672595,15.642748,False
-África,Estados Unidos de América,Ourense,-71.794106,-141.003632,False
-Oceanía,República Dominicana,Cáceres,50.5398525,142.926256,False
-Oceanía,Micronesia,Zamora,-66.055449,-12.582072,False
-África,Libia,Guipúzcoa,-75.804488,84.349741,True
-Europa,Bangladesh,Córdoba,-81.5709,47.055451,False
-África,Guatemala,Girona,63.9960245,76.653293,False
-América,Suiza,Cantabria,-27.8329475,-109.242888,False
-América,Haití,Huesca,88.206051,-73.495984,False
-Asia,Chipre,Vizcaya,59.517705,-72.13122,False
-América,Gabón,Ourense,25.4301925,-13.379864,False
-África,Irán,Zamora,2.86072,-66.496185,True
-Oceanía,Sierra Leona,Teruel,-51.0653245,-136.036296,False
-Europa,Somalia,Huesca,8.96767,-35.728745,False
-Oceanía,Federación de Rusia,Lleida,-8.8790535,148.884362,False
-África,Chad,Albacete,41.7639605,-47.516996,True
-América,Eritrea,Cantabria,-72.5465785,14.386397,True
-Europa,Eslovaquia,Huelva,-65.3979625,-26.073891,False
-Asia,Etiopía,Cádiz,2.103931,9.711636,False
-Europa,República Democrática Popular Lao,Salamanca,17.543247,45.127791,False
-Asia,Sierra Leona,Valencia,-84.734837,141.464756,False
-África,Sudán,Cáceres,-0.270794,-24.40075,False
-África,Sudán del Sur,La Coruña,61.8957085,-167.759856,True
-África,Polonia,La Coruña,52.094805,-92.668733,False
-África,Guinea Bissau,Madrid,-79.1340385,-97.995261,True
-Oceanía,Madagascar,Soria,18.253839,128.342074,False
-Oceanía,Eslovenia,Madrid,-25.6994265,-148.710945,False
-América,Serbia,Burgos,12.756464,-126.847544,False
-Europa,Ecuador,Zamora,-40.264664,-179.719102,False
-Europa,Senegal,Asturias,-34.4962375,163.745414,False
-América,Eslovenia,León,-53.6624295,-35.896824,True
-Asia,Eslovenia,Melilla,-38.6145695,148.362939,False
-Oceanía,Liberia,Palencia,-78.8532805,-107.646595,False
-Europa,Brasil,Granada,44.318235,-116.284559,False
-América,Barbados,Baleares,-81.861965,169.104888,False
-América,Sudáfrica,Cádiz,-66.5105655,-149.076665,False
-Europa,Kirguistán,Badajoz,-55.16581,123.195196,False
-Europa,Togo,Teruel,24.287498,111.850757,False
-África,Federación de Rusia,Ceuta,-85.379918,-85.444817,True
-Europa,Países Bajos,Jaén,-79.4109585,-135.138867,False
-África,Cuba,Lleida,-65.4706695,-105.762513,False
-Europa,Perú,Ciudad,-76.556856,-20.371742,False
-Oceanía,Yemen,Ávila,32.7932095,-72.120052,False
-África,Hungría,Guipúzcoa,-37.984587,-155.82171,True
-Europa,Kenya,Huesca,-29.39855,66.781334,False
-Asia,San Marino,Vizcaya,49.3206185,122.275167,False
-Oceanía,Canadá,Girona,75.179302,-141.218068,False
-Oceanía,Marruecos,Pontevedra,10.6114555,-59.380118,False
-Asia,Lituania,Albacete,-42.6391525,46.384082,False
-África,Países Bajos,Ourense,58.493304,139.783218,False
-Europa,Guinea Bissau,Guadalajara,-85.1779635,117.322875,False
-África,Santo Tomé y Príncipe,Toledo,-0.306632,-7.353557,False
-Europa,Singapur,Zaragoza,26.427511,75.723068,False
-Asia,Madagascar,León,66.7526995,129.693477,False
-Europa,Bélgica,Cuenca,20.325297,-135.460143,False
-América,El Salvador,Girona,22.5121515,-22.674132,False
-Asia,Italia,Zamora,37.261419,58.621965,False
-Oceanía,Zimbabwe,Vizcaya,-77.775035,14.243569,False
-África,Venezuela,Pontevedra,38.5270685,38.192324,False
-América,Chile,Soria,-78.918982,-90.440341,False
-Asia,Côte d'Ivoire,La Coruña,-18.685657,139.230752,False
-África,Samoa,Ceuta,73.4310005,-107.602901,False
-Oceanía,India,Segovia,-78.763857,-23.435596,False
-Asia,Armenia,Soria,15.5611135,-162.473836,False
-América,Nigeria,Santa Cruz de Tenerife,-62.999572,-82.602533,False
-América,El Salvador,Ciudad,17.7089605,-143.013932,False
-Asia,Irán,Cáceres,76.763396,-99.903418,True
-África,Dominicana,Murcia,32.4936585,-6.736185,False
-América,Guyana,Guadalajara,-5.4491545,91.054384,True
-Oceanía,Omán,Cáceres,-37.9795465,15.458932,False
-Asia,Vietman,Granada,-37.9627405,-171.914731,False
-Asia,Uzbekistán,Ávila,40.8386555,-93.478497,False
-África,Italia,Zamora,39.1601625,-64.502519,False
-Oceanía,Chipre,Cádiz,-10.393092,-129.648959,False
-Europa,Palau,Madrid,-36.3546865,31.970756,False
-América,Jamaica,Ceuta,-57.722973,-82.003311,False
-Asia,Kuwait,La Coruña,59.857509,-132.923059,False
-Oceanía,Malawi,Huesca,54.7318985,-79.827694,False
-América,Sudán del Sur,Córdoba,51.597892,-24.558743,False
-Oceanía,Bhután,Asturias,-2.672324,-88.246004,False
-África,Bahrein,Toledo,-78.001471,42.940712,False
-América,Jamaica,Badajoz,80.071595,-175.363118,False
-América,Eslovaquia,Cáceres,30.100168,-90.946622,False
-Oceanía,Grecia,La Rioja,-81.888655,59.692519,False
-América,Rumania,Ceuta,-81.3602945,97.656814,True
-América,Austria,Cáceres,-0.5718165,95.779738,False
-África,Ucrania,Ciudad,-21.8024595,150.398818,False
-Europa,Alemania,Tarragona,58.100571,85.434745,False
-América,Mongolia,Burgos,26.420803,151.242753,False
-Europa,Malawi,Melilla,-18.225218,-94.595502,False
-Oceanía,Côte d'Ivoire,Las Palmas,18.289713,-5.331711,False
-América,India,Cáceres,8.2188295,109.61442,True
-Oceanía,Islandia,Navarra,-87.1465605,-174.162192,False
-África,Liberia,Melilla,77.3182625,87.381768,True
-Asia,Kirguistán,Segovia,-64.896235,177.706129,False
-Europa,Costa Rica,Cantabria,20.690804,-102.509722,False
-Europa,China,Castellón,67.649925,-4.607049,False
-Asia,Camerún,Teruel,-53.1715655,-154.877748,False
-Europa,San Marino,Zamora,8.4454845,72.239886,False
-Oceanía,Eritrea,Granada,24.5719325,-120.823603,False
-América,Sudán del Sur,Toledo,-37.4254635,28.115623,False
-África,Suiza,Huesca,32.523272,-28.66986,False
-América,Uzbekistán,Álava,48.806662,-162.927965,True
-Asia,Omán,Soria,-19.054829,10.927999,False
-Asia,Estados Unidos de América,Cáceres,-73.761949,-93.365578,False
-Oceanía,Granada,Valencia,63.48922,-56.822389,False
-Europa,Finlandia,Álava,-66.0417835,-7.904146,True
-América,Namibia,Asturias,35.683624,143.950699,True
-Europa,Santa Lucía,Barcelona,23.3406225,151.039318,False
-Asia,Niger,Soria,-29.688617,39.10154,False
-Asia,Ghana,Lugo,-48.83983,110.130686,False
-Europa,República Árabe Siria,Lleida,-40.0213745,-23.973669,False
-Oceanía,Japón,La Coruña,30.4186465,87.606401,False
-África,Finlandia,Albacete,20.7513555,-33.031871,False
-Asia,Niger,Álava,-58.728913,-172.610496,False
-África,Santo Tomé y Príncipe,Tarragona,-73.771556,-88.680607,True
-Oceanía,Saint Kitts y Nevis,Cáceres,40.8439185,-131.038345,False
-Europa,Costa Rica,Navarra,-6.173831,31.347097,False
-África,Tayikistán,Zaragoza,33.6486945,37.464614,False
-Asia,Albania,León,2.444671,-137.165026,False
-África,México,Guipúzcoa,-83.072831,-156.109072,False
+id:ID,continente,pais,ciudad,latitud,longitud,zona_riesgo
+1,América,Senegal,Cáceres,86.2702855,44.874373,False
+2,África,Kenya,Las Palmas,-33.565493,58.456323,True
+3,África,Islandia,Granada,-49.258785,72.303905,False
+4,Oceanía,Sudán,Soria,-24.1194115,-66.194718,False
+5,Oceanía,Andorra,Badajoz,54.0019365,157.484787,False
+6,Oceanía,Bangladesh,Zaragoza,55.108973,-29.009547,False
+7,Europa,Liechtenstein,Girona,-57.2242795,152.770345,False
+8,Oceanía,Costa Rica,Soria,-41.4991995,-53.396191,False
+9,África,Armenia,Madrid,50.675097,-51.332152,False
+10,Europa,Arabia Saudita,Madrid,29.0742865,-106.927183,False
+11,Europa,Madagascar,Alicante,9.853425,111.539284,False
+12,América,República Federal Democrática de Nepal,Granada,0.382828,32.530439,False
+13,Europa,Estados Unidos de América,Cuenca,68.050769,-124.996254,False
+14,África,Antigua y Barbuda,Valencia,64.0000845,41.428931,True
+15,Europa,Federación de Rusia,Teruel,-73.8816685,-67.742325,False
+16,Oceanía,Finlandia,Málaga,-71.475054,51.027526,True
+17,Asia,Chile,Álava,-9.253224,31.519628,False
+18,América,Mali,Cáceres,-21.093664,164.826561,False
+19,Europa,Tailandia,Madrid,-76.0784285,-153.57596,False
+20,América,España,Lleida,-73.916511,59.165427,True
+21,Europa,Bahamas,Guipúzcoa,74.7809805,-46.031922,False
+22,Asia,Paraguay,Córdoba,63.7022045,76.153477,True
+23,África,Benin,Castellón,-38.069715,178.850617,False
+24,Oceanía,Bahrein,Ceuta,-42.25106,-88.310789,False
+25,Europa,Filipinas,León,-73.321794,33.929754,False
+26,América,Italia,Alicante,-16.681445,138.409437,False
+27,Asia,Kazajstán,Santa Cruz de Tenerife,-40.6074825,55.976108,False
+28,África,Camerún,Las Palmas,78.4097875,57.278166,False
+29,Asia,Guinea Bissau,Barcelona,6.9314875,-92.049997,False
+30,Oceanía,Hungría,Pontevedra,66.9522925,153.669018,True
+31,África,Granada,La Coruña,37.873995,38.614401,False
+32,Europa,Omán,Soria,-45.4405355,-96.07236,False
+33,América,Jamaica,Tarragona,-78.353086,-162.480007,True
+34,Oceanía,Rwanda,Madrid,-54.7944755,-6.302103,False
+35,África,Líbano,Guipúzcoa,-7.5275015,51.107858,False
+36,América,Montenegro,Las Palmas,42.5317195,-53.464931,False
+37,África,Etiopía,Asturias,-48.909553,171.090269,False
+38,Europa,Vanuatu,Guipúzcoa,56.8514445,175.214878,False
+39,Asia,Jamaica,Zaragoza,-64.7009965,-32.470431,False
+40,Oceanía,Tailandia,Córdoba,3.011597,112.265963,False
+41,África,Haití,Zaragoza,-23.210672,-146.928398,False
+42,Europa,Saint Kitts y Nevis,Granada,-15.8416835,-25.161474,False
+43,Oceanía,Arabia Saudita,Burgos,55.279484,90.163616,False
+44,Asia,Belice,Navarra,4.242285,-168.363658,False
+45,África,Côte d'Ivoire,Tarragona,23.5320055,113.161225,True
+46,Europa,Camboya,Huelva,-64.9625845,37.47739,False
+47,Europa,San Marino,Toledo,-86.9946125,81.950363,False
+48,Asia,República Democrática del Congo,Barcelona,-28.8643495,136.057199,False
+49,África,Tayikistán,Valladolid,16.84434,-90.121802,False
+50,Oceanía,Kenya,Guipúzcoa,-39.694615,-6.874692,False
+51,Asia,Nueva Zelandia,Zamora,-21.9301665,11.429755,False
+52,Europa,Suiza,Palencia,61.6307775,-143.182439,False
+53,África,Myanmar,Cuenca,41.592728,-40.971128,False
+54,Europa,Líbano,Huelva,-54.224015,84.024195,False
+55,Oceanía,Niger,Cáceres,22.6230185,10.460375,False
+56,América,Hungría,Almería,51.463065,64.02162,False
+57,América,Argelia,Madrid,75.161248,-41.934082,False
+58,América,Nicaragua,Palencia,-32.534517,83.324932,False
+59,América,Dominicana,Salamanca,19.2740095,80.316279,True
+60,Oceanía,Cuba,Valladolid,55.717152,37.32041,False
+61,África,Maldivas,Cáceres,8.650678,135.155462,False
+62,África,Mauritania,Valladolid,68.1169945,167.991795,True
+63,Europa,Guinea Ecuatorial,Jaén,83.0169125,30.407308,False
+64,Oceanía,Ecuador,Melilla,51.2888625,173.472068,False
+65,Europa,Santa Lucía,Jaén,7.3891595,90.121709,False
+66,África,Bélgica,Burgos,-48.356108,-27.047082,False
+67,Europa,Portugal,Madrid,89.266125,50.343074,True
+68,Asia,Zambia,Barcelona,32.222294,-3.48442,False
+69,Asia,Guatemala,La Rioja,-35.4720065,-20.785668,False
+70,Asia,República de Macedonia del Norte,Cantabria,69.893212,51.368498,False
+71,Oceanía,Maldivas,Castellón,-65.4311555,-130.493202,True
+72,África,Gambia,Huesca,-86.3328955,-149.933371,True
+73,África,Bahrein,Alicante,73.0445495,-119.570065,True
+74,Oceanía,Bahamas,Badajoz,74.6065305,177.943375,False
+75,Europa,Líbano,Valencia,20.1409545,-132.968218,False
+76,Asia,República de Macedonia del Norte,Vizcaya,-61.1456165,178.657462,True
+77,Europa,Eslovenia,Cádiz,-51.739162,-34.1485,False
+78,Europa,Yemen,Huesca,-72.496582,-155.435072,False
+79,Europa,Uganda,Zaragoza,-12.434098,161.102714,False
+80,África,República Centroafricana,Almería,61.417754,146.762583,True
+81,Europa,Camerún,Las Palmas,-31.9572955,-22.363685,False
+82,América,Eritrea,Lugo,2.0997735,-70.028319,False
+83,África,Australia,Cuenca,80.270794,94.651814,False
+84,África,Pakistán,Ourense,1.835276,-129.46393,False
+85,África,Suecia,La Coruña,2.150047,-110.008154,True
+86,Oceanía,Túnez,Asturias,65.0751825,122.563512,False
+87,Europa,Botswana,Huelva,50.3537545,-87.58905,False
+88,Oceanía,Marruecos,Huelva,-4.5237445,66.124223,False
+89,América,Liechtenstein,Lugo,4.6809935,127.567184,True
+90,Oceanía,Israel,Zaragoza,58.1247615,-25.658159,False
+91,África,Trinidad y Tabago,Asturias,43.4081155,59.744942,True
+92,Europa,Ecuador,Cáceres,48.9710695,-23.095324,False
+93,África,Canadá,Teruel,64.1646725,86.05754,False
+94,África,Francia,Ourense,34.4836095,-177.322607,False
+95,África,Irán,Córdoba,-0.752819,-155.89867,False
+96,América,Zimbabwe,Jaén,81.452644,155.552006,False
+97,Asia,Emiratos Árabes Unidos,Palencia,85.5698685,34.759401,True
+98,África,Gabón,Alicante,13.3896045,-99.030267,False
+99,Asia,Guyana,Cuenca,22.701576,9.852037,False
+100,África,Togo,Madrid,-84.257887,18.417182,False
+101,Europa,Suiza,Segovia,64.2233225,97.278654,False
+102,Europa,Swazilandia,Valencia,15.681642,109.56443,False
+103,Europa,Eslovaquia,Tarragona,-62.475186,-141.929645,False
+104,África,Italia,Barcelona,1.2161255,12.37527,False
+105,Europa,Túnez,Lugo,25.418837,28.174287,False
+106,Oceanía,Bélgica,Girona,2.0990515,131.744583,False
+107,Asia,Cabo Verde,Lugo,64.4702305,-91.03547,False
+108,Oceanía,Andorra,Cantabria,-37.384777,159.253993,False
+109,África,China,Málaga,-1.47455,130.465296,False
+110,Oceanía,Filipinas,Zamora,-36.162945,6.906039,False
+111,América,Antigua y Barbuda,Tarragona,67.9947375,144.937265,False
+112,América,República Dominicana,Burgos,1.4299715,124.439368,False
+113,Europa,Gabón,Jaén,-88.0248495,79.341778,True
+114,Oceanía,Fiji,Barcelona,70.3831225,-170.851532,False
+115,Oceanía,Finlandia,Burgos,-55.15784,-105.253482,False
+116,Europa,Vietman,Tarragona,87.820587,19.272697,False
+117,América,Irán,Toledo,0.3637735,163.193005,False
+118,América,Marruecos,Córdoba,-4.478112,-122.148549,False
+119,Oceanía,Granada,Madrid,-41.166537,-90.627809,False
+120,América,Lituania,Alicante,49.829398,-124.294388,False
+121,África,Chile,Vizcaya,43.8731405,41.142231,False
+122,América,Bulgaria,Palencia,5.5147025,-59.21348,False
+123,África,Eslovenia,Salamanca,-71.3808565,35.212088,True
+124,Oceanía,Barbados,Valladolid,-35.413104,-37.238882,False
+125,América,San Vicente y las Granadinas,Ávila,-16.513832,-134.722585,True
+126,Europa,Grecia,Palencia,24.392591,76.880355,False
+127,Europa,Bosnia y Herzegovina,Soria,72.553237,-8.558078,True
+128,Oceanía,Burundi,Valladolid,0.7092465,150.968435,False
+129,América,Pakistán,Ávila,-7.5445115,-55.873499,False
+130,Europa,Pakistán,Huelva,-66.358941,-14.54301,False
+131,América,Bahrein,Granada,24.9166855,113.218568,True
+132,Oceanía,Países Bajos,Baleares,2.81653,-164.84919,False
+133,África,Croacia,Castellón,-69.670533,-167.391613,False
+134,América,República Centroafricana,La Coruña,-8.083393,125.992173,False
+135,América,Benin,Madrid,-85.0722115,69.022173,False
+136,África,Cabo Verde,La Coruña,-14.4525935,79.098336,True
+137,África,Reino Unido de Gran Bretaña e Irlanda del Norte,Segovia,-88.323187,-56.76809,True
+138,África,Congo,Almería,-83.877562,-44.62321,False
+139,Asia,Georgia,Zaragoza,-26.404658,-179.250847,False
+140,Asia,Hungría,Ceuta,-55.6616615,44.479278,False
+141,Europa,San Vicente y las Granadinas,Guipúzcoa,-83.6053075,-15.51401,True
+142,Asia,Camboya,Teruel,-44.213252,-55.121706,False
+143,África,Timor-Leste,Huesca,30.144177,-177.948301,True
+144,Asia,Guinea,Jaén,-83.8277005,-3.499893,False
+145,África,Myanmar,Lugo,18.5936355,-168.348707,False
+146,América,Belarús,Huesca,86.355474,168.203072,True
+147,América,Somalia,Cantabria,17.164887,-142.056854,True
+148,América,Chad,Zamora,38.5133235,76.048682,False
+149,Oceanía,Andorra,Córdoba,28.974945,101.886742,False
+150,América,Liechtenstein,Segovia,73.0643065,51.41482,True
+151,Oceanía,Turquía,León,67.1774545,166.383123,False
+152,África,Haití,Ciudad,10.284681,179.7434,False
+153,Asia,Paraguay,Alicante,47.6918865,55.389827,False
+154,Asia,Nueva Zelandia,Santa Cruz de Tenerife,-84.7634085,100.816647,False
+155,Oceanía,Sierra Leona,Pontevedra,-20.743646,70.379033,False
+156,Europa,Ucrania,Madrid,5.787759,-117.921267,False
+157,Europa,Mónaco,Granada,-50.3773595,-152.611402,False
+158,América,Somalia,Albacete,-2.608211,160.234682,False
+159,América,Comoras,Santa Cruz de Tenerife,34.07531,-139.172846,False
+160,Asia,República Árabe Siria,Sevilla,-15.343395,-37.049632,False
+161,Asia,Irlanda,Huesca,-38.4486035,-138.77948,False
+162,Europa,España,Segovia,-10.1962965,14.868956,False
+163,Oceanía,Tuvalu,Palencia,62.0746265,-168.380982,True
+164,América,Tuvalu,Asturias,-15.942876,-32.629575,False
+165,Europa,República de Corea,Salamanca,-53.111996,44.844081,False
+166,Asia,República Unida de Tanzanía,Santa Cruz de Tenerife,-71.9262365,174.869047,True
+167,Europa,Islas Salomón,Zamora,44.176947,-140.654472,False
+168,África,República Democrática Popular Lao,Cuenca,16.6571825,39.323746,False
+169,Oceanía,Belice,Alicante,52.368274,-17.358129,False
+170,Oceanía,Filipinas,Cuenca,16.991111,-139.046342,False
+171,Europa,Haití,Ourense,-14.887921,-40.765459,False
+172,Europa,Georgia,Navarra,51.776652,7.853382,False
+173,Oceanía,Seychelles,Málaga,-84.582046,65.06683,True
+174,Oceanía,Países Bajos,Huelva,-82.2299615,51.231481,True
+175,Oceanía,Croacia,Ciudad,3.4757895,-132.255921,False
+176,África,Libia,Sevilla,-76.963314,128.901283,True
+177,África,Arabia Saudita,Cuenca,79.9188495,-85.723947,True
+178,Oceanía,Burkina Faso,Castellón,-70.548091,-75.646169,False
+179,África,Zimbabwe,Albacete,-38.404192,150.495142,False
+180,Oceanía,Tonga,Huesca,55.844932,-161.164917,False
+181,África,Guatemala,Huelva,-35.485079,-178.39526,False
+182,América,Rumania,Lleida,-53.1545035,130.27674,False
+183,África,Paraguay,Almería,-78.6663715,-40.069313,True
+184,Europa,República Democrática Popular Lao,Badajoz,-66.774953,-159.567719,False
+185,América,Micronesia,Madrid,49.2912355,-17.125183,True
+186,Oceanía,Luxemburgo,Sevilla,-17.4594235,-166.061765,False
+187,Oceanía,Suiza,Huesca,89.233295,-8.555053,True
+188,Asia,Haití,Huelva,49.7522385,-108.351611,False
+189,América,Emiratos Árabes Unidos,Cádiz,-55.0967295,-120.253006,False
+190,América,Kiribati,Teruel,39.436815,-108.500695,False
+191,Asia,Turquía,Tarragona,-33.4725805,7.568757,False
+192,Europa,Ucrania,Cantabria,50.674088,-96.072295,False
+193,Europa,Arabia Saudita,Huesca,-86.8912485,136.186164,False
+194,Oceanía,Albania,Las Palmas,74.76691,-141.359732,True
+195,América,Argentina,Córdoba,-65.32822,-136.419176,True
+196,África,Tailandia,Palencia,-61.2063075,-165.733826,True
+197,Asia,Irán,Palencia,79.612512,-154.311484,False
+198,Oceanía,Samoa,Valladolid,-50.673213,-84.517233,False
+199,América,Croacia,Asturias,37.3524445,150.825729,False
+200,Europa,Papua Nueva Guinea,Las Palmas,35.7437655,4.505396,False
+201,Asia,Guinea,Huelva,-31.6051355,30.10635,False
+202,Oceanía,Omán,Palencia,76.3979695,-135.180895,False
+203,África,Madagascar,Córdoba,-50.454079,73.518303,True
+204,Asia,Tuvalu,Ávila,64.8313745,-133.714382,False
+205,Oceanía,Jordania,Ceuta,-56.793405,-161.878043,False
+206,Asia,Rumania,Palencia,-70.677789,118.496768,True
+207,Europa,Letonia,Murcia,-89.7837175,-147.928889,False
+208,América,Japón,Ávila,-85.858969,169.272022,True
+209,Oceanía,Kazajstán,Lleida,8.3665635,56.879228,False
+210,Oceanía,República Democrática Popular Lao,Málaga,-80.1091895,51.045185,False
+211,Europa,Italia,Zamora,-55.0158835,-78.58699,False
+212,Asia,Bosnia y Herzegovina,Palencia,-70.2275365,-146.996177,True
+213,Oceanía,Guinea,Ciudad,-47.182007,16.82601,False
+214,Oceanía,Tuvalu,La Rioja,33.869276,154.928011,False
+215,América,Kazajstán,Guipúzcoa,-68.318462,99.653411,True
+216,Oceanía,Tonga,Murcia,32.1280805,-27.702393,False
+217,América,República de Moldova,Málaga,-2.452066,-61.411137,True
+218,América,República Democrática del Congo,Badajoz,14.1602305,37.517332,False
+219,África,Suecia,Ávila,-83.5445475,69.57347,True
+220,Asia,Suriname,Guipúzcoa,-54.872766,-167.989248,False
+221,América,Bahrein,Melilla,-5.7732965,-135.530337,True
+222,África,Honduras,Santa Cruz de Tenerife,-39.667684,119.566045,False
+223,América,China,Zaragoza,62.6219765,32.946159,True
+224,Asia,Timor-Leste,Ceuta,83.1113145,104.339746,True
+225,Asia,Somalia,La Rioja,-13.7265855,-20.52457,False
+226,África,Israel,Tarragona,-33.8631745,150.980558,True
+227,Oceanía,Suriname,Jaén,31.0700205,49.201226,False
+228,Oceanía,El Salvador,Vizcaya,-64.5011425,-77.016652,True
+229,América,Kirguistán,Ávila,8.2591705,-145.061694,False
+230,América,Saint Kitts y Nevis,La Coruña,32.251908,1.764367,False
+231,África,Burundi,Jaén,-76.797514,17.702912,False
+232,África,Qatar,Baleares,27.881369,-19.674087,False
+233,Europa,Gabón,Segovia,41.6476405,-48.203019,False
+234,Oceanía,Bosnia y Herzegovina,Alicante,-81.4578345,-124.70275,True
+235,Europa,Madagascar,Ourense,33.266465,-67.213691,False
+236,África,República de Moldova,Lleida,3.341539,170.14671,False
+237,América,República de Macedonia del Norte,Barcelona,-16.2077955,55.176933,False
+238,América,Ucrania,Valladolid,1.6880745,-60.31977,True
+239,África,San Vicente y las Granadinas,Huesca,78.248045,-110.662869,True
+240,América,Tayikistán,Guadalajara,-1.156552,63.868418,True
+241,Asia,Niger,Soria,-14.6851045,-101.04258,False
+242,Oceanía,Perú,Las Palmas,79.078105,-159.548282,False
+243,Oceanía,Eritrea,Málaga,6.849733,5.29244,False
+244,América,Bolivia,Soria,57.774919,3.413864,False
+245,África,Marruecos,Navarra,69.8776145,103.460306,False
+246,América,Togo,Córdoba,-64.2966595,-103.767339,True
+247,Oceanía,Ucrania,Badajoz,62.847461,150.917504,False
+248,Oceanía,Singapur,Córdoba,-0.441114,-154.588406,False
+249,Oceanía,Malawi,Huelva,6.516895,128.252077,False
+250,Asia,Kuwait,Palencia,44.873862,-117.862301,False
+251,África,Sierra Leona,Cádiz,12.170573,161.640613,False
+252,Asia,Chipre,Santa Cruz de Tenerife,-18.209725,165.759409,False
+253,América,Tonga,Álava,-6.240129,152.106904,False
+254,Oceanía,Egipto,Cuenca,-53.829112,112.952082,False
+255,Asia,Angola,Cantabria,3.542724,21.797445,False
+256,Oceanía,Colombia,Ciudad,-82.140059,-111.833738,False
+257,Oceanía,Guyana,Baleares,8.4616655,150.304187,False
+258,Europa,Marruecos,Asturias,66.6629175,164.739286,False
+259,Asia,Bangladesh,Tarragona,56.0781515,61.353474,False
+260,Oceanía,Suriname,Cuenca,85.8355555,15.726783,False
+261,América,Austria,Teruel,22.4177,-153.845771,True
+262,América,Argelia,Valencia,-70.5813325,-17.278128,True
+263,África,Nueva Zelandia,Salamanca,42.7706545,81.600766,True
+264,América,Tailandia,Murcia,-80.7758705,63.773772,True
+265,Asia,República Árabe Siria,Córdoba,-15.2291855,-103.128573,False
+266,Europa,Kuwait,Pontevedra,-77.521089,-4.056632,True
+267,Asia,Sudán del Sur,Ceuta,-5.662987,-173.080002,False
+268,Oceanía,Nauru,Badajoz,67.1207625,-11.789665,False
+269,Oceanía,Fiji,Huelva,53.5303625,-122.16308,False
+270,África,Uruguay,Lleida,-18.3559795,170.076393,False
+271,Oceanía,Sudáfrica,Soria,-70.8591245,130.228795,True
+272,América,Ucrania,Huelva,74.4562055,2.179353,True
+273,Oceanía,Indonesia,Huesca,-66.993462,-68.116572,False
+274,Asia,San Marino,Vizcaya,48.3667735,93.380331,False
+275,Europa,Argentina,Castellón,-77.382512,-127.924446,False
+276,América,Países Bajos,Granada,-64.114585,38.949266,True
+277,América,Italia,Burgos,-60.373095,9.998607,True
+278,Europa,Etiopía,Ourense,3.8278085,-149.878355,False
+279,Asia,Namibia,Guadalajara,-1.0249235,-149.762178,False
+280,Europa,Camboya,Barcelona,-39.75237,-154.68599,False
+281,Oceanía,Afganistán,Ourense,50.452336,-37.684399,False
+282,Europa,Georgia,Valladolid,42.8860885,-11.187531,False
+283,América,Bahrein,La Coruña,-11.1659965,-134.741461,False
+284,Asia,Togo,Badajoz,85.608896,-23.081511,False
+285,África,Italia,Pontevedra,26.419852,114.991966,False
+286,América,Kirguistán,Huesca,20.5073055,177.378107,True
+287,Europa,Comoras,Valencia,44.318497,-113.411618,False
+288,Asia,Albania,Girona,69.3898175,121.78383,True
+289,Europa,Uzbekistán,La Rioja,-49.229291,-165.396906,False
+290,Europa,Ghana,Granada,-6.8822555,103.17777,False
+291,Asia,Serbia,Lugo,63.658106,-5.644474,False
+292,Oceanía,Israel,Valencia,83.216499,51.181534,False
+293,Europa,Madagascar,Valladolid,-75.308062,35.202356,False
+294,América,Filipinas,Santa Cruz de Tenerife,82.9285765,134.148372,False
+295,América,San Vicente y las Granadinas,Soria,12.577374,-21.816766,False
+296,América,Estados Unidos de América,Baleares,-4.1669395,166.110145,False
+297,Europa,Albania,Huelva,-63.5000955,95.872318,True
+298,Europa,El Salvador,Salamanca,55.789815,3.725649,False
+299,América,Santo Tomé y Príncipe,Cáceres,-89.5140395,-154.295714,False
+300,África,Estonia,Albacete,-16.211672,72.364017,True
+301,África,Suriname,Girona,44.796941,-88.966187,False
+302,África,Tuvalu,Asturias,61.5774855,70.548309,False
+303,Asia,Tayikistán,La Coruña,-39.4531115,-97.206597,False
+304,Oceanía,República Dominicana,Badajoz,-50.7624785,37.395027,False
+305,Europa,República Árabe Siria,Melilla,-7.3435315,-102.062455,False
+306,África,Libia,Valladolid,-53.0687435,-35.051825,True
+307,Europa,República de Macedonia del Norte,Castellón,-68.0908715,-86.604762,False
+308,Asia,Camboya,Córdoba,-75.1910025,160.981418,False
+309,Oceanía,Eslovenia,Girona,81.973787,170.941554,False
+310,Oceanía,Dominicana,Pontevedra,-18.0195965,-15.223876,False
+311,Europa,Cuba,Vizcaya,-60.969939,6.03154,True
+312,América,Francia,Soria,-38.1315335,-14.351388,False
+313,América,República Árabe Siria,Jaén,11.15936,101.703166,False
+314,Oceanía,Islas Salomón,Lleida,28.5472645,-32.146558,False
+315,Europa,Marruecos,Lleida,41.268358,-150.170522,False
+316,África,Yemen,Salamanca,-70.5487905,-168.258691,True
+317,América,Barbados,Melilla,49.3967845,5.862351,True
+318,Europa,España,Zamora,57.337429,-50.961149,False
+319,Oceanía,República Democrática Popular Lao,La Rioja,-88.4580955,132.255087,False
+320,América,Italia,Guadalajara,72.835885,40.624605,True
+321,Oceanía,Guinea,Granada,-53.8696545,-158.316377,False
+322,Asia,Micronesia,Valladolid,59.2357675,44.626537,False
+323,Asia,Mongolia,Zamora,-54.794781,-46.30886,False
+324,África,China,Lleida,-12.1081325,96.872546,False
+325,Europa,Iraq,Cantabria,-44.085027,-107.779462,False
+326,América,Sudán,Murcia,64.749315,7.479087,True
+327,África,Vietman,Pontevedra,-40.4816235,-136.444044,False
+328,Oceanía,Liechtenstein,La Rioja,78.682775,159.243997,True
+329,Europa,Saint Kitts y Nevis,Huesca,12.840702,152.417767,False
+330,África,Swazilandia,Guadalajara,-60.8768485,172.544004,False
+331,América,República de Macedonia del Norte,Valencia,48.216181,-163.176094,False
+332,África,Chad,La Rioja,42.8148755,-103.378039,True
+333,Oceanía,Croacia,Ávila,52.521339,-79.109121,False
+334,África,Emiratos Árabes Unidos,Cuenca,53.9841705,-171.006143,False
+335,Europa,Uzbekistán,Lleida,82.4866925,-175.554218,True
+336,Oceanía,Guyana,Huelva,-75.1760255,179.629015,False
+337,América,Papua Nueva Guinea,León,-21.034001,-79.909663,False
+338,Asia,Andorra,Ávila,12.3752395,-21.813992,False
+339,Europa,Dinamarca,Valencia,-77.7993665,-171.745618,False
+340,América,República de Macedonia del Norte,Cáceres,56.001909,-167.83863,False
+341,Europa,Angola,Huelva,47.7329255,63.042891,False
+342,África,Lesotho,Cantabria,-53.659054,-167.718166,False
+343,América,Camboya,Ourense,89.3641605,86.986431,False
+344,Europa,Congo,Huelva,-15.961184,72.513628,False
+345,Oceanía,Angola,Lugo,-35.4568765,21.783904,False
+346,Asia,Suiza,Granada,-39.7928825,-37.172135,False
+347,Oceanía,Guinea Ecuatorial,Cantabria,52.104978,63.953287,False
+348,América,Nueva Zelandia,Málaga,3.407761,-152.297928,False
+349,Oceanía,Estados Unidos de América,Alicante,-57.6753765,-54.83588,False
+350,Oceanía,Eslovenia,Málaga,-20.9514555,-113.598906,False
+351,Asia,Croacia,Jaén,50.380525,116.754799,False
+352,Asia,Samoa,Granada,50.541981,104.259257,False
+353,Oceanía,Estados Unidos de América,Asturias,31.5576325,-85.878476,False
+354,África,Nicaragua,Las Palmas,-50.1010945,-28.665856,False
+355,América,Camboya,Teruel,8.761006,-105.511246,False
+356,América,Irán,Guadalajara,61.5643575,-130.157725,True
+357,Asia,Finlandia,Tarragona,4.5081445,114.419291,False
+358,Europa,Santo Tomé y Príncipe,Toledo,-5.248884,-40.355175,False
+359,Asia,Sudán del Sur,Pontevedra,-18.2666085,-131.408084,False
+360,África,México,Lleida,59.441963,24.690801,False
+361,Europa,Mali,Ourense,-89.120071,-141.394116,False
+362,Europa,Fiji,Zaragoza,-67.1641725,173.655973,True
+363,Asia,Indonesia,Granada,76.3459145,96.643847,True
+364,África,Bahamas,Granada,-31.767811,69.399176,False
+365,Oceanía,Letonia,Salamanca,-34.9717835,127.649989,False
+366,América,Rwanda,Melilla,-51.8731245,-67.963347,False
+367,Europa,Nigeria,Palencia,38.223021,77.998742,False
+368,Oceanía,Bangladesh,Las Palmas,-64.842392,176.093258,False
+369,Asia,Belarús,Cáceres,66.9175905,145.826587,True
+370,América,Haití,Ciudad,-56.232774,-4.06203,True
+371,África,Granada,Pontevedra,85.414651,-133.126951,True
+372,Oceanía,Estonia,Zamora,-69.723855,-111.822376,False
+373,Europa,Namibia,Vizcaya,70.206538,-139.515451,False
+374,Europa,Iraq,Madrid,-8.876702,155.57446,False
+375,América,Túnez,Teruel,-87.6001015,167.686613,True
+376,África,Swazilandia,Salamanca,-47.9879755,-140.294492,True
+377,Asia,Malawi,Córdoba,38.778561,165.476718,False
+378,Europa,Irlanda,Ávila,15.081218,-154.038523,False
+379,Asia,Hungría,Huesca,-62.188894,159.578883,False
+380,Europa,Djibouti,Lleida,-86.988331,95.009688,False
+381,África,Alemania,Valladolid,-58.3271545,4.387291,False
+382,Europa,Indonesia,Guipúzcoa,-16.381249,31.173273,False
+383,América,Israel,Ciudad,-24.1719435,-63.667685,False
+384,Europa,Nauru,Córdoba,-21.160661,-149.966773,False
+385,América,Barbados,Ciudad,-30.5900585,18.651909,False
+386,Oceanía,Brunei Darussalam,La Coruña,-19.6424435,174.855904,False
+387,Oceanía,Kazajstán,Albacete,5.4044165,-7.849674,False
+388,América,Afganistán,Badajoz,-6.2357305,-144.051576,False
+389,África,Belarús,Cáceres,-9.0442785,95.333812,False
+390,Asia,Saint Kitts y Nevis,Valladolid,32.4765035,58.187584,False
+391,África,Congo,Ávila,-46.6227285,-167.208845,False
+392,Asia,Kazajstán,Valencia,17.921142,-158.838653,False
+393,Oceanía,Benin,Zamora,-62.7315375,104.770205,False
+394,Oceanía,Camboya,Alicante,83.354404,179.66645,False
+395,Oceanía,Brasil,Cáceres,-27.983216,-35.415992,False
+396,América,Croacia,Navarra,86.6251395,-147.661908,False
+397,Asia,Arabia Saudita,Palencia,32.813602,1.764241,False
+398,América,Kuwait,Cáceres,84.504199,36.026308,True
+399,Asia,Rumania,Tarragona,-50.410726,6.906054,False
+400,Asia,Gabón,Ceuta,64.776425,85.09015,False
+401,Asia,Angola,Albacete,2.5905885,-39.134144,False
+402,Europa,Portugal,Toledo,68.1892085,-142.356568,False
+403,Europa,Etiopía,Córdoba,-29.539282,39.054573,False
+404,Europa,Argelia,Álava,-79.1290995,-160.526298,False
+405,Oceanía,Suiza,Navarra,78.866008,28.985324,True
+406,Oceanía,Tailandia,Barcelona,64.533785,164.162154,False
+407,América,Suecia,Cádiz,80.4921105,32.569032,False
+408,África,Bahamas,Ávila,-86.23914,62.982875,False
+409,Europa,Seychelles,Zamora,-82.24788,-127.826641,True
+410,África,Argelia,Santa Cruz de Tenerife,4.750547,144.688681,True
+411,África,Eritrea,Lleida,-44.3264875,11.497266,True
+412,Europa,Malawi,Alicante,15.1130655,141.219355,False
+413,América,Albania,Álava,32.3806855,135.359797,False
+414,Europa,Suriname,Cuenca,-77.4393505,-10.266368,False
+415,Asia,Suriname,Lleida,-81.2687395,-127.364237,False
+416,Asia,Saint Kitts y Nevis,Pontevedra,51.94545,19.340494,False
+417,África,Maldivas,Asturias,65.512616,-134.24153,True
+418,África,Namibia,Alicante,-79.084726,75.269097,True
+419,África,Andorra,Cuenca,85.72772,158.357634,True
+420,Europa,República Checa,Asturias,72.959019,161.807468,False
+421,Asia,Samoa,Melilla,-62.361858,158.614648,False
+422,América,Granada,Sevilla,53.977674,47.475958,True
+423,América,Jamaica,Guadalajara,-3.194221,51.629155,True
+424,Asia,Tuvalu,Girona,-28.812894,121.965969,False
+425,Asia,Guinea Ecuatorial,Huesca,79.800217,-36.718666,True
+426,América,Palau,Córdoba,-39.4498405,100.959072,False
+427,América,Eslovaquia,Granada,10.8606345,142.482278,False
+428,Oceanía,Pakistán,Asturias,30.7037825,-22.803718,False
+429,América,Guinea Ecuatorial,Guipúzcoa,19.4078265,159.934849,False
+430,Oceanía,Timor-Leste,Vizcaya,17.695244,-172.118138,False
+431,Asia,Croacia,Pontevedra,-31.5533195,148.344384,False
+432,África,Fiji,León,-60.7526755,107.82917,False
+433,Asia,Bolivia,Sevilla,-43.3148845,-32.792627,False
+434,Oceanía,Noruega,Navarra,-84.5630795,-161.807817,True
+435,Europa,Eritrea,Guipúzcoa,33.883423,14.498196,False
+436,Oceanía,República Checa,Sevilla,-9.216618,-4.323153,False
+437,Asia,Seychelles,Cáceres,18.3406465,138.615194,False
+438,Europa,Belarús,Álava,17.1573445,12.780337,False
+439,Asia,Etiopía,Salamanca,51.097978,-137.603436,False
+440,América,Madagascar,León,36.4690635,39.745082,True
+441,América,Belarús,Palencia,32.3269435,-75.394749,True
+442,América,Rumania,La Coruña,-16.492679,-40.025638,False
+443,América,El Salvador,Jaén,-72.389707,162.707653,True
+444,Asia,Panamá,Cuenca,-6.2693405,153.729679,False
+445,Asia,Estados Unidos de América,Sevilla,6.3146085,146.617242,False
+446,Asia,Sri Lanka,Jaén,45.189655,-162.404359,False
+447,Europa,Swazilandia,Las Palmas,-0.3286615,-95.050576,False
+448,Oceanía,Camerún,Navarra,78.475471,16.582186,False
+449,Europa,Sudán del Sur,Castellón,34.7310085,-101.478502,False
+450,América,Israel,Granada,-50.2090865,-21.998573,False
+451,Europa,Irán,Las Palmas,30.4872485,170.779175,False
+452,Asia,Paraguay,Ceuta,-85.8259515,-137.435323,False
+453,Asia,Singapur,Sevilla,69.178901,-96.123828,False
+454,Europa,República Árabe Siria,Málaga,-71.7496755,106.026614,False
+455,América,Túnez,Sevilla,-4.7756475,172.665305,True
+456,Asia,Madagascar,Granada,-76.125622,71.165827,False
+457,Europa,Saint Kitts y Nevis,Teruel,-44.3072445,-173.024309,False
+458,Oceanía,Etiopía,Navarra,-74.853378,12.136808,False
+459,Oceanía,Santo Tomé y Príncipe,Baleares,-50.2242555,59.385302,False
+460,Asia,República Checa,La Rioja,-29.941813,-99.502587,False
+461,Asia,Cuba,Girona,-74.985225,66.717577,False
+462,Europa,Djibouti,Navarra,-88.9575765,9.134456,False
+463,Oceanía,Islas Marshall,Valencia,-0.750233,-7.645294,False
+464,Oceanía,Turkmenistán,Barcelona,48.508859,52.075913,False
+465,África,India,Las Palmas,-21.1644965,68.745058,False
+466,África,Suecia,Valladolid,-77.9800365,159.413065,True
+467,África,Vietman,Ciudad,-36.8648235,-35.304272,True
+468,África,Ucrania,Huesca,70.964883,21.785195,True
+469,Europa,Sierra Leona,Teruel,53.3126865,60.784341,False
+470,África,Mali,Castellón,-55.833389,-132.409523,True
+471,África,México,Ciudad,-89.712882,118.909317,False
+472,África,Mali,Jaén,68.985603,-163.325388,True
+473,África,Gabón,Burgos,-57.530886,-25.411487,True
+474,Europa,Colombia,Pontevedra,-46.212933,-89.225648,False
+475,Europa,Mali,Navarra,52.9920025,22.32782,False
+476,América,Burkina Faso,Burgos,37.826081,-75.505831,False
+477,África,Ucrania,Palencia,-49.859409,-69.437466,True
+478,Oceanía,Japón,León,-51.7062315,84.889555,False
+479,Oceanía,Uganda,Córdoba,-56.7142575,-57.61346,False
+480,Europa,Francia,Cádiz,-31.7616275,27.435778,False
+481,América,Tailandia,Teruel,-43.512236,-45.527868,False
+482,Europa,San Marino,Castellón,22.7458875,18.468718,False
+483,Asia,Bélgica,Madrid,58.7822865,-144.282055,False
+484,Asia,Indonesia,Las Palmas,83.381575,23.767037,True
+485,Asia,Gabón,Cantabria,-46.6901365,-166.743931,False
+486,Oceanía,Togo,Ourense,-33.8716585,-153.15526,False
+487,Asia,México,Castellón,59.181871,-50.91528,False
+488,Europa,Santa Lucía,Granada,-19.5638455,114.619198,False
+489,Oceanía,Dominicana,Ceuta,-74.5720795,-52.864019,True
+490,Oceanía,Arabia Saudita,Zamora,-30.235142,-115.312348,False
+491,Europa,Eslovenia,Zaragoza,-9.160244,-25.378971,False
+492,Asia,Croacia,Cuenca,24.5104265,-74.860843,False
+493,África,República Federal Democrática de Nepal,Burgos,-61.2579935,-66.315656,False
+494,Asia,Armenia,Zaragoza,64.1610105,-167.501747,False
+495,Asia,Malasia,Barcelona,-16.486529,-111.941776,False
+496,América,Bangladesh,Asturias,-0.5032465,-101.75916,False
+497,Europa,República Federal Democrática de Nepal,Lugo,76.6419845,61.074439,True
+498,América,Bangladesh,Salamanca,11.5628385,-66.840172,False
+499,Europa,República Federal Democrática de Nepal,Segovia,-13.025413,57.208045,False
+500,Oceanía,Santo Tomé y Príncipe,Baleares,-8.8334645,-110.67628,False
+501,Europa,República Dominicana,Álava,-60.738896,1.286293,False
+502,Europa,Camerún,Soria,-22.6864495,53.690599,False
+503,América,Burundi,Lugo,-46.047752,-169.009177,False
+504,África,Bahamas,Ciudad,33.288874,-81.609309,False
+505,Asia,San Marino,Lleida,22.127982,171.491458,False
+506,Asia,Cuba,Granada,81.547584,150.316269,False
+507,Oceanía,Brasil,Cádiz,46.4560395,-83.093548,False
+508,América,Túnez,Asturias,-38.4972225,50.926782,False
+509,Europa,Islas Marshall,Valencia,-83.809128,-77.118539,True
+510,América,Mauritania,Guipúzcoa,-87.0698745,136.989842,True
+511,Oceanía,Rwanda,Cantabria,-18.3688425,-22.699721,False
+512,Oceanía,Chad,Badajoz,85.869234,-78.845264,False
+513,África,Tailandia,Baleares,22.5425055,116.122017,False
+514,Europa,Granada,Las Palmas,-9.3046325,82.495035,False
+515,América,Kuwait,Málaga,24.680073,-7.241333,True
+516,Europa,Sri Lanka,Huesca,4.626733,21.846237,False
+517,Oceanía,Estonia,Badajoz,71.4481565,168.987767,True
+518,África,Líbano,Navarra,40.7018945,-39.570958,False
+519,Oceanía,Belice,La Rioja,38.3877935,-42.923807,False
+520,Europa,Bangladesh,León,-34.409304,-93.159916,False
+521,Asia,Zimbabwe,Zamora,-89.782428,67.941639,False
+522,África,Trinidad y Tabago,Zaragoza,70.6631445,-103.109563,True
+523,África,Kazajstán,Murcia,-75.621232,-133.713591,True
+524,América,República Popular Democrática de Corea,Las Palmas,86.0359275,102.731709,True
+525,África,Barbados,Zaragoza,54.6823275,-156.118627,False
+526,África,Somalia,Santa Cruz de Tenerife,13.183363,68.995287,True
+527,África,Dinamarca,Cádiz,-12.5097425,142.125423,False
+528,Europa,República Democrática del Congo,Huelva,-25.9492005,-153.270323,False
+529,Oceanía,Nauru,La Rioja,73.0536845,-28.593203,False
+530,Asia,Uganda,Vizcaya,-25.9176485,-168.118453,False
+531,Oceanía,Antigua y Barbuda,Las Palmas,-48.2635615,30.742982,False
+532,Oceanía,Uzbekistán,Baleares,10.779241,-11.10747,False
+533,Asia,Swazilandia,Albacete,-88.159846,-124.472051,False
+534,América,Mongolia,Vizcaya,64.280868,162.475757,False
+535,África,Trinidad y Tabago,Valencia,49.23469,-169.49494,False
+536,África,Japón,Pontevedra,61.771801,123.523546,False
+537,Asia,Kazajstán,Guadalajara,-7.626224,-120.209444,False
+538,Oceanía,Dominicana,Jaén,-12.6571605,-24.868796,False
+539,Europa,Etiopía,Cáceres,80.34816,18.970435,False
+540,Oceanía,Qatar,Lleida,-47.7806005,-119.077131,False
+541,Oceanía,Santo Tomé y Príncipe,Jaén,-3.403376,-123.194691,False
+542,Asia,Papua Nueva Guinea,Badajoz,-17.5070615,-93.448382,False
+543,Oceanía,Indonesia,Valladolid,89.5243045,27.821285,True
+544,América,Burundi,La Coruña,-44.131961,130.564948,False
+545,América,Gabón,Ourense,-39.9087475,118.099462,False
+546,Oceanía,Togo,Alicante,-1.243174,153.025676,False
+547,África,Belice,Baleares,77.5747865,30.84118,True
+548,Europa,Alemania,Badajoz,20.5378785,-128.347882,False
+549,Europa,Jamaica,Álava,75.2171825,-35.151482,False
+550,Asia,Dinamarca,Cantabria,54.824758,-154.301614,False
+551,Oceanía,Camboya,Soria,67.729463,18.958771,False
+552,África,Bosnia y Herzegovina,Sevilla,-52.061744,148.370985,False
+553,Europa,Singapur,Córdoba,71.8634085,-76.11465,False
+554,Europa,Côte d'Ivoire,Almería,-82.4120485,115.648032,True
+555,Europa,Alemania,Albacete,46.0647425,-35.147986,False
+556,América,India,Almería,32.4182485,51.050983,False
+557,Oceanía,Andorra,Baleares,-57.718085,36.107365,False
+558,América,Suriname,Segovia,37.051242,39.741589,False
+559,Asia,Eslovaquia,Segovia,70.566643,130.431744,False
+560,Oceanía,Uruguay,Navarra,-55.66322,126.031592,False
+561,África,Bosnia y Herzegovina,Asturias,-31.914755,76.506363,False
+562,Asia,Azerbaiyán,Ciudad,-82.2094145,137.52973,False
+563,América,Federación de Rusia,Melilla,69.880841,47.082703,False
+564,Oceanía,Sudán,Albacete,-32.0318985,-125.435031,False
+565,Europa,San Vicente y las Granadinas,Ávila,-45.184652,-122.159695,False
+566,Asia,Islandia,Álava,-11.226174,-67.601284,False
+567,Europa,Albania,Álava,73.6306585,-41.172855,False
+568,Asia,Niger,Alicante,-69.8528455,-42.520427,True
+569,Europa,Kenya,Huesca,83.386684,66.069011,False
+570,Asia,Nigeria,Alicante,29.610049,-9.960587,False
+571,Oceanía,San Marino,Granada,11.338735,12.502281,False
+572,África,Túnez,Toledo,89.5160615,-80.376293,False
+573,África,Filipinas,La Coruña,-41.6701895,90.700243,False
+574,América,Uganda,Sevilla,-48.4120405,-158.320173,True
+575,Asia,Azerbaiyán,Huelva,17.2322395,145.170579,False
+576,Europa,Sudán del Sur,Guadalajara,-73.860319,-169.595501,False
+577,África,Senegal,León,84.0138675,123.407082,True
+578,América,Finlandia,Jaén,70.794629,134.667448,True
+579,Europa,Botswana,León,43.7262635,-86.452422,False
+580,África,Líbano,Huesca,-31.7789355,-70.263472,False
+581,América,Vietman,Huelva,50.750651,-165.513485,False
+582,Asia,Palau,Huesca,13.4533865,-44.453389,False
+583,América,Eslovenia,Tarragona,-0.5321365,-116.833092,False
+584,Oceanía,Micronesia,Teruel,88.982143,-100.717835,False
+585,África,Sierra Leona,Castellón,11.996672,80.28298,False
+586,Oceanía,Togo,Burgos,84.2092395,-14.376394,False
+587,África,Federación de Rusia,Guadalajara,30.5882725,-137.751231,False
+588,Asia,Suriname,Guipúzcoa,33.8081,100.893655,False
+589,Europa,Fiji,Navarra,-38.0788275,31.669843,False
+590,África,Chipre,Huelva,30.6673725,34.701669,True
+591,Asia,Lituania,Baleares,-62.194589,179.539387,False
+592,América,Georgia,Girona,44.2352175,-49.43408,False
+593,Asia,Myanmar,Guipúzcoa,88.7608065,-154.988993,True
+594,Europa,Bahrein,Vizcaya,-80.338768,-170.900303,False
+595,África,Alemania,Baleares,69.843877,-95.801233,False
+596,América,Comoras,Valencia,6.9027235,-13.957871,True
+597,Asia,Francia,La Rioja,-6.5141045,-35.255986,False
+598,Oceanía,Sudáfrica,Cáceres,32.977257,-9.784882,False
+599,Asia,Eslovaquia,Tarragona,-81.3391125,-9.942748,False
+600,Asia,Micronesia,Murcia,-85.7154,-8.887515,True
+601,África,Uruguay,León,51.0399575,-108.923422,False
+602,África,Liechtenstein,Zamora,46.2627535,55.170471,False
+603,Europa,Arabia Saudita,Ourense,-68.1079805,-114.166845,True
+604,Asia,Maldivas,Cuenca,62.753093,-24.987563,True
+605,África,Nauru,Palencia,82.2504405,-163.674944,True
+606,África,Bahrein,Cantabria,58.870119,-98.889648,True
+607,Asia,Nicaragua,Pontevedra,0.512105,126.438627,False
+608,Oceanía,Chipre,Lleida,50.827474,113.226239,False
+609,Oceanía,Filipinas,Valencia,-34.9871965,-114.056676,False
+610,África,Burkina Faso,Castellón,39.2254825,49.010331,False
+611,Oceanía,Egipto,Navarra,-61.571016,139.373409,True
+612,África,Palau,Girona,-0.480894,149.161921,False
+613,Oceanía,Brasil,Ciudad,63.4283305,-122.734383,False
+614,Europa,Emiratos Árabes Unidos,Soria,22.986969,-28.060168,False
+615,Europa,Sudáfrica,Melilla,-58.476231,83.061151,False
+616,África,Eslovenia,Alicante,-79.857786,134.600049,False
+617,Oceanía,Chipre,Badajoz,-78.2358705,74.590658,True
+618,Europa,Islas Marshall,Lugo,-52.7011485,-91.452497,False
+619,Europa,Iraq,Córdoba,-76.1064325,148.613526,False
+620,Asia,Mongolia,Cuenca,6.6700025,147.080992,False
+621,Asia,Yemen,Las Palmas,-62.820234,143.409758,False
+622,Asia,Mozambique,Guipúzcoa,-10.854895,-52.070205,False
+623,Europa,Mozambique,Teruel,-26.2555555,127.698825,False
+624,Asia,Montenegro,Álava,-22.634406,155.824996,False
+625,América,Jordania,Albacete,27.7283535,-158.072771,False
+626,Oceanía,Grecia,Burgos,-33.640869,-129.84424,False
+627,África,Uzbekistán,Girona,-29.368865,-79.890059,False
+628,Oceanía,Timor-Leste,Huesca,44.6253175,93.136825,False
+629,Oceanía,Gambia,Salamanca,46.010452,128.067193,False
+630,América,Belice,Castellón,-18.941486,-141.150561,False
+631,Europa,San Marino,Palencia,78.9212005,-28.10335,False
+632,América,Grecia,Madrid,-37.388178,41.183359,False
+633,África,Paraguay,Navarra,36.7274695,153.183682,False
+634,Europa,Bélgica,Asturias,-56.7235845,-91.579478,False
+635,América,Túnez,Sevilla,6.478218,87.682148,False
+636,Europa,Georgia,Ávila,37.94508,171.647776,False
+637,Oceanía,Kenya,Murcia,57.9806035,69.23244,False
+638,África,Etiopía,Murcia,-82.6814535,-174.027977,False
+639,Europa,Letonia,Navarra,20.288766,144.559093,False
+640,Oceanía,Nueva Zelandia,Las Palmas,-82.19276,-64.415608,True
+641,Oceanía,Kiribati,Jaén,58.4628855,-88.03509,False
+642,América,Federación de Rusia,Las Palmas,27.565001,179.719964,False
+643,Asia,Nauru,Melilla,82.24961,177.962983,True
+644,América,Santa Lucía,Córdoba,-48.8630565,-142.429987,True
+645,África,Azerbaiyán,Valencia,-89.326404,-160.133097,False
+646,Asia,Ucrania,Cuenca,-86.6770045,-23.120886,True
+647,América,Suriname,Castellón,43.189861,-0.85811,False
+648,Asia,México,Navarra,-34.5001205,-117.165176,False
+649,Europa,Estonia,Soria,20.2901485,120.940067,False
+650,Europa,Panamá,Soria,31.1152185,111.315475,False
+651,América,Cuba,Sevilla,59.051868,-107.109856,False
+652,América,San Vicente y las Granadinas,Madrid,-45.2059445,-147.339777,True
+653,África,Japón,Soria,48.80165,-28.022564,False
+654,América,Perú,Segovia,76.771996,70.230066,True
+655,Asia,Comoras,Teruel,-25.272569,-70.980334,False
+656,Asia,Armenia,Asturias,72.950599,-168.494341,True
+657,África,China,Zamora,-74.4796435,23.549725,True
+658,América,Uzbekistán,Castellón,89.9191165,-95.232626,True
+659,Europa,México,Melilla,-79.9773,174.886363,False
+660,Europa,Honduras,Granada,85.508808,-10.829525,False
+661,Europa,Argentina,Toledo,16.5573875,-153.901781,False
+662,Oceanía,Uganda,La Coruña,-23.2193635,82.914508,False
+663,Europa,Sudáfrica,Huesca,-31.841737,-17.809284,False
+664,América,Burkina Faso,Córdoba,-28.5336685,149.62601,True
+665,Europa,Omán,Cuenca,-10.4283185,-69.734961,False
+666,América,Kirguistán,Madrid,-15.171025,98.08843,False
+667,África,Sierra Leona,Baleares,17.422747,-99.932428,True
+668,Oceanía,Brasil,Burgos,-82.0149675,-38.301645,False
+669,Oceanía,España,Albacete,46.388101,152.080772,False
+670,África,Chipre,Cáceres,8.848427,6.428622,True
+671,Asia,Nauru,Sevilla,58.785461,-121.96213,False
+672,África,Canadá,León,67.3136025,-80.323074,False
+673,América,Congo,Soria,51.260312,-145.119876,False
+674,Europa,Djibouti,Ciudad,-72.8953495,22.39742,False
+675,Oceanía,Granada,Barcelona,69.485311,158.807468,True
+676,África,Suriname,Murcia,-23.8729945,-174.679122,True
+677,América,Ecuador,Valencia,11.160361,6.610349,True
+678,América,Bosnia y Herzegovina,Melilla,-30.8374595,-22.847487,False
+679,África,Gambia,Baleares,47.183714,157.852652,False
+680,Asia,Comoras,Murcia,27.569822,-169.914272,False
+681,Europa,Croacia,Málaga,16.3920415,-66.721961,False
+682,Asia,Liberia,Toledo,41.680015,-160.18089,False
+683,África,Arabia Saudita,Asturias,-54.941519,-10.75067,False
+684,Europa,Nicaragua,Cáceres,-12.741648,74.929292,False
+685,Europa,Marruecos,Toledo,41.9780555,-103.499608,False
+686,Asia,España,Badajoz,-42.0875255,27.206053,False
+687,América,Mali,La Rioja,-38.0264915,-98.209192,False
+688,América,Myanmar,León,-41.038391,120.517811,False
+689,África,Islandia,Valencia,-53.009708,56.760349,False
+690,América,Antigua y Barbuda,Valladolid,-45.905049,-98.185288,True
+691,Oceanía,Suiza,Lleida,-67.057272,-30.251805,False
+692,Oceanía,Malasia,Teruel,76.433858,111.380633,False
+693,África,Bolivia,Lleida,-78.1128685,82.430364,False
+694,Oceanía,Uruguay,Cáceres,9.933315,-84.904331,False
+695,Oceanía,Mongolia,Asturias,-88.2412075,167.596687,False
+696,Oceanía,República Centroafricana,Santa Cruz de Tenerife,-82.7169575,-101.266141,False
+697,Europa,Argentina,Tarragona,86.2937665,-148.120155,True
+698,Asia,Japón,Guadalajara,46.9583375,58.556893,False
+699,Europa,Perú,La Rioja,-87.442179,18.93642,True
+700,Europa,Arabia Saudita,Valencia,80.5983125,-105.243458,False
+701,África,Montenegro,Álava,1.3541985,-139.68626,False
+702,África,Guinea,Almería,49.089289,-5.113283,False
+703,África,Niger,Murcia,-72.67511,-118.176115,True
+704,Europa,Cabo Verde,Ceuta,-34.1764425,-147.938955,False
+705,América,Honduras,Tarragona,52.6913765,53.005144,False
+706,África,Costa Rica,Albacete,-80.9491585,-119.478411,True
+707,América,Bulgaria,Ourense,14.5096735,-33.202545,True
+708,Oceanía,Maldivas,Salamanca,-66.439314,-9.110776,False
+709,América,San Marino,Sevilla,79.182108,37.249632,True
+710,Oceanía,Cuba,Cantabria,73.111619,131.587012,False
+711,África,Palau,Segovia,83.7222705,115.709879,True
+712,América,Bosnia y Herzegovina,Zamora,-46.66219,61.726227,True
+713,Europa,Angola,Palencia,36.1685715,152.023915,False
+714,América,Sierra Leona,Albacete,-42.199345,-18.074409,True
+715,América,Kirguistán,Ourense,28.9343255,-125.212119,False
+716,Europa,Turkmenistán,Murcia,-88.67066,-16.924329,False
+717,África,Venezuela,Navarra,39.9975365,-112.044808,True
+718,África,Islandia,Burgos,12.1067,-54.55985,False
+719,Asia,Austria,Valladolid,14.4651835,-158.92017,False
+720,África,Venezuela,Cáceres,-59.437169,-150.650381,False
+721,Asia,Austria,Asturias,-75.637275,166.094161,False
+722,Asia,Reino Unido de Gran Bretaña e Irlanda del Norte,Huelva,75.5484495,-30.97388,False
+723,Europa,Panamá,Zaragoza,39.8179545,-91.571253,False
+724,Asia,Marruecos,Málaga,88.903249,127.89326,True
+725,Oceanía,Ghana,Jaén,0.058421,-17.328044,False
+726,África,Albania,Santa Cruz de Tenerife,80.353601,-14.888814,True
+727,Asia,Italia,Las Palmas,-48.915644,82.549304,False
+728,África,Jordania,Salamanca,23.9519615,-43.211026,False
+729,Oceanía,Haití,Zamora,-12.3996225,-136.336265,False
+730,Oceanía,Lituania,Cantabria,-3.4017415,124.643488,False
+731,Asia,Afganistán,Navarra,-45.2788505,52.470518,False
+732,Asia,Israel,Córdoba,83.608094,-129.816629,True
+733,América,Montenegro,Baleares,-2.6342105,-36.402396,True
+734,América,Palau,Navarra,-81.715001,-133.804961,False
+735,Europa,Myanmar,Soria,-20.3449545,-101.521628,False
+736,Europa,Costa Rica,León,29.44572,-31.608464,False
+737,América,Malasia,Ourense,-59.857599,-113.851778,True
+738,Europa,Trinidad y Tabago,Málaga,-24.561166,62.767361,False
+739,África,Madagascar,Granada,85.748561,-112.566146,True
+740,Oceanía,Emiratos Árabes Unidos,Cádiz,39.2361545,50.010954,False
+741,Oceanía,Guinea,Valladolid,61.3643865,-28.535898,False
+742,América,Sri Lanka,Zamora,1.490632,-170.73629,False
+743,América,Alemania,Guipúzcoa,-42.960768,-82.318871,False
+744,Oceanía,Armenia,Tarragona,-61.702562,86.402055,False
+745,África,Guyana,La Coruña,-78.5497585,-70.356708,False
+746,América,Marruecos,Lugo,12.0220225,140.957016,True
+747,Asia,Seychelles,Zaragoza,-16.8935525,18.770153,False
+748,Asia,Israel,Málaga,61.993207,65.40163,False
+749,Oceanía,Francia,Pontevedra,4.590821,92.643332,False
+750,Oceanía,Nueva Zelandia,Soria,1.584448,-4.481662,False
+751,América,Togo,Cantabria,0.1639885,-114.412392,True
+752,Europa,Chad,Segovia,-79.451205,129.976606,False
+753,Europa,Papua Nueva Guinea,Alicante,-18.933704,-139.307278,False
+754,Asia,Nicaragua,Córdoba,14.159911,-46.788131,False
+755,Oceanía,Países Bajos,Cáceres,-77.5557155,-78.942295,False
+756,Asia,Mónaco,Ávila,-17.214203,-160.39613,False
+757,América,República de Macedonia del Norte,Palencia,57.000458,-122.132488,False
+758,África,Brunei Darussalam,Guadalajara,56.3678745,95.889976,False
+759,Europa,Barbados,Barcelona,-50.465586,-106.561472,False
+760,Asia,Venezuela,Sevilla,-79.843174,118.148903,False
+761,América,Djibouti,Málaga,-73.8536655,-12.956695,True
+762,África,Israel,Salamanca,-25.391015,-8.356139,True
+763,Oceanía,Malawi,Lleida,-34.2445135,-29.15749,False
+764,América,Islas Marshall,Teruel,59.9849675,86.025926,False
+765,América,Montenegro,Vizcaya,46.598914,-31.003537,False
+766,América,Bhután,Cádiz,31.391497,53.695852,False
+767,Asia,Argelia,Guipúzcoa,77.92116,141.679315,True
+768,Asia,Malta,Ourense,-74.7040395,-137.985315,False
+769,Asia,Turquía,Burgos,33.7306635,-154.143943,False
+770,América,Dinamarca,Lugo,-48.48044,169.80682,False
+771,África,Luxemburgo,Zamora,18.2558265,-82.230004,True
+772,África,Panamá,Álava,62.2732925,-137.484484,True
+773,Asia,Kirguistán,Badajoz,16.6585815,-43.566037,False
+774,Europa,Nigeria,Santa Cruz de Tenerife,-24.8059985,80.383743,False
+775,América,Mongolia,Las Palmas,78.805561,-73.706093,True
+776,Asia,Emiratos Árabes Unidos,La Rioja,-88.026612,110.936833,False
+777,Europa,Jordania,Soria,-4.853978,-144.695069,False
+778,Europa,Turquía,Ceuta,9.62251,24.126867,False
+779,África,Nigeria,Teruel,-34.1758345,167.99843,True
+780,Europa,Papua Nueva Guinea,Burgos,17.80849,37.884818,False
+781,Europa,Mónaco,Ceuta,-59.9162645,131.57357,False
+782,Oceanía,Sudáfrica,Ávila,-76.761151,117.983711,False
+783,África,Belarús,Granada,-57.9979665,21.59546,False
+784,América,Rumania,Vizcaya,-57.006735,29.699123,False
+785,Europa,Côte d'Ivoire,Albacete,41.276365,-132.652017,False
+786,Europa,Etiopía,Las Palmas,-83.777874,-68.939774,False
+787,África,Suriname,Baleares,66.4098855,46.891203,False
+788,África,Azerbaiyán,Cuenca,12.146406,-101.177869,False
+789,Europa,Eritrea,Badajoz,89.0508755,108.825514,False
+790,África,Brasil,Murcia,-53.2218485,50.461021,True
+791,África,Japón,Ceuta,-35.0138695,147.100477,False
+792,África,Botswana,Málaga,-85.953325,13.096509,True
+793,África,Omán,Guadalajara,-83.112844,13.015369,True
+794,África,Uruguay,Lugo,41.416907,-55.535397,False
+795,América,Niger,Melilla,22.9844825,99.046348,True
+796,África,Mónaco,Ávila,58.632737,104.20186,False
+797,Asia,Albania,Girona,86.263943,56.654988,False
+798,Oceanía,Australia,Madrid,46.7212635,-109.669007,False
+799,Asia,Iraq,Las Palmas,44.0798625,21.562714,False
+800,Europa,Serbia,Badajoz,57.1220885,21.670568,False

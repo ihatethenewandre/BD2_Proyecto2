@@ -1,4 +1,4 @@
-id,monto,fecha,hora,es_fraudulenta
+id:ID,monto,fecha,hora,es_fraudulenta
 1,2364.54,2024-09-17,13:34:38,False
 2,4388.85,2025-03-07,05:58:34,False
 3,3508.38,2024-09-09,23:27:56,False

@@ -1,4 +1,4 @@
-id,nombre,categoria,tipo,horario_operacion,riesgo
+id:ID,nombre,categoria,tipo,horario_operacion,riesgo
 1,"Ray, Simon and Rivera Market",supermercado,online,"[('19:00:00', '23:00:00')]",True
 2,Merritt PLC Restaurant,restaurante,fisico,"[('12:00:00', '15:00:00'), ('20:00:00', '23:00:00')]",True
 3,Kim Ltd,entretenimiento,online,"[('00:00:00', '23:59:59')]",False

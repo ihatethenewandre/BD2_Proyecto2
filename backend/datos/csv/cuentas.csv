@@ -1,4 +1,4 @@
-id,saldo,fecha_creacion,estado,promedio_uso,horario_promedio_uso
+id:ID,saldo,fecha_creacion,estado,promedio_uso,horario_promedio_uso
 1,20689.52,2020-03-06,True,2585.94,"[('17:00:00', '21:00:00'), ('10:00:00', '11:00:00')]"
 2,26446.53,2026-01-01,True,3101.78,"[('12:00:00', '13:00:00'), ('02:00:00', '10:00:00'), ('13:00:00', '20:00:00')]"
 3,30810.7,2018-09-11,False,2480.34,"[('21:00:00', '22:00:00')]"

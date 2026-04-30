@@ -1,4 +1,4 @@
-id,tipo,ip,sistema_operativo,confiable,precio
+id:ID,tipo,ip,sistema_operativo,confiable,precio
 1,tablet,132.125.186.158,Android,True,871.3
 2,computadora,87.109.88.74,Windows,True,2872.41
 3,computadora,23.250.255.90,Linux,True,2528.41

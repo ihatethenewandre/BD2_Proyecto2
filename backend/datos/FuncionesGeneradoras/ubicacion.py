@@ -3,6 +3,10 @@ from faker import Faker
 import random
 import csv
 
+from faker import Faker
+import random
+import csv
+
 def generar_ubicaciones_csv(n, filename="backend/datos/csv/ubicaciones.csv"):
     fake = Faker('es_ES')
     
@@ -14,11 +18,11 @@ def generar_ubicaciones_csv(n, filename="backend/datos/csv/ubicaciones.csv"):
         writer = csv.writer(file)
         
         writer.writerow([
-            "continente", "pais", "ciudad",
+            "id", "continente", "pais", "ciudad",
             "latitud", "longitud", "zona_riesgo"
         ])
         
-        for _ in range(n):
+        for i in range(1, n + 1):  # 👈 FIX
             pais = fake.country()
             ciudad = fake.city()
             latitud = float(fake.latitude())
@@ -28,15 +32,14 @@ def generar_ubicaciones_csv(n, filename="backend/datos/csv/ubicaciones.csv"):
             # 🧠 Lógica de riesgo
             zona_riesgo = False
             
-            # Regla simple (puedes mejorarla luego)
             if continente in ["África", "América"] and random.random() < 0.3:
                 zona_riesgo = True
             
-            # Coordenadas "raras" (muy alejadas) → más sospechosas
             if abs(latitud) > 60 and random.random() < 0.4:
                 zona_riesgo = True
             
             writer.writerow([
+                i,  # 👈 ID único
                 continente,
                 pais,
                 ciudad,

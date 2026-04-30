@@ -1,4 +1,4 @@
-id,nombre,fecha_nacimiento,riesgo,sueldo,empleo
+id:ID,nombre,fecha_nacimiento,riesgo,sueldo,empleo
 1,Aura Alvarado,1953-07-31,0.04,6572.34,Gestor de aduana
 2,Miguela Monreal Solera,1983-12-27,0.34,16255.46,Operador de grúas y aparatos elevadores
 3,Berta Hernández-Cruz,1985-03-11,0.29,17987.99,Técnico en ciencias físicas y químicas

@@ -5,7 +5,7 @@ import csv
 def generar_relaciones_cliente_cuenta(
     n_clientes=1000,
     n_cuentas=1400,
-    filename="backend/datos/csv/cliente_cuenta.csv"
+    filename="backend/datos/csv/Rcliente_cuenta.csv"
 ):
     fake = Faker()
 

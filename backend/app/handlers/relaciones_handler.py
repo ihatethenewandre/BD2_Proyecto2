@@ -3,6 +3,9 @@ from app.db import db
 from pydantic import BaseModel
 from typing import Dict, Any, Optional
 from datetime import datetime
+from app.forest import fraud_ai
+from app.handlers.cliente_handler import ClientesHandler
+from app.handlers.comercio_handler import ComerciosHandler
 
 router = APIRouter(prefix="/relaciones", tags=["Relaciones"])
 
@@ -48,7 +51,6 @@ class RelacionesHandler:
             es_fraudulenta: $es_fraudulenta
         })
         
-        # Usamos los nombres y props exactas de tu tabla de relaciones
         CREATE (cu)-[:REALIZA {
             fecha: datetime($fecha_trans), 
             canal: $canal, 
@@ -80,7 +82,7 @@ class RelacionesHandler:
     @staticmethod
     def bulk_remove_rel_prop(tipo_rel: str, prop: str):
         query = f"MATCH ()-[r:{tipo_rel}]->() REMOVE r.{prop} RETURN count(r) as total"
-        return db.run_write(query)
+        return db.run_write(query, {})
 
 # --- ENDPOINTS ---
 
@@ -117,9 +119,17 @@ def vincular_nodos(tipo_relacion: str, data: RelacionRequest):
 
 @router.post("/flujo-transaccion-completa")
 def flujo_completo(
-    t_id: int, cuenta_id: int, comercio_id: int, dispositivo_id: int,
+    t_id: int, cliente_id: int, cuenta_id: int, comercio_id: int, dispositivo_id: int,
     monto: float, canal: str, metodo: str, presencial: bool, ip: str
 ):
+    cliente = ClientesHandler.get_by_id(cliente_id)
+    comercio = ComerciosHandler.get_by_id(comercio_id)
+
+    riesgo_c = cliente['riesgo'] if cliente else 0.5
+    riesgo_m = 1 if (comercio and comercio['riesgo']) else 0
+
+    es_fraude_ia = fraud_ai.predict(monto, riesgo_c, riesgo_m)
+
     #Frontend debe enviar fecha en formato ISO (2026-05-02T21:30:00Z)
     payload = {
         "t_id": t_id, "cuenta_id": cuenta_id, "comercio_id": comercio_id,
@@ -128,7 +138,8 @@ def flujo_completo(
         "hora": datetime.now().strftime("%H:%M:%S"),
         "es_fraudulenta": False,
         "canal": canal, "autenticado": True, "metodo": metodo, 
-        "presencial": presencial, "ip": ip, "auth_fuerte": True
+        "presencial": presencial, "ip": ip, "auth_fuerte": True,
+        "fraude_randomforest": es_fraude_ia
     }
     return RelacionesHandler.registrar_flujo_fraude(payload)
 

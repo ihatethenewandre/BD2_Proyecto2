@@ -2,6 +2,7 @@ import os
 from contextlib import asynccontextmanager
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
+from app.forest import fraud_ai
 
 from app.db import db
 
@@ -18,6 +19,8 @@ from app.handlers.relaciones_handler import router as relaciones_router
 @asynccontextmanager
 async def lifespan(app: FastAPI):
     db.connect()
+    print("Iniciando entrenamiento de IA...", flush=True)
+    fraud_ai.train_from_csv()
     yield
     db.close()
 
@@ -68,3 +71,10 @@ def health():
         }
     except Exception as e:
         raise HTTPException(status_code=503, detail=f"Neo4j No Responde: {e}")
+    
+@app.get("/test-ia")
+def test_ia():
+    return {
+        "entrenado": fraud_ai.is_trained,
+        "modelo_path_existe": os.path.exists("fraud_model.pkl")
+    }

@@ -1,10 +1,10 @@
 from pydantic import BaseModel
-from datetime import date
+from datetime import date, datetime
 from typing import Optional
 
 class ClienteBase(BaseModel):
     nombre: str
-    fecha_nacimiento: date
+    fecha_nacimiento: datetime
     riesgo: float
     sueldo: float
     empleo: str

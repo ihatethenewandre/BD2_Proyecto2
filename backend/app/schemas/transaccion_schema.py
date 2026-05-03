@@ -1,11 +1,11 @@
 from pydantic import BaseModel
-from datetime import date, time
+from datetime import date, time, datetime
 from typing import Optional
 
 class TransaccionBase(BaseModel):
     monto: float
-    fecha: date
-    hora: time
+    fecha: datetime
+    hora: str
     es_fraudulenta: bool
 
 class TransaccionCreate(TransaccionBase):

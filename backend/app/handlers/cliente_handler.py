@@ -2,6 +2,7 @@ from fastapi import APIRouter, HTTPException
 from app.db import db
 from app.schemas.cliente_schema import ClienteCreate, ClienteUpdate
 from typing import List
+from datetime import datetime
 
 router = APIRouter(prefix="/clientes", tags=["Clientes"])
 
@@ -12,7 +13,7 @@ class ClientesHandler:
         CREATE (c:Cliente {
             id: $id, 
             nombre: $nombre, 
-            fecha_nacimiento: date($fecha_nacimiento), 
+            fecha_nacimiento: datetime($fecha_nacimiento), 
             riesgo: $riesgo, 
             sueldo: $sueldo, 
             empleo: $empleo
@@ -52,6 +53,43 @@ class ClientesHandler:
 
 
 
+    #requisitos adicionales de rúbrica 
+    @staticmethod
+    def promote_to_premium_suspect(cliente_id: int):
+        """
+        Punto: Creación de nodos con 2+ labels (via SET/MERGE)
+        Añade labels adicionales a un nodo existente.
+        """
+        query = """
+        MATCH (c:Cliente {id: $id})
+        SET c:Sospechoso:Alarmante
+        RETURN labels(c) as etiquetas, c.nombre as nombre
+        """
+        return db.run_write(query, {"id": cliente_id})
+
+    @staticmethod
+    def get_stats():
+        """
+        Punto: Realizar consultas agregadas de datos
+        """
+        query = """
+        MATCH (c:Cliente)
+        RETURN 
+            count(c) as total_clientes, 
+            avg(c.sueldo) as sueldo_promedio, 
+            max(c.riesgo) as riesgo_maximo
+        """
+        return db.run_query(query)
+
+    @staticmethod
+    def remove_node_property(cliente_id: int, prop_name: str):
+        """Punto: Eliminar propiedad de un nodo"""
+        query = f"MATCH (c:Cliente {{id: $id}}) REMOVE c.{prop_name} RETURN c"
+        result = db.run_write(query, {"id": cliente_id})
+        return result["records"][0] if result["records"] else None
+
+
+
 
 # --- ENDPOINTS (Rutas de FastAPI) ---
 
@@ -80,3 +118,18 @@ def actualizar_cliente(cliente_id: int, cliente: ClienteUpdate):
 @router.delete("/{cliente_id}")
 def eliminar_cliente(cliente_id: int):
     return ClientesHandler.delete(cliente_id)
+
+##adicionales, de rubrica
+
+
+@router.put("/nivelAlerta/{cliente_id}")
+def colocar_alerta(cliente_id:int):
+    return ClientesHandler.promote_to_premium_suspect(cliente_id=cliente_id)
+
+@router.get("/stats/resumen")
+def estadisticas_clientes():
+    return ClientesHandler.get_stats()
+
+@router.delete("/{cliente_id}/propiedad/{prop_name}")
+def eliminar_prop_nodo(cliente_id: int, prop_name: str): 
+    return ClientesHandler.remove_node_property(cliente_id, prop_name)

@@ -1,10 +1,10 @@
 from pydantic import BaseModel
-from datetime import date
+from datetime import date, datetime
 from typing import Optional
 
 class CuentaBase(BaseModel):
     saldo: float
-    fecha_creacion: date
+    fecha_creacion: datetime
     estado: bool  # True para Activa, False para Inactiva/Bloqueada
     promedio_uso: float
     horario_promedio_uso: str

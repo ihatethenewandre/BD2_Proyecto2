@@ -11,6 +11,7 @@ from app.handlers.cuenta_handler import router as cuenta_router
 from app.handlers.dispositivo_handler import router as dispositivo_router
 from app.handlers.ubicacion_handler import router as ubicacion_router
 from app.handlers.transaccion_handler import router as transacciones_router
+from app.handlers.relaciones_handler import router as relaciones_router
 
 
 
@@ -44,6 +45,7 @@ app.include_router(cuenta_router)
 app.include_router(dispositivo_router)
 app.include_router(ubicacion_router)
 app.include_router(transacciones_router)
+app.include_router(relaciones_router)
 
 
 

@@ -48,8 +48,18 @@ class ComerciosHandler:
         query = "MATCH (c:Comercio {id: $id}) DETACH DELETE c"
         return db.run_write(query, {"id": comercio_id})
 
+    @staticmethod
+    def bulk_add_prop(categoria: str, prop: str, valor: str):
+        """Punto: Agregar/Actualizar propiedad a múltiples nodos"""
+        query = f"MATCH (c:Comercio {{categoria: $cat}}) SET c.{prop} = $val RETURN count(c) as total"
+        return db.run_write(query, {"cat": categoria, "val": valor})
 
-
+    @staticmethod
+    def bulk_remove_prop(categoria: str, prop: str):
+        """Punto: Eliminar propiedad de múltiples nodos"""
+        query = f"MATCH (c:Comercio {{categoria: $cat}}) REMOVE c.{prop} RETURN count(c) as total"
+        return db.run_write(query, {"cat": categoria})
+    
 
 
 # --- ENDPOINTS ---
@@ -79,3 +89,11 @@ def actualizar_comercio(comercio_id: int, comercio: ComercioUpdate):
 @router.delete("/{comercio_id}")
 def eliminar_comercio(comercio_id: int):
     return ComerciosHandler.delete(comercio_id)
+
+@router.put("/masivo/propiedad")
+def agregar_prop_masivo(categoria: str, propiedad: str, valor: str):
+    return ComerciosHandler.bulk_add_prop(categoria, propiedad, valor)
+
+@router.delete("/masivo/propiedad")
+def eliminar_prop_masiva(categoria: str, propiedad: str):
+    return ComerciosHandler.bulk_remove_prop(categoria, propiedad)

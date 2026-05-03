@@ -54,8 +54,7 @@ class Neo4jClient:
 
     def run_query(self, cypher: str, params: dict[str, Any] | None = None) -> list[dict]:
         with self.session() as session:
-            result: Result = session.run(cypher, params or {})
-            return [record.data() for record in result]
+            return session.execute_read(lambda tx: [record.data() for record in tx.run(cypher, params or {})])
 
     def run_write(self, cypher: str, params: dict[str, Any] | None = None) -> dict:
         with self.session() as session:

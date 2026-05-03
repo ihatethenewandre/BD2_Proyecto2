@@ -5,6 +5,14 @@ from fastapi.middleware.cors import CORSMiddleware
 
 from app.db import db
 
+from app.handlers.cliente_handler import router as clientes_router
+from app.handlers.comercio_handler import router as comercios_router
+from app.handlers.cuenta_handler import router as cuenta_router
+from app.handlers.dispositivo_handler import router as dispositivo_router
+from app.handlers.ubicacion_handler import router as ubicacion_router
+from app.handlers.transaccion_handler import router as transacciones_router
+
+
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
@@ -28,6 +36,15 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
+
+app.include_router(clientes_router)
+app.include_router(comercios_router)
+app.include_router(cuenta_router)
+app.include_router(dispositivo_router)
+app.include_router(ubicacion_router)
+app.include_router(transacciones_router)
+
 
 
 @app.get("/")
